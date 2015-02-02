@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>South West Museums</title>
+    <style type="text/css" media="all">
+        @import "static/main.css";
+        @import "static/forms.css";
+    </style>
+</head>
+<body>
+    <div id="content">
+        <form id="verticalForm" action="benchOutput.htm">
+        <h1>
+            Bude-Stratton Museum</h1>
+        <fieldset>
+            <legend>Visitors</legend>
+            <label for="visitorNumber">
+                Vistors per year
+                <input id="visitorNumber" name="visitorNumber" type="text" value="3456" />
+            </label>
+            <label for="visitorSchools">
+                School visits per year
+                <input id="visitorSchool" name="visitorSchool" type="text" value="33" />
+            </label>
+            <label for="visitorFee">
+                Average admission fee £
+                <input id="visitorFee" name="visitorFee" type="text" value="4" />
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Income</legend>
+            <label for="incomeDonations">
+                Donations £
+                <input id="incomeDonations" name="incomeDonations" type="text" value="2000" />
+            </label>
+            <label for="incomeLocalAuthority">
+                Local Authority Grants £
+                <input id="incomeLocalAuthority" name="incomeLocalAuthority" type="text" value="2000" />
+            </label>
+            <label for="incomeGiftsOfKind">
+                Gifts of Kind £
+                <input id="incomeGiftsOfKind" name="incomeGiftsOfKind" type="text" value="2000" />
+            </label>
+            <label for="incomeInvestment">
+                Investment £
+                <input id="incomeInvestment" name="incomeInvestment" type="text" value="2000" />
+            </label>
+            <label for="incomeAdmissions">
+                Admissions £
+                <input id="incomeAdmissions" name="incomeAdmissions" type="text" value="2000" />
+            </label>
+            <label for="incomeOther">
+                Other Grants £
+                <input id="incomeOther" name="incomeOther" type="text" value="2000" />
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Costs</legend>
+            <label for="costsVoluntary">
+                Voluntary £
+                <input id="costsVoluntary" name="costsVoluntary" type="text" value="2000" />
+            </label>
+            <label for="costsTrading">
+                Trading £
+                <input id="costsTrading" name="costsTrading" type="text" value="2000" />
+            </label>
+            <label for="costsCharitable">
+                Charitable £
+                <input id="costsCharitable" name="costsCharitable" type="text" value="2000" />
+            </label>
+            <label for="costsGovernance">
+                Governance £
+                <input id="costsGovernance" name="costsGovernance" type="text" value="2000" />
+            </label>
+        </fieldset>
+        <input class="submit" type="submit" value="Update my record and show comparison" />
+        </form>
+    </div>
+</body>
+</html>

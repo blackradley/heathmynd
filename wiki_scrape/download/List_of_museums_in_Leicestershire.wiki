@@ -1,0 +1,162 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.17wmf1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of museums in Leicestershire</title>
+    <id>26610828</id>
+    <revision>
+      <id>407529720</id>
+      <timestamp>2011-01-12T20:23:54Z</timestamp>
+      <contributor>
+        <username>Explicit</username>
+        <id>4842600</id>
+      </contributor>
+      <comment>Removed deleted file.</comment>
+      <text xml:space="preserve" bytes="10544">{{Commonscat|Museums in Leicestershire}}
+This '''list of museums in [[Leicestershire]], [[England]]''' contains [[museum]]s which are defined for this context as institutions (including [[nonprofit organization]]s, government entities, and private [[business]]es) that collect and care for objects of cultural, artistic, scientific, or historical interest and make their collections or related exhibits available for public viewing. Also included are non-profit art galleries and university art galleries.  Museums that exist only in cyberspace (i.e., [[virtual museum]]s) are not included.  
+&lt;!-- Note: Please do not post websites for museums with existing Wikipedia articles, but please do verify that the existing article has the correct website. In this way, if the website changes, only the main article needs to be updated. --&gt;
+
+To use the sortable table, click on the icons at the top of each column to sort that column in alphabetical order; click again for reverse alphabetical order.
+
+{| class=&quot;wikitable sortable&quot; 
+!| Name
+!| Image
+!| Town/City
+!| Type
+!| Summary
+|-
+| [[Abbey Pumping Station]] || [[File:Abbey Pumping station.JPG|125px]] || [[Leicester]]  || Technology  || Victorian sewage pumping station with beam engines
+|-
+| [[Ashby de la Zouch Museum]] ||  || [[Ashby-de-la-Zouch]]  || Local  || [http://www.ashbydelazouchmuseum.org.uk/ website], local history, culture
+|-
+| [[Belgrave Hall]] || [[File:Belgrave Hall Museum - geograph.org.uk - 70266.jpg|125px]] || [[Belgrave, Leicestershire|Belgrave]]  || Historic house  || Victorian period house showing the contrasting lifestyles of an upper middle class family and domestic servants 
+|-
+| [[Belvoir Castle]] || [[File:Belvoir Castle Leicestershire.jpg|125px]] || [[Grantham]]  || Historic house  || Castle with gardens
+|-
+| [[Bosworth Battlefield|Bosworth Battlefield Heritage Centre and Country Park]] ||  || [[Nuneaton]]  || Military  || History of the 1495 Battle of Bosworth Field during the [[War of the Roses]]
+|-
+| [[Bruntingthorpe Aerodrome|Bruntingthorpe Aerodrome Aircraft Museum]] ||  || [[Bruntingthorpe, Leicestershire|Bruntingthorpe]]  || Aviation || Cold War jet collection
+|-
+| [[Charnwood Museum]] || [[File:Museum photo.jpg|125px]] || [[Loughborough]]  || Local  || Area history, geology, archaeology and industries
+|-
+| [[City Gallery]] ||  || [[Leicester]]  || Art || Leicester's contemporary art gallery
+|-
+| [[Castle Donington Museum]] ||  || [[Castle Donington]] || Local  || [http://www.castledoningtonmuseum.org.uk/ website], local history
+|-
+| [[CONKERS]] ||  || [[Moira, Leicestershire|Moira]]  || Natural history  || [http://www.visitconkers.com/ website], nature, woodlands
+|-
+| [[Donington Grand Prix Exhibition]] || [[File:Donington McLaren Hall 2.jpg|125px]] || [[Castle Donington]] || Automobile  || Based at the [[Donington Park]] motor racing circuit, focus is Grand Prix and [[Formula One]] race cars
+|-
+| [[Donington le Heath Manor House Museum]] || [[File:Donington manor house.jpg|125px]]  || [[Coalville]]  || Historic house  || 16th century medieval period house
+|-
+| [[East Midlands Airport#East Midlands Aeropark|East Midlands Aeropark]] || [[File:NEMAaeropark.jpg|125px]] || [[Castle Donington]] || Aviation  || Includes complete airframes on external display, engines, aircraft components, photographs
+|-
+| [[Foxton Locks#Foxton Canal Museum|Foxton Canal Museum]] || [[File:Foxtonlocks-bottom.jpg|125px]] || [[Foxton, Leicestershire|Foxton]] || Transportation  || History of the [[Foxton Locks]], lives of the canal workers and other aspects of the local canal
+|-
+| [[Fleckney Museum]] ||  || [[Fleckney]] || Local  || [http://www.leicestershirevillages.com/fleckney/fleckneymuseum.html website], local history
+|-
+| [[Guru Nanak Sikh Museum]] ||  || [[Leicester]]  || Religious || [http://www.goleicestershire.com/attractions/thedms.asp?dms=13&amp;GroupId=2&amp;venue=2500509 information], [[Sikh]] art, history, culture
+|-
+| [[Hallaton Museum]] ||  || [[Hallaton]]  || Local  || [http://www.leicestershirevillages.com/hallaton/hallatonmuseum.html website], local history
+|-
+| [[Harborough Museum]] ||  || [[Market Harborough|Harborough]] || Local  || Local history, culture, industry
+|-
+| [[Hinckley and District Museum]] ||  || [[Hinckley]]  || Local  || [http://beehive.thisisleicestershire.co.uk/default.asp?WCI=SiteHome&amp;ID=9879 website], local history, industry
+|-
+| [[Jewry Wall|Jewry Wall Museum]] || [[File:Jewry Wall ruins panorama 2.jpg|125px]] || [[Leicester]]  || Archaeology || Artifacts and remaining wall of the public baths of Roman Leicester 
+|-
+| [[John Taylor &amp; Co]] || || [[Loughborough]] || Music  || Collection of [[bell (instrument)|bell]]s used in clock towers, change ringing peals, [[chimes]], and [[carillons]] 
+|-
+| [[Kegworth Museum]] ||  || [[Kegworth]]  || Local  || [http://www.kegworthmuseum.org.uk/ website], local history
+|-
+| [[Leicester City Fire Brigade Museum]] ||  || [[Leicester]]  || Firefighting || [http://www.goleicestershire.com/thedms.asp?dms=13&amp;nearby=1&amp;GroupId=2&amp;venue=2534631 information], open by appointment
+|-
+| [[Leicester Guildhall]] ||  [[File:Leicester Guildhall.jpg|125px]] || [[Leicester]]  || Prison || Medieval town building with Victorian prison cells
+|-
+| [[Leicester Royal Infirmary Museum]] ||  || [[Leicester]]  || Medical || [http://www.uhl-tr.nhs.uk/index.asp?pgid=1967 website], history of medicine and the [[Leicester Royal Infirmary]]
+|-
+| [[Loughborough Carillon|Loughborough Carillon &amp; War Memorial]] || [[File:Loughborough Carillon - geograph.org.uk - 3930.jpg|125px]]  || [[Loughborough]] || Military || World War I memorial, carillon, military museum
+|-
+| [[Loughborough Central railway station|Loughborough Central Station]] || [[File:Loughborough central.jpg|125px]] || [[Loughborough]] || Railway  || 1950s period station museum on the [[Great Central Railway (preserved)|Great Central Railway]] heritage railroad
+|-
+| [[Lutterworth Museum]] ||  || [[Lutterworth]]  || Local  || [http://www.goleicestershire.com/attractions/thedms.asp?dms=13&amp;GroupId=2&amp;venue=2500696 information], local history, Sir Frank Whittle Display Open Tue, Thur, Fri 10:00 - 16:00 Sat 10:00 - 13:00.
+|-
+| [[Measham Museum]] ||  || [[Measham]]  || Local  || [http://measham.leicestershireparishcouncils.org/meashammuseumsociety.html information], [http://www.goleicestershire.com/attractions/thedms.asp?dms=13&amp;GroupId=2&amp;venue=2500950 information], local history
+|-
+| [[Melton Carnegie Museum]] || [[File:MeltonMuseum.jpg|125px]] || [[Melton Mowbray]] || Local  || Local history and culture, including area [[Stilton|Stilton cheese]] and [[Pork Pie|pork pies]]
+|-
+| [[Moira Furnace]] ||[[File:MoiraFurnace01.jpg|125px]]  || [[Moira, Leicestershire|Moira]] || Industry  || 19th century iron-making blast furnace 
+|-
+| [[National Gas Museum Leicester]] || [[File:GasMuseumMay2010.JPG|125px]] || [[Leicester]]  || Industry || [http://www.gasmuseum.co.uk/ website], [[natural gas]] industry and gas related artifacts and appliances
+|-
+| [[National Space Centre]] || [[File:National Space Centre, Leicester.jpg|125px]] || [[Leicester]]  || Science || Space science and astronomy
+|-
+| [[New Walk Museum|New Walk Museum and Art Gallery]] || [[File:New Walk Museum Leicester 2.JPG|125px]] || [[Leicester]]  || Multiple  || Dinosaurs, geology, art, Ancient Egypt, natural history, world art
+|-
+| [[Newarke Houses Museum]] || [[File:Newarke Houses Museum Leicester.jpg|125px]] || [[Leicester]]  || Multiple || [http://www.leicester.gov.uk/your-council-services/lc/leicester-city-museums/museums/newarkehouses/ website], local history, room settings from the 17th century and the 1950s and 70s, toys, history of the [[Royal Leicestershire Regiment]], period street scene
+|-
+| [[Old Rectory Museum]] ||  || [[Loughborough]] || Local  || [http://www.lrmf.org.uk/p2-Museums.html#11 information], [http://www.goleicestershire.com/attractions/thedms.asp?dms=13&amp;GroupId=2&amp;venue=2500850 information], local history
+|-
+| [[Rockingham Castle]] || [[File:Rockingham Castle entrance.jpg|125px]]  || [[Market Harborough]] || Historic house || Also listed under [[Nottinghamshire]], former royal castle and hunting lodge with gardens
+|-
+| [[Shackerstone railway station|Shackerstone Railwayana Museum]] || [[File:Shackerstone Station.jpg|125px]]  || [[Shackerstone]]  || Railway  || Station and museum for the [[Battlefield Line Railway]]
+|-
+| [[Sir John Moore Heritage Centre]] ||  || [[Appleby Magna]]  || Education  || [http://www.sirjohnmoore.org.uk/heritage-centre-and-community-gallery website], 1891 Victorian life in [[The Sir John Moore Church of England School]]
+|-
+| [[Snibston|Snibston Discovery Museum]] || [[File:OutsideSnibston.JPG|125px]] || [[Coalville]]  || Multiple  || Science, mining, technology and design, transport and engineering history, fashion
+|-
+| [[Stanford Hall, Leicestershire|Stanford Hall]] || [[File:Stanford Hall, Lutterworth.jpg|125px]] || [[Lutterworth]]  || Historic house  || William and Mary period house
+|-
+| [[Stonehouse Family Farm &amp; Museum]] ||  || [[Mountsorrel]]  || Multiple || [http://www.stonehurstfarm.co.uk/ website], family farm and automobile museum
+|-
+| [[Swannington Hough Mill]] || [[File:Hough Mill, Swannington.jpg|125px]]  || [[Swannington, Leicestershire|Swannington]]  || Mill || [http://www.swannington-heritage.co.uk/ website], restored windmill, operated by Swannington Heritage Trust
+|-
+| [[Wigston Framework Knitters Museum]] || [[File:Wigston Framework Knitters' Museum, Bushloe End - geograph.org.uk - 168309.jpg|125px]] || [[Wigston Magna]]  || Industry || [http://www.goleicestershire.com/attractions/thedms.asp?dms=13&amp;GroupId=2&amp;venue=2500542 information], [http://www.le.ac.uk/emoha/community/resources/hosiery/museum.html information], workshop with [[stocking frame]] equipment, hand frames for making gloves, mitts and fancy ribbed tops for golf hose
+|-
+| [[William Carey Museum]] || [[File:Leicester Baptist Church.jpg|125px]] || [[Leicester]]  || Biographical || [http://www.central-baptist.org.uk/CareyIntro.html website], located at the Central Baptist Church, life and works of pioneer missionary [[William Carey (missionary)|William Carey]]
+|-
+|}
+
+==See also==
+* [[:Category:Visitor attractions in Leicestershire]]
+
+==References==
+* [http://www.leics.gov.uk/museums Museums in Leicestershire] 
+* [http://leicestershiremuseums.wordpress.com/ Leicestershire Museums]
+
+{{Leicestershire}}
+{{Museums in the United Kingdom}}
+
+[[Category:Museums in Leicestershire| ]]
+[[Category:Lists of museums in England by county|Leicestershire]]</text>
+    </revision>
+  </page>
+</mediawiki>

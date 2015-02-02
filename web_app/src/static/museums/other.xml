@@ -1,0 +1,874 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
+<href>http://swmuseums.blackradleysystems.com/static/museums/other.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Hailes Abbey]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Hailes Abbey<br>
+<a href="http://en.wikipedia.org/wiki/Hailes_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.92805555556,51.9683333333,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Soldiers of Gloucestershire Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Soldiers of Gloucestershire Museum<br>
+<a href="http://en.wikipedia.org/wiki/Soldiers_of_Gloucestershire_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.2501,51.8639,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum of Computing]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of Computing<br>
+<a href="http://en.wikipedia.org/wiki/Museum_of_Computing" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.783,51.558,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Science Museum at Wroughton]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Science Museum at Wroughton<br>
+<a href="http://en.wikipedia.org/wiki/The_Science_Museum_at_Wroughton" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.81277777778,51.51225,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Glenside Hospital Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Glenside Hospital Museum<br>
+<a href="http://en.wikipedia.org/wiki/Glenside_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.543,51.4849,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[New Room]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> New Room<br>
+<a href="http://en.wikipedia.org/wiki/New_Room,_Bristol" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.5886,51.4572,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[At-Bristol]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> At-Bristol<br>
+<a href="http://en.wikipedia.org/wiki/At-Bristol" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.59861,51.45085,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[British Empire and Commonwealth Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> British Empire and Commonwealth Museum<br>
+<a href="http://en.wikipedia.org/wiki/British_Empire_and_Commonwealth_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.5835,51.4489,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Woodspring Priory]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Woodspring Priory<br>
+<a href="http://en.wikipedia.org/wiki/Woodspring_Priory" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.945,51.3908333333,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Herschel Museum of Astronomy]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Herschel Museum of Astronomy<br>
+<a href="http://en.wikipedia.org/wiki/Herschel_Museum_of_Astronomy" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3667,51.3825,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bath Abbey Heritage Vaults Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bath Abbey Heritage Vaults Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bath_Abbey#Heritage_Vaults_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3587,51.3815,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bath Postal Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bath Postal Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bath_Postal_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.367,51.3794,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Claverton Pumping Station]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Claverton Pumping Station<br>
+<a href="http://en.wikipedia.org/wiki/Claverton_Pumping_Station" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.30166666667,51.3780555556,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Crofton Pumping Station]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Crofton Pumping Station<br>
+<a href="http://en.wikipedia.org/wiki/Crofton_Pumping_Station" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.62511,51.35827,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Blagdon Lake Pumping Station and Visitor Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Blagdon Lake Pumping Station and Visitor Centre<br>
+<a href="http://en.wikipedia.org/wiki/Blagdon_Lake" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.69757,51.33431,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Watermouth Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Watermouth Castle<br>
+<a href="http://en.wikipedia.org/wiki/Watermouth_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.08027777778,51.2133333333,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[West Somerset Rural Life Museum and Victorian School]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> West Somerset Rural Life Museum and Victorian School<br>
+<a href="http://en.wikipedia.org/wiki/West_Somerset_Rural_Life_Museum_and_Victorian_School" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.5695,51.2116,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Cleeve Abbey]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cleeve Abbey<br>
+<a href="http://en.wikipedia.org/wiki/Cleeve_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.36416666667,51.1555555556,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Somerset Rural Life Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Somerset Rural Life Museum<br>
+<a href="http://en.wikipedia.org/wiki/Somerset_Rural_Life_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.714,51.1485,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Westonzoyland Pumping Station Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Westonzoyland Pumping Station Museum<br>
+<a href="http://en.wikipedia.org/wiki/Westonzoyland_Pumping_Station_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.944328,51.090928,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Priest's House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Priest's House<br>
+<a href="http://en.wikipedia.org/wiki/The_Priest" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.815183,51.021075,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Somerset Military Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Somerset Military Museum<br>
+<a href="http://en.wikipedia.org/wiki/Somerset_Military_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.1,51.0191,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Somerset Cricket Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Somerset Cricket Museum<br>
+<a href="http://en.wikipedia.org/wiki/Somerset_Cricket_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.0989,51.0189,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Muchelney Abbey]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Muchelney Abbey<br>
+<a href="http://en.wikipedia.org/wiki/Muchelney_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.82027777778,51.0166666667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Shaftesbury Abbey Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Shaftesbury Abbey Museum<br>
+<a href="http://en.wikipedia.org/wiki/Shaftesbury_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.1986,51.0053,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Royal Signals Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Royal Signals Museum<br>
+<a href="http://en.wikipedia.org/wiki/Royal_Signals_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.125,50.868,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Charmouth Heritage Coast Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Charmouth Heritage Coast Centre<br>
+<a href="http://en.wikipedia.org/wiki/Charmouth_Heritage_Coast_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.902,50.7335,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Finch Foundry]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Finch Foundry<br>
+<a href="http://en.wikipedia.org/wiki/Finch_Foundry" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.92611111111,50.7305555556,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dinosaurland Fossil Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dinosaurland Fossil Museum<br>
+<a href="http://en.wikipedia.org/wiki/Dinosaurland_Fossil_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.93388888889,50.7258333333,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dinosaur Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dinosaur Museum<br>
+<a href="http://en.wikipedia.org/wiki/The_Dinosaur_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4341,50.715,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep Military Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Keep Military Museum<br>
+<a href="http://en.wikipedia.org/wiki/The_Keep_Military_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4436,50.7148,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bovington Tank Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bovington Tank Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bovington_Tank_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.243611,50.695194,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum of Witchcraft]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of Witchcraft<br>
+<a href="http://en.wikipedia.org/wiki/Museum_of_Witchcraft" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.692,50.689,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Tintagel Old Post Office]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Tintagel Old Post Office<br>
+<a href="http://en.wikipedia.org/wiki/Tintagel_Old_Post_Office" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.751,50.663,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Davidstow Airfield Cornwall at War Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Davidstow Airfield Cornwall at War Museum<br>
+<a href="http://en.wikipedia.org/wiki/RAF_Davidstow_Moor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.61748,50.63526,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Nothe Fort]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Nothe Fort<br>
+<a href="http://en.wikipedia.org/wiki/Nothe_Fort" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4439,50.6075,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Discovery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Discovery<br>
+<a href="http://en.wikipedia.org/wiki/Brewers_Quay" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4525,50.6055,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Portland Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Portland Castle<br>
+<a href="http://en.wikipedia.org/wiki/Portland_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4468,50.5683611111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Morwellham Quay]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Morwellham Quay<br>
+<a href="http://en.wikipedia.org/wiki/Morwellham_Quay" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.19361111111,50.5052777778,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Totnes Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Totnes Castle<br>
+<a href="http://en.wikipedia.org/wiki/Totnes_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.69138888889,50.4327777778,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Crownhill Fort]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Crownhill Fort<br>
+<a href="http://en.wikipedia.org/wiki/Crownhill_Fort" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.13,50.4136111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dartmouth Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dartmouth Castle<br>
+<a href="http://en.wikipedia.org/wiki/Dartmouth_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.56829,50.34203,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Pendennis Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Pendennis Castle<br>
+<a href="http://en.wikipedia.org/wiki/Pendennis_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.04777777778,50.1472222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Trevarno]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Trevarno<br>
+<a href="http://en.wikipedia.org/wiki/Trevarno,_Cornwall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.301,50.125,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Porthcurno Telegraph Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Porthcurno Telegraph Museum<br>
+<a href="http://en.wikipedia.org/wiki/Porthcurno_Telegraph_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.654,50.043,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+
+</Document>
+</kml>

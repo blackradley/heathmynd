@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/prehistoric.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Ballowall Barrow]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.70136111111111,50.1223055555556,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Ballowall_Barrow">Ballowall Barrow</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bant's Carn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-6.3074,49.9308,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bant's_Carn">Bant's Carn</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bartinney Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.645986,50.106474,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bartinney_Castle">Bartinney Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Boscawen-Un]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.61958,50.09021,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Boscawen-Un">Boscawen-Un</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Boskednan stone circle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.59406,50.16028,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Boskednan_stone_circle">Boskednan stone circle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Caer Bran]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.627,50.104667,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Caer_Bran">Caer Bran</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Brea Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24483333333333,50.2224583333333,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Basset Cross]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24888888888889,50.2211111111111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sacrificing Rock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24833333333333,50.2211111111111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Brea]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24673,50.22179,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Smugglers' Cave]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24722222222222,50.2219444444444,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Euny]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.63448,50.10234,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Euny">Carn Euny</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chysauster Ancient Village]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.54022222222222,50.1610277777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Chysauster_Ancient_Village">Chysauster Ancient Village</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Halliggye Fogou]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.19615,50.07089,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Halliggye_Fogou">Halliggye Fogou</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[King Arthur's Hall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.64239722222222,50.5684222222222,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/King_Arthur's_Hall">King Arthur's Hall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lanyon Quoit]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.59916666666667,50.1475,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lanyon_Quoit">Lanyon Quoit</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mên-an-Tol]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.60445277777778,50.1585527777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Mên-an-Tol">Mên-an-Tol</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Nine Maidens stone row]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.91,50.4709,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Nine_Maidens_stone_row">Nine Maidens stone row</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Porth Hellick Down]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-6.28113,49.91829,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Porth_Hellick_Down">Porth Hellick Down</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sancreed Beacon]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.618209,50.109144,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Sancreed_Beacon">Sancreed Beacon</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Breock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.8537,50.5111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Breock">St Breock</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Hurlers (stone circles)]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.4547,50.5142,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Hurlers_(stone_circles)">The Hurlers (stone circles)</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Merry Maidens]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.58973,50.06504,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Merry_Maidens">The Merry Maidens</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tregeseal East stone circle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.65788,50.13399,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Tregeseal_East_stone_circle">Tregeseal East stone circle</a>]]></description>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/national_trust.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Antony House]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.25268,50.37036,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Antony_House">Antony House</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Boscastle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.6929,50.684,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Boscastle">Boscastle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Botallack]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.68333333333333,50.1333333333333,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Botallack">Botallack</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cape Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.70972222222222,50.1266666666667,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Cape_Cornwall">Cape Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carnewas and Bedruthan Steps]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.032,50.481,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carnewas_and_Bedruthan_Steps">Carnewas and Bedruthan Steps</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cornish Mines and Engines]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.263,50.231,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Cornish_Mines_and_Engines">Cornish Mines and Engines</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cotehele]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.2257,50.4959,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Cotehele">Cotehele</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Glendurgan Garden]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.117262,50.106579,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Glendurgan_Garden">Glendurgan Garden</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Godolphin Estate]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.35,50.135,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Godolphin_Estate">Godolphin Estate</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Godrevy]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.39373,50.23828,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Godrevy">Godrevy</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hawker's Hut]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.5629,50.9074,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Hawker's_Hut">Hawker's Hut</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Kynance Cove]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.23,49.974,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Kynance_Cove">Kynance Cove</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lanhydrock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.6981,50.4411,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lanhydrock">Lanhydrock</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lawrence House, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.36245,50.63822,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lawrence_House,_Cornwall">Lawrence House, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Levant Mine and Beam Engine]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.6855,50.1521,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Levant_Mine_and_Beam_Engine">Levant Mine and Beam Engine</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pentire Head]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.919,50.584,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Pentire_Head">Pentire Head</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Porthcurno]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.654,50.043,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Porthcurno">Porthcurno</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sandymouth Beach]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.555,50.861,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Sandymouth_Beach">Sandymouth Beach</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Agnes, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.206,50.295,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Agnes,_Cornwall">St Agnes, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Anthony Head]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.015,50.14,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Anthony_Head">St Anthony Head</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Michael's Mount]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.4772,50.116,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Michael's_Mount">St Michael's Mount</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Rumps]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.9203,50.59208,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Rumps">The Rumps</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tintagel Old Post Office]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.751,50.663,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Tintagel_Old_Post_Office">Tintagel Old Post Office</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trelissick Garden]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.03351111111111,50.2168555555556,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Trelissick_Garden">Trelissick Garden</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trengwainton Garden]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.574546,50.128495,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Trengwainton_Garden">Trengwainton Garden</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trerice]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.03984,50.38572,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Trerice">Trerice</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Zennor]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.568,50.192,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Zennor">Zennor</a>]]></description>
+    </Placemark>
+  </Document>
+</kml>

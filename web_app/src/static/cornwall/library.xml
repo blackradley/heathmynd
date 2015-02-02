@@ -1,0 +1,436 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/library.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Bodmin<br>
+<b>Post code:</b> PL31 2JX<br>
+</div>]]>
+      </description>
+      <address>PL31 2JX</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Bude<br>
+<b>Post code:</b> EX23 8LG<br>
+</div>]]>
+      </description>
+      <address>EX23 8LG</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Callington<br>
+<b>Post code:</b> PL17 7DR<br>
+</div>]]>
+      </description>
+      <address>PL17 7DR</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Camborne<br>
+<b>Post code:</b> TR14 8HA<br>
+</div>]]>
+      </description>
+      <address>TR14 8HA</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Camelford<br>
+<b>Post code:</b> PL32 9PD<br>
+</div>]]>
+      </description>
+      <address>PL32 9PD</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Central Mobile<br>
+<b>Post code:</b> TR15 2QE<br>
+</div>]]>
+      </description>
+      <address>TR15 2QE</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Cornish Studies<br>
+<b>Post code:</b> TR15 2AT<br>
+</div>]]>
+      </description>
+      <address>TR15 2AT</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> East Mobile<br>
+<b>Post code:</b> PL31 2JX<br>
+</div>]]>
+      </description>
+      <address>PL31 2JX</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Falmouth<br>
+<b>Post code:</b> TR11 3QA<br>
+</div>]]>
+      </description>
+      <address>TR11 3QA</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Fowey<br>
+<b>Post code:</b> PL23 1JS<br>
+</div>]]>
+      </description>
+      <address>PL23 1JS</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Hayle<br>
+<b>Post code:</b> TR27 4DE<br>
+</div>]]>
+      </description>
+      <address>TR27 4DE</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Helston<br>
+<b>Post code:</b> TR13 8AG<br>
+</div>]]>
+      </description>
+      <address>TR13 8AG</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Launceston<br>
+<b>Post code:</b> PL15 9AB<br>
+</div>]]>
+      </description>
+      <address>PL15 9AB</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Liskeard<br>
+<b>Post code:</b> PL14 6AB<br>
+</div>]]>
+      </description>
+      <address>PL14 6AB</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Looe<br>
+<b>Post code:</b> PL13 2AF<br>
+</div>]]>
+      </description>
+      <address>PL13 2AF</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Lostwithiel<br>
+<b>Post code:</b> PL22 0BL<br>
+</div>]]>
+      </description>
+      <address>PL22 0BL</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Newquay<br>
+<b>Post code:</b> TR7 1BD<br>
+</div>]]>
+      </description>
+      <address>TR7 1BD</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> North Mobile<br>
+<b>Post code:</b> PL31 2JX<br>
+</div>]]>
+      </description>
+      <address>PL31 2JX</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Padstow<br>
+<b>Post code:</b> PL28 8EB<br>
+</div>]]>
+      </description>
+      <address>PL28 8EB</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Par<br>
+<b>Post code:</b> PL24 2AH<br>
+</div>]]>
+      </description>
+      <address>PL24 2AH</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Penryn<br>
+<b>Post code:</b> TR10 8JN<br>
+</div>]]>
+      </description>
+      <address>TR10 8JN</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Penzance<br>
+<b>Post code:</b> TR18 4EY<br>
+</div>]]>
+      </description>
+      <address>TR18 4EY</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Performing Arts<br>
+<b>Post code:</b> PL25 4LD<br>
+</div>]]>
+      </description>
+      <address>PL25 4LD</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Perranporth<br>
+<b>Post code:</b> TR6 0BW<br>
+</div>]]>
+      </description>
+      <address>TR6 0BW</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Redruth<br>
+<b>Post code:</b> TR15 2QE<br>
+</div>]]>
+      </description>
+      <address>TR15 2QE</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Saltash<br>
+<b>Post code:</b> PL12 6DX<br>
+</div>]]>
+      </description>
+      <address>PL12 6DX</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> St Agnes<br>
+<b>Post code:</b> TR5 0TP<br>
+</div>]]>
+      </description>
+      <address>TR5 0TP</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> St Austell<br>
+<b>Post code:</b> PL25 4LD<br>
+</div>]]>
+      </description>
+      <address>PL25 4LD</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> St Columb<br>
+<b>Post code:</b> TR9 6AN<br>
+</div>]]>
+      </description>
+      <address>TR9 6AN</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> St Dennis<br>
+<b>Post code:</b> PL26 8AY<br>
+</div>]]>
+      </description>
+      <address>PL26 8AY</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> St Ives<br>
+<b>Post code:</b> TR26 2LU<br>
+</div>]]>
+      </description>
+      <address>TR26 2LU</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> St Just<br>
+<b>Post code:</b> TR19 7HX<br>
+</div>]]>
+      </description>
+      <address>TR19 7HX</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> St Keverne<br>
+<b>Post code:</b> TR12 6NQ<br>
+</div>]]>
+      </description>
+      <address>TR12 6NQ</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Torpoint<br>
+<b>Post code:</b> PL11 2AG<br>
+</div>]]>
+      </description>
+      <address>PL11 2AG</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Truro<br>
+<b>Post code:</b> TR1 1EP<br>
+</div>]]>
+      </description>
+      <address>TR1 1EP</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Upton Cross<br>
+<b>Post code:</b> PL14 5AX<br>
+</div>]]>
+      </description>
+      <address>PL14 5AX</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> Wadebridge<br>
+<b>Post code:</b> PL27 7BX<br>
+</div>]]>
+      </description>
+      <address>PL27 7BX</address>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Corn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Library:</b> West Mobile<br>
+<b>Post code:</b> TR13 8AG<br>
+</div>]]>
+      </description>
+      <address>TR13 8AG</address>
+    </Placemark>
+  </Document>
+</kml>

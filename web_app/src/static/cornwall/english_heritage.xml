@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/english_heritage.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Ballowall Barrow]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.70136111111111,50.1223055555556,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Ballowall_Barrow">Ballowall Barrow</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Euny]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.63448,50.10234,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Euny">Carn Euny</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chysauster Ancient Village]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.54022222222222,50.1610277777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Chysauster_Ancient_Village">Chysauster Ancient Village</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Dupath Well]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.288,50.499,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Dupath_Well">Dupath Well</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Halliggye Fogou]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.19615,50.07089,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Halliggye_Fogou">Halliggye Fogou</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[King Doniert's Stone]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.48811111111111,50.4928055555556,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/King_Doniert's_Stone">King Doniert's Stone</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Launceston Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.36152777777778,50.6374444444444,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Launceston_Castle">Launceston Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pendennis Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.04777777777778,50.1472222222222,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Pendennis_Castle">Pendennis Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penhallam]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.51831,50.74901,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Penhallam">Penhallam</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Restormel Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.67047222222222,50.4217777777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Restormel_Castle">Restormel Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Breock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.8537,50.5111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Breock">St Breock</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Catherine's Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.64444444444444,50.3282222222222,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Catherine's_Castle">St Catherine's Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Hurlers (stone circles)]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.4547,50.5142,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Hurlers_(stone_circles)">The Hurlers (stone circles)</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tintagel Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.75936,50.66706,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Tintagel_Castle">Tintagel Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tregiffian Burial Chamber]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.588,50.062,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Tregiffian_Burial_Chamber">Tregiffian Burial Chamber</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trethevy Quoit]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.45539,50.49317,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Trethevy_Quoit">Trethevy Quoit</a>]]></description>
+    </Placemark>
+  </Document>
+</kml>

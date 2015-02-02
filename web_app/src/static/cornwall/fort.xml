@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/fort.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Caer Bran]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.627,50.104667,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Caer_Bran">Caer Bran</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Brea Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24483333333333,50.2224583333333,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Basset Cross]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24888888888889,50.2211111111111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sacrificing Rock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24833333333333,50.2211111111111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Brea]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24673,50.22179,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Smugglers' Cave]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24722222222222,50.2219444444444,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Castle Dore]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.66852,50.36246,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Castle_Dore">Castle Dore</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Castle an Dinas, St Columb Major]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.89453,50.42541,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Castle_an_Dinas,_St_Columb_Major">Castle an Dinas, St Columb Major</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chûn Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.6337,50.1487,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Chûn_Castle">Chûn Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Dodman Point]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.803,50.219,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Dodman_Point">Dodman Point</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Gurnard's Head]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.59922,50.1916,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Gurnard's_Head">Gurnard's Head</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Kelly Rounds]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.797,50.529,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Kelly_Rounds">Kelly Rounds</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lescudjack Hill Fort]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.533,50.125,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lescudjack_Hill_Fort">Lescudjack Hill Fort</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Prideaux Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.7305,50.3689,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Prideaux_Castle">Prideaux Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Rame Head]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.223,50.311,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Rame_Head">Rame Head</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Dennis, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.8833,50.3831,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Dennis,_Cornwall">St Dennis, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Rumps]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.9203,50.59208,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Rumps">The Rumps</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trencrom Hill]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.4776,50.1736,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Trencrom_Hill">Trencrom Hill</a>]]></description>
+    </Placemark>
+  </Document>
+</kml>

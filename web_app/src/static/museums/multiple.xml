@@ -1,0 +1,456 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
+<href>http://swmuseums.blackradleysystems.com/static/museums/multiple.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Cheltenham Art Gallery &amp; Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cheltenham Art Gallery &amp; Museum<br>
+<a href="http://en.wikipedia.org/wiki/Cheltenham_Art_Gallery_&amp;_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.07944444444,51.9018055556,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lydney Park]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lydney Park<br>
+<a href="http://en.wikipedia.org/wiki/Lydney_Park" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.558,51.7209,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Swindon Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Swindon Museum<br>
+<a href="http://en.wikipedia.org/wiki/Swindon_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.7777,51.5527,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Blaise Castle House Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Blaise Castle House Museum<br>
+<a href="http://en.wikipedia.org/wiki/Blaise_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.632,51.504,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bristol City Museum and Art Gallery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bristol City Museum and Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Bristol_City_Museum_and_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6053,51.4561,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[M Shed]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> M Shed<br>
+<a href="http://en.wikipedia.org/wiki/M_Shed" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.5986,51.4473,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lacock Abbey, Fox Talbot Museum &amp; Village]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lacock Abbey, Fox Talbot Museum &amp; Village<br>
+<a href="http://en.wikipedia.org/wiki/Lacock_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.11718,51.41475,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wiltshire Heritage Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wiltshire Heritage Museum<br>
+<a href="http://en.wikipedia.org/wiki/Wiltshire_Heritage_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.993,51.35,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Radstock Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Radstock Museum<br>
+<a href="http://en.wikipedia.org/wiki/Radstock_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.448552,51.293557,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bakelite Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bakelite Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bakelite_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.3087,51.1648,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Salisbury and South Wiltshire Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Salisbury and South Wiltshire Museum<br>
+<a href="http://en.wikipedia.org/wiki/Salisbury_and_South_Wiltshire_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.8001,51.0645,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum of Somerset]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of Somerset<br>
+<a href="http://en.wikipedia.org/wiki/Somerset_County_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.1,51.0191,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum of Dartmoor Life]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of Dartmoor Life<br>
+<a href="http://en.wikipedia.org/wiki/Museum_of_Dartmoor_Life" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.0034,50.7384,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Royal Albert Memorial Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Royal Albert Memorial Museum<br>
+<a href="http://en.wikipedia.org/wiki/Royal_Albert_Memorial_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.5325,50.7252,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lyme Regis Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lyme Regis Museum<br>
+<a href="http://en.wikipedia.org/wiki/Lyme_Regis_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.93247,50.72481,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dorset County Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dorset County Museum<br>
+<a href="http://en.wikipedia.org/wiki/Dorset_County_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4372,50.7156,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[North Cornwall Museum and Art Gallery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> North Cornwall Museum and Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/North_Cornwall_Museum_and_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.68105,50.62081,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bennetts Water Gardens]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bennetts Water Gardens<br>
+<a href="http://en.wikipedia.org/wiki/Bennetts_Water_Gardens" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4962,50.6171,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Jamaica Inn]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Jamaica Inn<br>
+<a href="http://en.wikipedia.org/wiki/Jamaica_Inn" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.56694444444,50.5622222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Torre Abbey]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Torre Abbey<br>
+<a href="http://en.wikipedia.org/wiki/Torre_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.541,50.464,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Plymouth City Museum and Art Gallery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Plymouth City Museum and Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Plymouth_City_Museum_and_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.13762,50.37445,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Royal Cornwall Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Royal Cornwall Museum<br>
+<a href="http://en.wikipedia.org/wiki/Royal_Cornwall_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.0548,50.2637,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Flambards Experience]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Flambards Experience<br>
+<a href="http://en.wikipedia.org/wiki/The_Flambards_Experience" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.258,50.092,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+
+</Document>
+</kml>

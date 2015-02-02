@@ -1,0 +1,1157 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/museum.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Antony House]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Antony House<br>
+<a href="http://en.wikipedia.org/wiki/Antony_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.25268,50.37036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Barbara Hepworth Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Barbara Hepworth Museum<br>
+<a href="http://en.wikipedia.org/wiki/Barbara_Hepworth_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.48138888889,50.2136111111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bodmin Jail]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bodmin Jail<br>
+<a href="http://en.wikipedia.org/wiki/Bodmin_Jail" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.72809166667,50.4747972222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bodmin Town Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bodmin Town Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bodmin_Town_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.7195569,50.4709147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bude-Stratton Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bude-Stratton Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bude-Stratton_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.5477773,50.8281721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Callington Heritage Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Callington Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Callington_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.3204843,50.498917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Camborne School of Mines Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Camborne School of Mines Museum<br>
+<a href="http://en.wikipedia.org/wiki/Camborne_School_of_Mines#Camborne_School_of_Mines_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.11708,50.16867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Charlestown Shipwreck &amp; Heritage Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Charlestown Shipwreck &amp; Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Charlestown_Shipwreck_&amp;_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.7577702,50.3316429,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Constantine Heritage Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Constantine Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Constantine_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.1755754,50.1189304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cornish Mines and Engines]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cornish Mines and Engines<br>
+<a href="http://en.wikipedia.org/wiki/Cornish_Mines_and_Engines" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.26191494228,50.2305452113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cotehele]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cotehele<br>
+<a href="http://en.wikipedia.org/wiki/Cotehele" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.2257,50.4959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Davidstow Airfield Cornwall at War Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Davidstow Airfield Cornwall at War Museum<br>
+<a href="http://en.wikipedia.org/wiki/RAF_Davidstow_Moor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.61748,50.63526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Duke of Cornwall's Light Infantry Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Duke of Cornwall's Light Infantry Museum<br>
+<a href="http://en.wikipedia.org/wiki/Duke_of_Cornwall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.7149387,50.4650949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Elliott's Shop]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Elliott's Shop<br>
+<a href="http://en.wikipedia.org/wiki/Elliott" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.207602,50.408228,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Exchange]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> The Exchange<br>
+<a href="http://en.wikipedia.org/wiki/Newlyn_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.551,50.102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Falmouth Art Gallery]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Falmouth Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Falmouth_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.0724,50.1557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Flambards Experience]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Flambards Experience<br>
+<a href="http://en.wikipedia.org/wiki/The_Flambards_Experience" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.258,50.092,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fowey Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Fowey Museum<br>
+<a href="http://en.wikipedia.org/wiki/Fowey_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.6369617,50.3368903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Geevor Tin Mine]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Geevor Tin Mine<br>
+<a href="http://en.wikipedia.org/wiki/Geevor_Tin_Mine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.67583333333,50.1525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Gerrans Parish Heritage Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Gerrans Parish Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Gerrans_Parish_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.9816042,50.1773984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Godolphin Estate]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Godolphin Estate<br>
+<a href="http://en.wikipedia.org/wiki/Godolphin_Estate" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.35,50.135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Grampound with Creed Heritage Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Grampound with Creed Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Grampound_with_Creed_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.9,50.3,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Helston Folk Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Helston Folk Museum<br>
+<a href="http://en.wikipedia.org/wiki/Helston_Folk_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.272,50.107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Jamaica Inn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Jamaica Inn<br>
+<a href="http://en.wikipedia.org/wiki/Jamaica_Inn" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.56694444444,50.5622222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[John Betjeman Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> John Betjeman Centre<br>
+<a href="http://en.wikipedia.org/wiki/John_Betjeman_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.8339889,50.5151998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[King Edward Mining Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> King Edward Mining Museum<br>
+<a href="http://en.wikipedia.org/wiki/King_Edward_Mine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.271,50.204,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lanhydrock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lanhydrock<br>
+<a href="http://en.wikipedia.org/wiki/Lanhydrock" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.6981,50.4411,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Launceston Steam Railway]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Launceston Steam Railway<br>
+<a href="http://en.wikipedia.org/wiki/Launceston_Steam_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.365,50.641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lawrence House]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lawrence House<br>
+<a href="http://en.wikipedia.org/wiki/Lawrence_House,_Cornwall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.36245,50.63822,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Leach Pottery]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Leach Pottery<br>
+<a href="http://en.wikipedia.org/wiki/Leach_Pottery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.49345,50.2067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Levant Mine and Beam Engine]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Levant Mine and Beam Engine<br>
+<a href="http://en.wikipedia.org/wiki/Levant_Mine_and_Beam_Engine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.6855,50.1521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Liskeard and District Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Liskeard and District Museum<br>
+<a href="http://en.wikipedia.org/wiki/Liskeard_and_District_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.4641112,50.455029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lizard Lighthouse Heritage Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lizard Lighthouse Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Lizard_Lighthouse" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.20194444444,49.9661111111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Looe Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Looe Museum<br>
+<a href="http://en.wikipedia.org/wiki/Looe_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.4533438,50.3530768,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lostwithiel Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lostwithiel Museum<br>
+<a href="http://en.wikipedia.org/wiki/Lostwithiel_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.669408,50.407075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Marazion Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Marazion Museum<br>
+<a href="http://en.wikipedia.org/wiki/Marazion_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.4729945,50.1235703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mary Newman's Cottage]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Mary Newman's Cottage<br>
+<a href="http://en.wikipedia.org/wiki/Mary_Newman" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.2091275,50.40677,0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mevagissey Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Mevagissey Museum<br>
+<a href="http://en.wikipedia.org/wiki/Mevagissey_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.7864552,50.2704473,0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mount Edgcumbe House]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Mount Edgcumbe House<br>
+<a href="http://en.wikipedia.org/wiki/Mount_Edgcumbe_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.17638888889,50.3544444444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Museum of Witchcraft]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of Witchcraft<br>
+<a href="http://en.wikipedia.org/wiki/Museum_of_Witchcraft" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.692,50.689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[National Maritime Museum Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> National Maritime Museum Cornwall<br>
+<a href="http://en.wikipedia.org/wiki/National_Maritime_Museum_Cornwall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.07,50.1513888889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Newlyn Art Gallery]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Newlyn Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Newlyn_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.551,50.102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[North Cornwall Museum and Art Gallery]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> North Cornwall Museum and Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/North_Cornwall_Museum_and_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.68105,50.62081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Padstow Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Padstow Museum<br>
+<a href="http://en.wikipedia.org/wiki/Padstow_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.9390771,50.5412958,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pencarrow]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Pencarrow<br>
+<a href="http://en.wikipedia.org/wiki/Pencarrow" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.765751,50.505288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pendennis Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Pendennis Castle<br>
+<a href="http://en.wikipedia.org/wiki/Pendennis_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.04777777778,50.1472222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penlee House]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Penlee House<br>
+<a href="http://en.wikipedia.org/wiki/Penlee_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.5398,50.1165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penryn Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Penryn Museum<br>
+<a href="http://en.wikipedia.org/wiki/Penryn_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.1031489,50.1680956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Perranzabuloe Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Perranzabuloe Museum<br>
+<a href="http://en.wikipedia.org/wiki/Perranzabuloe_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.1528371,50.346268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Poldark Mine]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Poldark Mine<br>
+<a href="http://en.wikipedia.org/wiki/Poldark_Mine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.244,50.138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Polperro Heritage Museum of Smuggling &amp; Fishing]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Polperro Heritage Museum of Smuggling &amp; Fishing<br>
+<a href="http://en.wikipedia.org/wiki/Polperro_Heritage_Museum_of_Smuggling_&amp;_Fishing" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.517388,50.3316846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Port Eliot]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Port Eliot<br>
+<a href="http://en.wikipedia.org/wiki/Port_Eliot" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.30916666667,50.3972222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Porthcurno Telegraph Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Porthcurno Telegraph Museum<br>
+<a href="http://en.wikipedia.org/wiki/Porthcurno_Telegraph_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.654,50.043,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Prideaux Place]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Prideaux Place<br>
+<a href="http://en.wikipedia.org/wiki/Prideaux_Place" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.9459,50.5427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Redruth Old Cornwall Society Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Redruth Old Cornwall Society Museum<br>
+<a href="http://en.wikipedia.org/wiki/Redruth_Old_Cornwall_Society_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.2289512,50.2321056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Royal Cornwall Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Royal Cornwall Museum<br>
+<a href="http://en.wikipedia.org/wiki/Royal_Cornwall_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Multiple<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.0548,50.2637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Saltash Museum and Local History Centre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Saltash Museum and Local History Centre<br>
+<a href="http://en.wikipedia.org/wiki/Saltash_Museum_and_Local_History_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.2094655,50.4085894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Shire Horse Farm Horse and Carriage Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Shire Horse Farm Horse and Carriage Museum<br>
+<a href="http://en.wikipedia.org/wiki/Shire_Horse_Farm_Horse_and_Carriage_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.2582,50.208049,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Agnes Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> St Agnes Museum<br>
+<a href="http://en.wikipedia.org/wiki/St_Agnes,_Cornwall#St_Agnes_Parish_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.206,50.295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Ives Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> St Ives Museum<br>
+<a href="http://en.wikipedia.org/wiki/St_Ives_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.4766253,50.2160175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tate St Ives]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Tate St Ives<br>
+<a href="http://en.wikipedia.org/wiki/Tate_St_Ives" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.4825,50.2147222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tintagel Old Post Office]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Tintagel Old Post Office<br>
+<a href="http://en.wikipedia.org/wiki/Tintagel_Old_Post_Office" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.751,50.663,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trerice]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Trerice<br>
+<a href="http://en.wikipedia.org/wiki/Trerice" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.03984,50.38572,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trevarno]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Trevarno<br>
+<a href="http://en.wikipedia.org/wiki/Trevarno,_Cornwall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Other<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.301,50.125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Valhalla Collection]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Valhalla Collection<br>
+<a href="http://en.wikipedia.org/wiki/Tresco_Abbey_Gardens" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -6.3325,49.9477777778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Wayside Folk Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wayside Folk Museum<br>
+<a href="http://en.wikipedia.org/wiki/The_Wayside_Folk_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -5.567,50.191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Wheal Martyn China Clay Country Park]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <description>
+        <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wheal Martyn China Clay Country Park<br>
+<a href="http://en.wikipedia.org/wiki/Wheal_Martyn_China_Clay_Country_Park" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+      </description>
+      <Point>
+        <coordinates>
+          -4.8063612,50.3685113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

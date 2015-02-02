@@ -1,0 +1,665 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
+<href>http://swmuseums.blackradleysystems.com/static/museums/local.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Dean Heritage Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dean Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Dean_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.48847222222,51.7931944444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum in the Park]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum in the Park<br>
+<a href="http://en.wikipedia.org/wiki/Stratford_Park" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.2261,51.7518,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wootton Bassett Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wootton Bassett Museum<br>
+<a href="http://en.wikipedia.org/wiki/Wootton_Bassett_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.9049,51.5417,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Create Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Create Centre<br>
+<a href="http://en.wikipedia.org/wiki/B_Bond_Warehouse" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.619482,51.446186,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Beckford's Tower and Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Beckford's Tower and Museum<br>
+<a href="http://en.wikipedia.org/wiki/Beckford" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.37885,51.40656,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum of Bath at Work]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of Bath at Work<br>
+<a href="http://en.wikipedia.org/wiki/Museum_of_Bath_at_Work" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3629,51.3889,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Jane Austen Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Jane Austen Centre<br>
+<a href="http://en.wikipedia.org/wiki/Jane_Austen_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3633,51.3851,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[North Somerset Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> North Somerset Museum<br>
+<a href="http://en.wikipedia.org/wiki/North_Somerset_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.97,51.3485,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Frome Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Frome Museum<br>
+<a href="http://en.wikipedia.org/wiki/Frome_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3191,51.2328,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lyn and Exmoor Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lyn and Exmoor Museum<br>
+<a href="http://en.wikipedia.org/wiki/Lyn_and_Exmoor_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.82944444444,51.2294444444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wells and Mendip Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wells and Mendip Museum<br>
+<a href="http://en.wikipedia.org/wiki/Wells_and_Mendip_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6445,51.2109,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Porlock Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Porlock Museum<br>
+<a href="http://en.wikipedia.org/wiki/Porlock_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.5956,51.2088,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Market House Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Market House Museum<br>
+<a href="http://en.wikipedia.org/wiki/Market_House_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.3242,51.1795,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Glastonbury Abbey]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Glastonbury Abbey<br>
+<a href="http://en.wikipedia.org/wiki/Glastonbury_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.71444444444,51.1455555556,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Blake Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Blake Museum<br>
+<a href="http://en.wikipedia.org/wiki/Blake_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.0014,51.1271,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bruton Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bruton Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bruton_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.454,51.112,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Castle Cary and District Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Castle Cary and District Museum<br>
+<a href="http://en.wikipedia.org/wiki/Castle_Cary_and_District_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.5141,51.0896,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wincanton Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wincanton Museum<br>
+<a href="http://en.wikipedia.org/wiki/Wincanton_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4077,51.0568,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Ilchester Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Ilchester Museum<br>
+<a href="http://en.wikipedia.org/wiki/Ilchester_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6838,51.0016,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wellington Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wellington Museum<br>
+<a href="http://en.wikipedia.org/wiki/Wellington_Museum,_Somerset" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.2243,50.9755,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum of South Somerset]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of South Somerset<br>
+<a href="http://en.wikipedia.org/wiki/Museum_of_South_Somerset" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6348,50.9394,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Crewkerne and District Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Crewkerne and District Museum<br>
+<a href="http://en.wikipedia.org/wiki/Crewkerne_and_District_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.7951,50.8854,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Chard Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Chard Museum<br>
+<a href="http://en.wikipedia.org/wiki/Chard_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.9587,50.8728,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Axminster Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Axminster Museum<br>
+<a href="http://en.wikipedia.org/wiki/Axminster_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.99986111111,50.78125,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Poole Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Poole Museum<br>
+<a href="http://en.wikipedia.org/wiki/Poole_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.9888,50.7125,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wareham Town Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wareham Town Museum<br>
+<a href="http://en.wikipedia.org/wiki/Wareham_Town_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.1095,50.6862,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lawrence House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lawrence House<br>
+<a href="http://en.wikipedia.org/wiki/Lawrence_House,_Cornwall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.36245,50.63822,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Weymouth Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Weymouth Museum<br>
+<a href="http://en.wikipedia.org/wiki/Brewers_Quay" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4525,50.6055,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dartmoor Prison Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dartmoor Prison Museum<br>
+<a href="http://en.wikipedia.org/wiki/Dartmoor_(HM_Prison)" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.99611111111,50.5497222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Portland Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Portland Museum<br>
+<a href="http://en.wikipedia.org/wiki/Portland_Museum,_Dorset" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.43,50.541,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bodmin Jail]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bodmin Jail<br>
+<a href="http://en.wikipedia.org/wiki/Bodmin_Jail" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.72809166667,50.4747972222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[St Agnes Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> St Agnes Museum<br>
+<a href="http://en.wikipedia.org/wiki/St_Agnes,_Cornwall#St_Agnes_Parish_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.206,50.295,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wayside Folk Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wayside Folk Museum<br>
+<a href="http://en.wikipedia.org/wiki/The_Wayside_Folk_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.567,50.191,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Helston Folk Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Helston Folk Museum<br>
+<a href="http://en.wikipedia.org/wiki/Helston_Folk_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Local<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.272,50.107,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+
+</Document>
+</kml>

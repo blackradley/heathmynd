@@ -1,0 +1,1824 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
+<href>http://swmuseums.blackradleysystems.com/static/museums/historic.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Snowshill Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Snowshill Manor<br>
+<a href="http://en.wikipedia.org/wiki/Snowshill_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.8605,52.0029,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Stanway House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Stanway House<br>
+<a href="http://en.wikipedia.org/wiki/Stanway_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.9122,51.9899,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Sezincote House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Sezincote House<br>
+<a href="http://en.wikipedia.org/wiki/Sezincote_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.7512,51.9775,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Sudeley Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Sudeley Castle<br>
+<a href="http://en.wikipedia.org/wiki/Sudeley_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.95611111111,51.9472222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Blackfriars]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Blackfriars<br>
+<a href="http://en.wikipedia.org/wiki/Blackfriars,_Gloucester" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.24872222222,51.8641944444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Chedworth Roman Villa]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Chedworth Roman Villa<br>
+<a href="http://en.wikipedia.org/wiki/Chedworth_Roman_Villa" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.9245,51.8201,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Woodchester Mansion]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Woodchester Mansion<br>
+<a href="http://en.wikipedia.org/wiki/Woodchester_Mansion" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.27777777778,51.7105555556,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Berkeley Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Berkeley Castle<br>
+<a href="http://en.wikipedia.org/wiki/Berkeley_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.45707,51.68797,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Owlpen Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Owlpen Manor<br>
+<a href="http://en.wikipedia.org/wiki/Owlpen_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.29083333333,51.6836111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Rodmarton Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Rodmarton Manor<br>
+<a href="http://en.wikipedia.org/wiki/Rodmarton_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.0837,51.6781,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Chavenage House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Chavenage House<br>
+<a href="http://en.wikipedia.org/wiki/Chavenage_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.1866,51.6563,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Newark Park]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Newark Park<br>
+<a href="http://en.wikipedia.org/wiki/Newark_Park" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.317751,51.636378,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lydiard House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lydiard House<br>
+<a href="http://en.wikipedia.org/wiki/Lydiard_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.85166666667,51.5613888889,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Acton Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Acton Court<br>
+<a href="http://en.wikipedia.org/wiki/Acton_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.46722222222,51.5556944444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Kings Weston Roman Villa]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Kings Weston Roman Villa<br>
+<a href="http://en.wikipedia.org/wiki/Kings_Weston_Roman_Villa" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.66724,51.49727,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dyrham Park]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dyrham Park<br>
+<a href="http://en.wikipedia.org/wiki/Dyrham_Park" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3715,51.4797,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Red Lodge Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Red Lodge Museum<br>
+<a href="http://en.wikipedia.org/wiki/Red_Lodge_Museum,_Bristol" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.599583,51.455556,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Georgian House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Georgian House<br>
+<a href="http://en.wikipedia.org/wiki/Georgian_House,_Bristol" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6044,51.4526,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Ashton Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Ashton Court<br>
+<a href="http://en.wikipedia.org/wiki/Ashton_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6446,51.4479,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Clevedon Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Clevedon Court<br>
+<a href="http://en.wikipedia.org/wiki/Clevedon_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.8335,51.4407,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Tyntesfield]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Tyntesfield<br>
+<a href="http://en.wikipedia.org/wiki/Tyntesfield" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.7135,51.4403,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Corsham Almshouses &amp; 17th Century Schoolroom]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Corsham Almshouses &amp; 17th Century Schoolroom<br>
+<a href="http://en.wikipedia.org/wiki/Hungerford_Almshouses" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.1825,51.435,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Corsham Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Corsham Court<br>
+<a href="http://en.wikipedia.org/wiki/Corsham_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.1825,51.435,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bowood House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bowood House<br>
+<a href="http://en.wikipedia.org/wiki/Bowood_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.03773,51.42874,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Alexander Keiller Museum at Avebury]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Alexander Keiller Museum at Avebury<br>
+<a href="http://en.wikipedia.org/wiki/Avebury#Alexander_Keiller_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.85416666667,51.4286111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Avebury Manor &amp; Garden]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Avebury Manor &amp; Garden<br>
+<a href="http://en.wikipedia.org/wiki/Avebury_Manor_&amp;_Garden" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.85916666667,51.4286111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[No. 1 Royal Crescent]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> No. 1 Royal Crescent<br>
+<a href="http://en.wikipedia.org/wiki/Royal_Crescent#Current_use" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.36833333333,51.3869444444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Roman Baths]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Roman Baths<br>
+<a href="http://en.wikipedia.org/wiki/Roman_Baths_(Bath)" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3595,51.3809,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Building of Bath Collection]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Building of Bath Collection<br>
+<a href="http://en.wikipedia.org/wiki/Building_of_Bath_Collection" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.367,51.3794,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Great Chalfield Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Great Chalfield Manor<br>
+<a href="http://en.wikipedia.org/wiki/Great_Chalfield_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.203,51.368,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Westwood Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Westwood Manor<br>
+<a href="http://en.wikipedia.org/wiki/Westwood_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.2712,51.3299,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Farleigh Hungerford Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Farleigh Hungerford Castle<br>
+<a href="http://en.wikipedia.org/wiki/Farleigh_Hungerford_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.28472222222,51.3172222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[King John's Hunting Lodge]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> King John's Hunting Lodge<br>
+<a href="http://en.wikipedia.org/wiki/King_John" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.81851,51.287167,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Cheddar Caves and Gorge]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cheddar Caves and Gorge<br>
+<a href="http://en.wikipedia.org/wiki/Cheddar_Gorge" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.76546,51.282409,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bishop's Palace]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bishop's Palace<br>
+<a href="http://en.wikipedia.org/wiki/Bishop" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.64255,51.209293,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Chambercombe Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Chambercombe Manor<br>
+<a href="http://en.wikipedia.org/wiki/Chambercombe_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.10166666667,51.2016666667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Longleat]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Longleat<br>
+<a href="http://en.wikipedia.org/wiki/Longleat" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.275308,51.186472,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dunster Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dunster Castle<br>
+<a href="http://en.wikipedia.org/wiki/Dunster_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.4459,51.1825,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Coleridge Cottage]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Coleridge Cottage<br>
+<a href="http://en.wikipedia.org/wiki/Coleridge_Cottage" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.1537,51.1521,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Glastonbury Lake Village Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Glastonbury Lake Village Museum<br>
+<a href="http://en.wikipedia.org/wiki/The_Tribunal,_Glastonbury" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.7098,51.1462,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Arlington Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Arlington Court<br>
+<a href="http://en.wikipedia.org/wiki/Arlington_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.98222222222,51.1461111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Stourhead]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Stourhead<br>
+<a href="http://en.wikipedia.org/wiki/Stourhead" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.31777777778,51.1061111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Philipps House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Philipps House<br>
+<a href="http://en.wikipedia.org/wiki/Philipps_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.984,51.085,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Fyne Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Fyne Court<br>
+<a href="http://en.wikipedia.org/wiki/Fyne_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.11431,51.080563,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wilton House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wilton House<br>
+<a href="http://en.wikipedia.org/wiki/Wilton_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.856,51.07808,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Mompesson House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Mompesson House<br>
+<a href="http://en.wikipedia.org/wiki/Mompesson_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.7984,51.0667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lytes Cary Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lytes Cary Manor<br>
+<a href="http://en.wikipedia.org/wiki/Lytes_Cary" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6677,51.0358,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Treasurer's House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Treasurer's House<br>
+<a href="http://en.wikipedia.org/wiki/Treasurer" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.815183,51.021075,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Hartland Abbey]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Hartland Abbey<br>
+<a href="http://en.wikipedia.org/wiki/Hartland_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.50861111111,50.9966666667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Clovelly]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Clovelly<br>
+<a href="http://en.wikipedia.org/wiki/Clovelly" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.4,50.99,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Cothay Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cothay Manor<br>
+<a href="http://en.wikipedia.org/wiki/Cothay_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.3418,50.9729,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Barrington Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Barrington Court<br>
+<a href="http://en.wikipedia.org/wiki/Barrington_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.877,50.9626,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Montacute House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Montacute House<br>
+<a href="http://en.wikipedia.org/wiki/Montacute_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.71611111111,50.9525,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Sherborne Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Sherborne Castle<br>
+<a href="http://en.wikipedia.org/wiki/Sherborne_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.5024,50.9494,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Knightshayes Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Knightshayes Court<br>
+<a href="http://en.wikipedia.org/wiki/Knightshayes_Court" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.47944444444,50.9291666667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Fiddleford Manor]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Fiddleford Manor<br>
+<a href="http://en.wikipedia.org/wiki/Fiddleford_Manor" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.2845,50.9213,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Tiverton Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Tiverton Castle<br>
+<a href="http://en.wikipedia.org/wiki/Tiverton_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.4885,50.9063,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Kingston Lacy]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Kingston Lacy<br>
+<a href="http://en.wikipedia.org/wiki/Kingston_Lacy" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.03225555556,50.8109416667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Priest's House Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Priest's House Museum<br>
+<a href="http://en.wikipedia.org/wiki/Priest" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.9876,50.7995,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Killerton]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Killerton<br>
+<a href="http://en.wikipedia.org/wiki/Killerton" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.4578,50.7915,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Cadhay]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cadhay<br>
+<a href="http://en.wikipedia.org/wiki/Cadhay" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.293839,50.758722,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Athelhampton]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Athelhampton<br>
+<a href="http://en.wikipedia.org/wiki/Athelhampton" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3267,50.7476,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Highcliffe Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Highcliffe Castle<br>
+<a href="http://en.wikipedia.org/wiki/Highcliffe_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.7141,50.738,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Thomas Hardy's Cottage]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Thomas Hardy's Cottage<br>
+<a href="http://en.wikipedia.org/wiki/Thomas_Hardy" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3863,50.7315,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wolfeton House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wolfeton House<br>
+<a href="http://en.wikipedia.org/wiki/Wolfeton_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.457,50.728,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[St Nicholas Priory]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> St Nicholas Priory<br>
+<a href="http://en.wikipedia.org/wiki/St_Nicholas_Priory" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.534991,50.721818,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Clouds Hill]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Clouds Hill<br>
+<a href="http://en.wikipedia.org/wiki/Clouds_Hill" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.251,50.7176,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Max Gate]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Max Gate<br>
+<a href="http://en.wikipedia.org/wiki/Max_Gate" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.42,50.7081,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Castle Drogo]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Castle Drogo<br>
+<a href="http://en.wikipedia.org/wiki/Castle_Drogo" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.810616,50.696344,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Old Bakery, Manor Mill &amp; Forge]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Old Bakery, Manor Mill &amp; Forge<br>
+<a href="http://en.wikipedia.org/wiki/The_Old_Bakery,_Manor_Mill_&amp;_Forge" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.1379,50.6922,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Powderham Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Powderham Castle<br>
+<a href="http://en.wikipedia.org/wiki/Powderham_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.45997222222,50.6429722222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[A La Ronde]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> A La Ronde<br>
+<a href="http://en.wikipedia.org/wiki/A_La_Ronde" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.4088,50.6417,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lulworth Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lulworth Castle<br>
+<a href="http://en.wikipedia.org/wiki/Lulworth_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.21055555556,50.6375,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Kelly House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Kelly House<br>
+<a href="http://en.wikipedia.org/wiki/Kelly_House,_Devon" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.270514,50.610069,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Timewalk]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Timewalk<br>
+<a href="http://en.wikipedia.org/wiki/Brewers_Quay" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4525,50.6055,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Ugbrooke]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Ugbrooke<br>
+<a href="http://en.wikipedia.org/wiki/Ugbrooke" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.59067,50.59086,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Prideaux Place]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Prideaux Place<br>
+<a href="http://en.wikipedia.org/wiki/Prideaux_Place" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.9459,50.5427,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bradley]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bradley<br>
+<a href="http://en.wikipedia.org/wiki/Bradley_(house)" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.62583333333,50.5261111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Pencarrow]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Pencarrow<br>
+<a href="http://en.wikipedia.org/wiki/Pencarrow" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.765751,50.505288,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Cotehele]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cotehele<br>
+<a href="http://en.wikipedia.org/wiki/Cotehele" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.2257,50.4959,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Buckland Abbey]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Buckland Abbey<br>
+<a href="http://en.wikipedia.org/wiki/Buckland_Abbey" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.13361111111,50.4811111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Berry Pomeroy Castle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Berry Pomeroy Castle<br>
+<a href="http://en.wikipedia.org/wiki/Berry_Pomeroy_Castle" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.63662,50.44902,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lanhydrock]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lanhydrock<br>
+<a href="http://en.wikipedia.org/wiki/Lanhydrock" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.6981,50.4411,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Kirkham House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Kirkham House<br>
+<a href="http://en.wikipedia.org/wiki/Kirkham_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.571,50.438,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Totnes Guildhall]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Totnes Guildhall<br>
+<a href="http://en.wikipedia.org/wiki/Totnes_Guildhall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.6879,50.4321,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Totnes Elizabethan House Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Totnes Elizabethan House Museum<br>
+<a href="http://en.wikipedia.org/wiki/Totnes_Elizabethan_House_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.68662,50.43134,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Port Eliot]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Port Eliot<br>
+<a href="http://en.wikipedia.org/wiki/Port_Eliot" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.30916666667,50.3972222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Trerice]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Trerice<br>
+<a href="http://en.wikipedia.org/wiki/Trerice" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.03984,50.38572,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Greenway Estate]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Greenway Estate<br>
+<a href="http://en.wikipedia.org/wiki/Greenway_Estate" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.58333333333,50.3833333333,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Saltram House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Saltram House<br>
+<a href="http://en.wikipedia.org/wiki/Saltram_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.0825,50.3816666667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Antony House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Antony House<br>
+<a href="http://en.wikipedia.org/wiki/Antony_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.25268,50.37036,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Mount Edgcumbe House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Mount Edgcumbe House<br>
+<a href="http://en.wikipedia.org/wiki/Mount_Edgcumbe_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.17638888889,50.3544444444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Coleton Fishacre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Coleton Fishacre<br>
+<a href="http://en.wikipedia.org/wiki/Coleton_Fishacre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.534766,50.346707,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Overbeck's]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Overbeck's<br>
+<a href="http://en.wikipedia.org/wiki/Overbeck" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.7831,50.2227,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Godolphin Estate]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Godolphin Estate<br>
+<a href="http://en.wikipedia.org/wiki/Godolphin_Estate" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Historic<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.35,50.135,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+
+</Document>
+</kml>

@@ -1,0 +1,490 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b>Beach</b><br> $[description]]]>
+          </text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/beach.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Booby's Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.0268,50.5392,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Booby's_Bay">Booby's Bay</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bossiney Haven]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.735,50.671,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bossiney_Haven">Bossiney Haven</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carbis Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.46505,50.19659,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carbis_Bay">Carbis Bay</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carlyon]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.73742,50.33724,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carlyon">Carlyon</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carlyon Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.731969,50.336112,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carlyon_Bay">Carlyon Bay</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carnewas and Bedruthan Steps]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.032,50.481,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carnewas_and_Bedruthan_Steps">Carnewas and Bedruthan Steps</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Charlestown, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.7578,50.3314,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Charlestown,_Cornwall">Charlestown, Cornwall</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Constantine Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.01245,50.53036,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Constantine_Bay">Constantine Bay</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Crackington Haven]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.63774,50.74454,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Crackington_Haven">Crackington Haven</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Crantock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.1111,50.4009,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Crantock">Crantock</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Daymer Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.925,50.56,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Daymer_Bay">Daymer Bay</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Duporth Holiday Village]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.7,50.3333333333333,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Duporth_Holiday_Village">Duporth Holiday Village</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fistral Beach]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.10235,50.41645,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Fistral_Beach">Fistral Beach</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Gyllyngvase]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.06666666666667,50.1333333333333,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Gyllyngvase">Gyllyngvase</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Harlyn]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.997,50.538,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Harlyn">Harlyn</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Holywell, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.13333333333333,50.3833333333333,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Holywell,_Cornwall">Holywell, Cornwall</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Kingsand]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.2012,50.3336,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Kingsand">Kingsand</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Kynance Cove]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.23,49.974,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Kynance_Cove">Kynance Cove</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Looe]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.454,50.3535,0</coordinates>
+      </Point>
+      <description>
+        <![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Looe">Looe</a>]]>
+      </description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lusty Glaze]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.064,50.422,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lusty_Glaze">Lusty Glaze</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Maenporth]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.09333333333333,50.1244444444444,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Maenporth">Maenporth</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mawgan Porth]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.03333333333333,50.4666666666667,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Mawgan_Porth">Mawgan Porth</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mother Ivy's Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.0165,50.5467,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Mother_Ivy's_Bay">Mother Ivy's Bay</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[New Polzeath]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.91752,50.57825,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/New_Polzeath">New Polzeath</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Par, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.7111,50.3505,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Par,_Cornwall">Par, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pentewan]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.78249,50.29142,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Pentewan">Pentewan</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pentreath]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.22,49.971,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Pentreath">Pentreath</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Perranporth]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.1546,50.3437,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Perranporth">Perranporth</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Polzeath]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.91514,50.57356,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Polzeath">Polzeath</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Port Quin]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.8673,50.589,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Port_Quin">Port Quin</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Porthcothan]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.0221,50.5081,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Porthcothan">Porthcothan</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Porthtowan]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.23682,50.28234,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Porthtowan">Porthtowan</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Portreath]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.288,50.261,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Portreath">Portreath</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Praa Sands]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.38333333333333,50.1,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Praa_Sands">Praa Sands</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Readymoney Cove]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.64556,50.3288,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Readymoney_Cove">Readymoney Cove</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Rock, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.9182,50.5437,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Rock,_Cornwall">Rock, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sandymouth Beach]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.555,50.861,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Sandymouth_Beach">Sandymouth Beach</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Seaton, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.3851,50.3648,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Seaton,_Cornwall">Seaton, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Agnes, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.206,50.295,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Agnes,_Cornwall">St Agnes, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Austell Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.76532,50.32804,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Austell_Bay">St Austell Bay</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Swanpool, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.07,50.14,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Swanpool,_Cornwall">Swanpool, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Towans]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.43111,50.19256,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Towans">The Towans</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Towans]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.39145,50.22991,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Towans">The Towans</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Towans]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.40768,50.21053,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Towans">The Towans</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trebarwith Strand]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.7618,50.6447,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Trebarwith_Strand">Trebarwith Strand</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tregardock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.773,50.622,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Tregardock">Tregardock</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tregirls]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.94968,50.55001,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Tregirls">Tregirls</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Trevone]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.9744,50.5418,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Trevone">Trevone</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Treyarnon]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.0226,50.5266,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Treyarnon">Treyarnon</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Vault Beach]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.79442,50.23194,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Vault_Beach">Vault Beach</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Watergate Beach]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.04,50.444,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Watergate_Beach">Watergate Beach</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Whitesand Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.699,50.082,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Whitesand_Bay">Whitesand Bay</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Whitsand Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.28333333333333,50.3333333333333,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Whitsand_Bay">Whitsand Bay</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Widemouth Bay]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.58333333333333,50.7833333333333,0</coordinates>
+      </Point>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Widemouth_Bay">Widemouth Bay</a>]]></description>
+    </Placemark>
+  </Document>
+</kml>

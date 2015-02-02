@@ -1,0 +1,11 @@
+Icons from
+
+http://code.google.com/p/google-maps-icons
+
+Lat Long corrections from
+
+http://www.getlatlon.com/
+
+Competitor
+
+http://www.museumsincornwall.org.uk/map

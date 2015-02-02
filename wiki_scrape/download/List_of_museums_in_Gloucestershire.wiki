@@ -1,0 +1,198 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.17wmf1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of museums in Gloucestershire</title>
+    <id>26986507</id>
+    <revision>
+      <id>375456830</id>
+      <timestamp>2010-07-26T00:19:17Z</timestamp>
+      <contributor>
+        <username>Jllm06</username>
+        <id>1918920</id>
+      </contributor>
+      <comment>Images</comment>
+      <text xml:space="preserve" bytes="15909">{{Commonscat|Museums in Gloucestershire}}
+
+This '''list of museums in [[Gloucestershire]], [[England]]''' contains [[museum]]s which are defined for this context as institutions (including [[nonprofit organization]]s, government entities, and private [[business]]es) that collect and care for objects of cultural, artistic, scientific, or historical interest and make their collections or related exhibits available for public viewing. Also included are non-profit art galleries and university art galleries.  Museums that exist only in cyberspace (i.e., [[virtual museum]]s) are not included.  
+&lt;!-- Note: Please do not post websites for museums with existing Wikipedia articles, but please do verify that the existing article has the correct website. In this way, if the website changes, only the main article needs to be updated. --&gt;
+
+To use the sortable table, click on the icons at the top of each column to sort that column in alphabetical order; click again for reverse alphabetical order.
+
+{| class=&quot;wikitable sortable&quot; 
+!| Name
+!| Image
+!| Town/City
+!| Region
+!| Type
+!| Summary
+|-
+| [[Acton Court]] ||[[File:Acton Court (3001219432).jpg|125px]]  || [[Iron Acton]] || [[South Gloucestershire]]  || Historic house || Conserved [[Tudor style architecture|Tudor]] house built for the pleasure of [[Henry VIII]], gardens and grounds
+|-
+| [[Berkeley Castle]] || [[File:Berkeley Castle 04.jpg|125px]] || [[Berkeley, Gloucestershire|Berkeley]] || [[South Gloucestershire]]  || Historic house || Medieval castle, gardens, butterfly house
+|-
+| [[Blackfriars, Gloucester|Blackfriars]] ||  || [[Gloucester]] ||  [[Gloucester]] ||  Historic house ||  Operated by [[English Heritage]], medieval friary later converted into a Tudor house and cloth factory
+|-
+| [[Bristol Aero Collection]] ||  || [[Kemble, Gloucestershire|Kemble]] || [[Cotswold (district)|Cotswold]]  || Transportation  || [http://www.bristolaero.com/ website], artefacts of the [[Bristol Aeroplane Company]] including aircraft, engines, missiles, spacecraft, road transport and more
+|-
+| [[Castle Combe Village Museum]] ||  || [[Castle Combe]] || [[South Gloucestershire]]  || Local || [http://www.castle-combe.com website], local history, culture
+|-
+| [[Chavenage House]] || [[File:Chavenage House - geograph.org.uk - 270277.jpg|125px]] ||  [[Tetbury]] || [[Cotswold (district)|Cotswold]]  || Historic house || Elizabethan manor house
+|-
+| [[Chedworth Roman Villa]] || [[File:Chedworth Roman Villa 01.jpg|125px]] || [[Chedworth]] ||  [[Cheltenham]] || Archaeology ||  Operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], artifacts and remains of a large [[Roman Britain|Roman]] villa
+|-
+| [[Cheltenham Art Gallery &amp; Museum]] ||  || [[Cheltenham]] || [[Cheltenham]]  || Multiple ||  Art, decorative arts, local history, archaeology, [[ethnographic]] artifacts from Africa and Asia
+|-
+| [[Clearwell Caves]] || [[File:Clearwell Mine.jpg|125px]]  || [[Clearwell]] || [[Forest of Dean]]   || Mining  ||  Former [[iron ore]] mine
+|-
+| [[Coleford Great Western Railway Museum]] ||  || [[Coleford, Gloucestershire|Coleford]] || [[Forest of Dean]]   || Railway ||  Includes a former goods shed, a [[Great Western Railway|GWR]] signal box, miniature railway, locomotive
+|-
+| [[Concorde at Filton]] ||  || [[Filton]] || [[South Gloucestershire]]  || Transportation || [http://www.concordeatfilton.org.uk/ website], located at [[Bristol Filton Airport]], display of a [[Concorde]] supersonic passenger airliner
+|-
+| [[Corinium Museum]] ||  || [[Cirencester]] || [[Cotswold (district)|Cotswold]]  || Archaeology ||  Artifacts found locally from [[Roman Britain]], [[Neolithic]] and [[Victorian era]]s
+|-
+| [[Cotswold Motoring Museum]] || [[File:Cotswold Motoring Museum.jpg|125px]]  || [[Bourton-on-the-Water]] || [[Cotswold (district)|Cotswold]]  || Transportation ||  Cars, motorcycles, bicycles, caravans and motoring memorabilia of the twentieth century
+|-
+| [[Court Barn]] ||  || [[Chipping Campden]] || [[Cotswold (district)|Cotswold]]  || Toy || [http://www.courtbarn.org.uk/ website], craft and design, including contemporary crafts and [[Arts and Crafts movement]] pieces
+|-
+| [[Dean Forest Railway]] || [[File:1450 &amp; Autocoach at Norchard.jpg|125px]] || [[Norchard]]  || [[Forest of Dean]]  || Railway  ||  Heritage railway and museum at [[Norchard railway station]]
+|-
+| [[Dean Heritage Centre]] || [[File:Dean Heritage Centre.jpg|125px]]  || [[Soudley]] || [[Forest of Dean]]  || Local ||  Local history, trades, industry
+|-
+| [[Dunkirk Mill Centre]] ||  || [[Nailsworth, Gloucestershire|Nailsworth]] || [[South Gloucestershire]]  || Industry || [http://www.stroud-textile.org.uk/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=97 website], operated by the Stroudwater Textile Trust, former textile mill with massive working water wheel and other machinery
+|-
+| [[Dursley Heritage Centre]] ||  || [[Dursley]] || [[Stroud (district)|Stroud]]  || Local || [http://www.gloucestershirerevealed.co.uk/Cirencester%20and%20Stroud%20Museums/dursley-heritage.htm information], local history, culture
+|-
+| [[Dyrham Park]] || [[File:Dyrham Park house 2.jpg|125px]] || [[Dyrham]] || [[South Gloucestershire]]  || Historic house || Operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], Baroque mansion with [[Dutch people|Dutch]] paintings, furniture and decorative arts, gardens and grounds
+|-
+| [[Edward Jenner Museum]] || [[File:Winter morning at the Jenner Museum - geograph.org.uk - 117338.jpg|125px]] || [[Berkeley, Gloucestershire|Berkeley]] || [[South Gloucestershire]]  || Historic house || [http://www.jennermuseum.com/ website], hone of [[Edward Jenner]], the originator of [[vaccination]]
+|-
+| [[Frenchay Village Museum]] ||  || [[Frenchay]] || [[South Gloucestershire]]  || Local || [http://www.frenchay.org/museum.html website], history of the non-conformist Quakers and Unitarians who founded the village
+|-
+| [[Gardens Gallery]] ||  || [[Cheltenham]] || [[Cheltenham]]  || Art ||  [http://www.gardensgallery.co.uk/ website], community art gallery
+|-
+| [[Gigg Mill]] ||  || [[Nailsworth, Gloucestershire|Nailsworth]] || [[South Gloucestershire]]  || Industry || [http://www.stroud-textile.org.uk/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=105 website], operated by the Stroudwater Textile Trust, textile weaving shed demonstrating changing technologies from a simple handloom to flying shuttle to power loom
+|-
+| [[Gloucester City Museum &amp; Art Gallery]] ||  || [[Gloucester]] ||  [[Gloucester]]  || Multiple || [http://www.gloucester.gov.uk/citymuseum website], local history, archaeology, fine and decorative arts, natural history, Roman and Mediaeval displays, dinosaurs
+|-
+| [[Gloucester Folk Museum]] ||  || [[Gloucester]] ||  [[Gloucester]]  || Multiple || [http://www.gloucester.gov.uk/folkmuseum website], crafts, trades, industries, toys, household items, model trains, appliances, period classroom, dairy, wheelwright, carpenter and ironmogner's shops, 
+|-
+| [[Hailes Abbey]] || [[File:Hailes Abbey1.jpg|125px]] ||  [[Winchcombe]] || [[Tewkesbury (borough)|Tewkesbury]]  || Religious  ||   Operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], ruins of a 13th century [[Cistercian]] abbey, excavated artifacts
+|-
+| [[Holst Birthplace Museum]] ||  || [[Cheltenham]] || [[Cheltenham]]  || Historic house ||  [http://www.holstmuseum.org.uk/ website], birthplace of composer [[Gustav Holst]], his life and works
+|-
+| [[Hopewell Colliery Museum]] ||  || [[Soudley]] || [[Forest of Dean]]  || Mining ||  [http://www.fweb.org.uk/dean/visitor/places/placewest.html#hopewellcolliery information], former coal mine
+|-
+| [[John Moore Countryside Museum]] ||  || [[Tewkesbury]] || [[Tewkesbury (borough)|Tewkesbury]]  || Natural history || [http://www.johnmooremuseum.org/ website], mammals and birds of the local countryside, museum named after conservationist [[John Moore (British author)|John Moore]]
+|-
+| [[Keith Harding's World of Mechanical Music]] ||  || [[Northleach]] || [[Cheltenham]]  || Music ||  [http://www.mechanicalmusic.co.uk/ website], antique music boxes, automata and mechanical musical instruments  in a 17th century wool merchant's house
+|-
+| [[Kingswood Heritage Museum]] ||  || [[Kingswood, South Gloucestershire|Kingswood]] || [[South Gloucestershire]]  || Local || [http://www.kingswoodmuseum.org.uk/ website], local history, culture, industry, religion
+|-
+| [[Lydney Park]] || || [[Lydney]]  || [[Forest of Dean]]  || Multiple  ||  17th century country estate with Roman temple complex and artifacts, gardens
+|-
+| [[Merchant’s House, Tewkesbury|Merchant's House]] ||  || [[Tewkesbury]] || [[Tewkesbury (borough)|Tewkesbury]]  || Historic house || [http://www.johnmooremuseum.org/ website], 15th century Tudor house by [[Tewkesbury Abbey]]
+|-
+| [[Stratford Park|Museum in the Park]] || || [[Stroud, Gloucestershire|Stroud]]  || [[Stroud (district)|Stroud]]   || Local ||  Local history, archaeology, art exhibits, culture
+|-
+| [[National Waterways Museum]] || [[File:National Waterways Museum.jpg|125px]] || [[Gloucester]] || [[Gloucester]]  ||  Transportation ||  
+|-
+| [[Nature in Art]] || [[File:Wallsworth Hall.jpg|125px]] || [[Gloucester]] || [[Gloucester]]  || Art ||  Art inspired by nature in all forms, styles and media
+|-
+| [[Newark Park]] || [[File:Newark Park 2.jpg|125px]]|| [[Ozleworth]] || [[Cotswold (district)|Cotswold]]  || Historic house ||  Operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], Tudor country house reflecting over 450 years of inhabitants, gardens
+|-
+| [[Oakridge Village Museum]] || || [[Oakridge Lynch]] || [[Cotswold (district)|Cotswold]]  || Local || [http://www.visitthecotswolds.com/cotswold_attractions.asp?pid=22&amp;pgid=399&amp;attid=12 information], local history, culture, crafts, open by appointment
+|-
+| [[Out of the Hat]] ||  || [[Tewkesbury]] || [[Tewkesbury (borough)|Tewkesbury]]  || Historic house  || [http://www.outofthehat.org.uk/ website], heritage and visitor information centre, 17th century period glovemaker's shop and period history exhibits
+|-
+| [[Owlpen Manor]] || [[File:Owlpen in 2007.jpg|125px]] || [[Owlpen]] || [[Stroud (district)|Stroud]]  || Historic house || Manor house reflecting medieval, Tudor and 18th century periods, and [[Arts and Crafts Movement|Arts and Crafts]] movement restorations, gardens
+|-
+| [[Park House Toy Collectors Museum]] ||  || [[Stow-on-the-Wold]] || [[Cotswold (district)|Cotswold]]  || Toy || [http://www.thetoymuseum.co.uk/ website], toys, dolls, teddy bears, model trains, boats, planes, cars, books, baby plates
+|-
+| [[Prema Arts Centre|Prema]] ||  || [[Uley]] || [[Stroud (district)|Stroud]]  || Art || [http://www.prema.demon.co.uk/ website], arts centre
+|-
+| [[Rodmarton Manor]] ||  || [[Cirencester]] || [[Cotswold (district)|Cotswold]]  || Historic house || Early 20th century house with interior, decorations and furniture built house built according to [[Arts and Crafts movement]] ideals 
+|-
+| [[Sezincote House]] || [[File:Sezincote House.jpg|125px]]|| [[Moreton-in-Marsh]] || [[Cotswold (district)|Cotswold]]  || Historic house ||  19th-century reinterpretation of 16th and 17th-century [[Mughal architecture]], gardens
+|-
+| [[Snowshill Manor]] || [[File:Snowshill Manor - geograph.org.uk - 155591.jpg|125px]] || [[Snowshill]] || [[Cotswold (district)|Cotswold]]  || Historic house ||  Operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], features eclectic collection over 22,00 items including paintings, sculpture, toys, [[Japan|Japanese]] armor and swords, costumes, musical instruments, [[butter stamp]]s, [[cow bell]], [[lock (device)|lock]]s, [[bicycle]]s and more
+|-
+| [[Soldiers of Gloucestershire Museum]] || [[File:SoldiersofGloucestershireMuseum2.jpg|125px]] || [[Gloucester]] ||  [[Gloucester]]  || Military ||  History of the [[Gloucestershire Regiment]] and the [[Royal Gloucestershire Hussars]]
+|-
+| [[The Space, Stroud]] ||  || [[Stroud, Gloucestershire|Stroud]] || [[Stroud (district)|Stroud]]  || Art || [http://www.the-space.org website], arts centre with exhibit gallery
+|-
+| [[Stanway House]] || [[File:StanwayHouse(PhilipHalling)Jun2006.jpg|125px]] || [[Stanway, Gloucestershire|Stanway]] || [[Tewkesbury (borough)|Tewkesbury]]  || Historic house || [[Jacobean architecture|Jacobean]] manor house, 18th century water garden
+|-
+| [[Sudeley Castle]] || [[File:Sudeley-castle-uk.jpg|125px]] || [[Winchcombe]] || [[Tewkesbury (borough)|Tewkesbury]]  || Historic house || Elizabethan castle, gardens, exhibits of textiles
+|-
+| [[Summerfield Gallery]] ||  || [[Cheltenham]] || [[Cheltenham]]  || Art || [http://www.glos.ac.uk/businessandpartnerships/summerfield/Pages/default.aspx website], part of the [[University of Gloucestershire]]
+|-
+| [[Tailor of Gloucester Beatrix Potter Museum and Shop]] ||  || [[Gloucester]] ||  [[Gloucester]]  || Media || [http://www.tailor-of-gloucester.org.uk/ website], located in the original building used by author [[Beatrix Potter]] in her story ''[[The Tailor of Gloucester]]''
+|-
+| [[Tetbury Heritage Centre &amp; Police Bygones Exhibition]] ||  || [[Tetbury]] || [[Cotswold (district)|Cotswold]]  || Law enforcement ||  [http://www.visittetbury.co.uk/police-museum/ website], Victorian police station and courtroom, history of the [[Gloucestershire Constabulary]], collection of restraint equipment
+|-
+| [[Tewkesbury Museum]] ||  || [[Tewkesbury]] || [[Tewkesbury (borough)|Tewkesbury]]  || Local || [http://www.tewkesburymuseum.org/ website], local history, archaeology, culture, 1950s model fair
+|-
+| [[Thornbury and District Museum]] ||  || [[Thornbury, South Gloucestershire|Thornbury]] || [[South Gloucestershire]]  || Local || [http://www.thornburymuseum.org.uk/ website], local history, culture, archaeology
+|-
+| [[Wellington Aviation Museum]] || [[File:The Wellington Aviation Museum - geograph.org.uk - 1525251.jpg|125px]] ||  [[Moreton-in-Marsh]] || [[Cotswold (district)|Cotswold]]  || Military  || [http://www.wellingtonaviation.org/ website], history and artifacts from [[RAF Moreton-in-Marsh]]
+|-
+| [[Winchcombe Folk and Police Museum]] ||  || [[Winchcombe]] || [[Tewkesbury (borough)|Tewkesbury]]  || Multiple ||  [http://www.sunloch.me.uk/museum/index.html website], local history, culture, police uniforms, equipment and artifacts
+|-
+| [[Woodchester Mansion]] || [[File:Woodchester Mansion.jpg|125px]] || [[Woodchester]] || [[Stroud (district)|Stroud]]  || Historic house || Unfinished 19th century Gothic revival mansion house
+|-
+| [[Wotton-under-Edge Heritage Centre]] || || [[Wotton-under-Edge]]  || [[Stroud (district)|Stroud]]   || Local || [http://www.wottonheritage.com/ website], local history, industries and crafts, culture
+|-
+| [[Yate and District Heritage Centre]] ||  || [[Yate]] || [[South Gloucestershire]]  || Local || [http://www.myyate.co.uk/yate/history/yate_heritage_centre website], local history, culture
+|-
+|}
+
+==Defunct museums==
+* Shambles Victorian Village&lt;ref&gt;http://www.ideasforthekids.co.uk/attraction.aspx?attid=e2b233bc-ee0d-4398-9182-2846a3515233 Ideas for Kids, &quot;The Shambles Victorian Village (now closed)&quot;&lt;/ref&gt;, [[Newent]]
+
+==See also==
+* [[:Category:Visitor attractions in Gloucestershire]]
+
+==References==
+{{reflist}}
+*[http://www.thecityofgloucester.co.uk/site/attractions Gloucester Attractions]
+*[http://www.southglos.gov.uk/NR/exeres/2822fec8-b78c-4f04-be7d-128739fc5864 Tourism in South Gloucestershire]
+*[http://www.the-cotswolds.org/top/english/seeanddo/attractions/index.shtml The Cotswolds: Attractions]
+*[http://www.gloucestershirerevealed.co.uk/ Gloucestershire Revealed]
+
+{{Gloucestershire}}
+{{Museums in the United Kingdom}}
+
+[[Category:Museums in Gloucestershire| ]]
+[[Category:Lists of museums in England by county|Gloucestershire]]</text>
+    </revision>
+  </page>
+</mediawiki>

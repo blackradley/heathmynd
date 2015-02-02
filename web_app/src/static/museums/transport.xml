@@ -1,0 +1,684 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
+<href>http://swmuseums.blackradleysystems.com/static/museums/transport.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Cotswold Motoring Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cotswold Motoring Museum<br>
+<a href="http://en.wikipedia.org/wiki/Cotswold_Motoring_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.75916666667,51.8847222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[National Waterways Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> National Waterways Museum<br>
+<a href="http://en.wikipedia.org/wiki/National_Waterways_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.25277777778,51.8619444444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Coleford Great Western Railway Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Coleford Great Western Railway Museum<br>
+<a href="http://en.wikipedia.org/wiki/Coleford_Great_Western_Railway_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.615,51.792,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dean Forest Railway]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dean Forest Railway<br>
+<a href="http://en.wikipedia.org/wiki/Dean_Forest_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.544,51.748,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Swindon and Cricklade Railway]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Swindon and Cricklade Railway<br>
+<a href="http://en.wikipedia.org/wiki/Swindon_and_Cricklade_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.8436,51.607,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[STEAM – Museum of the Great Western Railway]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> STEAM – Museum of the Great Western Railway<br>
+<a href="http://en.wikipedia.org/wiki/STEAM_%E2%80%93_Museum_of_the_Great_Western_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.7949,51.5629,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[SS Great Britain]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> SS Great Britain<br>
+<a href="http://en.wikipedia.org/wiki/SS_Great_Britain" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6084,51.4492,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Kennet &amp; Avon Canal Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Kennet &amp; Avon Canal Museum<br>
+<a href="http://en.wikipedia.org/wiki/Kennet_&amp;_Avon_Canal_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.9945,51.3552,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lambretta Scooter Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lambretta Scooter Museum<br>
+<a href="http://en.wikipedia.org/wiki/Lambretta_Scooter_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.97,51.3485,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Helicopter Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Helicopter Museum<br>
+<a href="http://en.wikipedia.org/wiki/The_Helicopter_Museum_(Weston)" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.9303,51.3395,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Somerset and Dorset Railway Heritage Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Somerset and Dorset Railway Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Midsomer_Norton_railway_station#Somerset_and_Dorset_Railway_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.483,51.281,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[West Somerset Railway]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> West Somerset Railway<br>
+<a href="http://en.wikipedia.org/wiki/West_Somerset_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.4668,51.2061,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[East Somerset Railway]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> East Somerset Railway<br>
+<a href="http://en.wikipedia.org/wiki/East_Somerset_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.478,51.185,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Blue Anchor Railway Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Blue Anchor Railway Museum<br>
+<a href="http://en.wikipedia.org/wiki/Blue_Anchor_railway_station#Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.40239,51.18152,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Watchet Boat Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Watchet Boat Museum<br>
+<a href="http://en.wikipedia.org/wiki/Watchet_Boat_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.3242,51.1795,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Somerset and Dorset Railway Trust Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Somerset and Dorset Railway Trust Museum<br>
+<a href="http://en.wikipedia.org/wiki/Washford_railway_station#Somerset_and_Dorset_Railway_Trust_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.369,51.1618,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Haynes Motor Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Haynes Motor Museum<br>
+<a href="http://en.wikipedia.org/wiki/Haynes_Motor_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.5655,51.0355,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bideford Railway Heritage Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bideford Railway Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Bideford_Railway_Heritage_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.22638888889,51.0194444444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Fleet Air Arm Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Fleet Air Arm Museum<br>
+<a href="http://en.wikipedia.org/wiki/Fleet_Air_Arm_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6448,51.0136,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Yeovil Railway Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Yeovil Railway Centre<br>
+<a href="http://en.wikipedia.org/wiki/Yeovil_Railway_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.61277777778,50.9241666667,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Devon Railway Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Devon Railway Centre<br>
+<a href="http://en.wikipedia.org/wiki/Devon_Railway_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.51,50.8577777778,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bournemouth Aviation Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bournemouth Aviation Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bournemouth_Aviation_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.845,50.775,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Launceston Steam Railway]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Launceston Steam Railway<br>
+<a href="http://en.wikipedia.org/wiki/Launceston_Steam_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.365,50.641,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Swanage Railway]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Swanage Railway<br>
+<a href="http://en.wikipedia.org/wiki/Swanage_Railway" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.98235,50.61353,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Anvil Point Lighthouse]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Anvil Point Lighthouse<br>
+<a href="http://en.wikipedia.org/wiki/Anvil_Point#Anvil_Point_Lighthouse" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.9601,50.592,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Portland Bill Lighthouse]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Portland Bill Lighthouse<br>
+<a href="http://en.wikipedia.org/wiki/Portland_Bill_Lighthouse" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.45722222222,50.5144444444,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[South Devon Railway: Buckfastleigh]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> South Devon Railway: Buckfastleigh<br>
+<a href="http://en.wikipedia.org/wiki/Buckfastleigh_railway_station" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.76877,50.48284,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Tamar Belle Visitor Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Tamar Belle Visitor Centre<br>
+<a href="http://en.wikipedia.org/wiki/Bere_Ferrers_railway_station" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.18125,50.4514,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Plymouth Naval Base Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Plymouth Naval Base Museum<br>
+<a href="http://en.wikipedia.org/wiki/Plymouth_Naval_Base_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.183,50.383,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Smeaton's Tower]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Smeaton's Tower<br>
+<a href="http://en.wikipedia.org/wiki/Smeaton" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.14183,50.36441,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Salcombe Maritime and Local History Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Salcombe Maritime and Local History Museum<br>
+<a href="http://en.wikipedia.org/wiki/Salcombe_Maritime_and_Local_History_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.7822,50.2373,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Start Point Lighthouse]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Start Point Lighthouse<br>
+<a href="http://en.wikipedia.org/wiki/Start_Point_lighthouse" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.63863,50.22144,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[National Maritime Museum Cornwall]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> National Maritime Museum Cornwall<br>
+<a href="http://en.wikipedia.org/wiki/National_Maritime_Museum_Cornwall" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.07,50.1513888889,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Lizard Lighthouse Heritage Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Lizard Lighthouse Heritage Centre<br>
+<a href="http://en.wikipedia.org/wiki/Lizard_Lighthouse" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.20194444444,49.9661111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Valhalla Collection]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Valhalla Collection<br>
+<a href="http://en.wikipedia.org/wiki/Tresco_Abbey_Gardens" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Transport<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-6.3325,49.9477777778,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+
+</Document>
+</kml>

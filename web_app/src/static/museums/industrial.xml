@@ -1,0 +1,380 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
+<href>http://swmuseums.blackradleysystems.com/static/museums/industrial.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Clearwell Caves]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Clearwell Caves<br>
+<a href="http://en.wikipedia.org/wiki/Clearwell_Caves" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.61444444444,51.7711111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bristol Industrial Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bristol Industrial Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bristol_Industrial_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.59856,51.44726,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Wilton Windmill]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Wilton Windmill<br>
+<a href="http://en.wikipedia.org/wiki/Wilton_Windmill" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.6065,51.35192,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Ashton Windmill]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Ashton Windmill<br>
+<a href="http://en.wikipedia.org/wiki/Ashton_Windmill" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.840119,51.248828,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dunster Working Watermill]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dunster Working Watermill<br>
+<a href="http://en.wikipedia.org/wiki/Dunster_Working_Watermill" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.4459,51.1825,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Shoe Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Shoe Museum<br>
+<a href="http://en.wikipedia.org/wiki/The_Shoe_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.7394,51.129,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Somerset Brick and Tile Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Somerset Brick and Tile Museum<br>
+<a href="http://en.wikipedia.org/wiki/Somerset_Brick_and_Tile_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.9938,51.1285,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Gants Mill]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Gants Mill<br>
+<a href="http://en.wikipedia.org/wiki/Gants_Mill" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.4669,51.1064,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Stembridge Tower Mill]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Stembridge Tower Mill<br>
+<a href="http://en.wikipedia.org/wiki/Stembridge_Mill,_High_Ham" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.8203,51.0765,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Bishops Lydeard Mill and Rural Life Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Bishops Lydeard Mill and Rural Life Museum<br>
+<a href="http://en.wikipedia.org/wiki/Bishops_Lydeard_Mill_and_Rural_Life_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.1855,51.0546,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Willows and Wetlands Visitor Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Willows and Wetlands Visitor Centre<br>
+<a href="http://en.wikipedia.org/wiki/Willows_and_Wetlands_Visitor_Centre" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.9356,51.0431,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Otterton Mill]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Otterton Mill<br>
+<a href="http://en.wikipedia.org/wiki/Otterton_Mill" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.30329,50.65954,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Kelly Mine]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Kelly Mine<br>
+<a href="http://en.wikipedia.org/wiki/Kelly_Mine,_Devon" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.703707,50.622854,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Cornish Mines and Engines]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Cornish Mines and Engines<br>
+<a href="http://en.wikipedia.org/wiki/Cornish_Mines_and_Engines" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.263,50.231,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[King Edward Mining Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> King Edward Mining Museum<br>
+<a href="http://en.wikipedia.org/wiki/King_Edward_Mine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.271,50.204,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Camborne School of Mines Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Camborne School of Mines Museum<br>
+<a href="http://en.wikipedia.org/wiki/Camborne_School_of_Mines#Camborne_School_of_Mines_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.11708,50.16867,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Geevor Tin Mine]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Geevor Tin Mine<br>
+<a href="http://en.wikipedia.org/wiki/Geevor_Tin_Mine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.67583333333,50.1525,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Levant Mine and Beam Engine]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Levant Mine and Beam Engine<br>
+<a href="http://en.wikipedia.org/wiki/Levant_Mine_and_Beam_Engine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.6855,50.1521,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Poldark Mine]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Poldark Mine<br>
+<a href="http://en.wikipedia.org/wiki/Poldark_Mine" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Industrial<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.244,50.138,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+
+</Document>
+</kml>

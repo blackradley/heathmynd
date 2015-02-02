@@ -1,0 +1,567 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="BasicStyle">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.0</scale>
+        <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
+        <Icon>
+          <href>http://swmuseums.blackradleysystems.com/static/cornwall/visitor.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name><![CDATA[Boardmasters Festival]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.0476,50.4398,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Boardmasters_Festival">Boardmasters Festival</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bodelva]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.73991,50.36129,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bodelva">Bodelva</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bodmin General]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.7168,50.4662,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bodmin_and_Wenford_Railway">Bodmin and Wenford Railway</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bodmin Road]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.6627,50.4461,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bodmin_and_Wenford_Railway">Bodmin and Wenford Railway</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Coleslogget Halt]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.6745,50.4599,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bodmin_and_Wenford_Railway">Bodmin and Wenford Railway</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Boscarne Junction]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.7614,50.474,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Bodmin_and_Wenford_Railway">Bodmin and Wenford Railway</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Boscastle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.6929,50.684,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Boscastle">Boscastle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Brown Gelly]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.54783611111111,50.5243722222222,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Brown_Gelly">Brown Gelly</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Brown Willy Cairns]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.602179,50.588832,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Brown_Willy_Cairns">Brown Willy Cairns</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Brea Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24483333333333,50.2224583333333,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Basset Cross]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24888888888889,50.2211111111111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sacrificing Rock]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24833333333333,50.2211111111111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carn Brea]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24673,50.22179,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Smugglers' Cave]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.24722222222222,50.2219444444444,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carn_Brea">Carn Brea</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carnewas and Bedruthan Steps]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.032,50.481,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carnewas_and_Bedruthan_Steps">Carnewas and Bedruthan Steps</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Carnglaze Caverns]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.5565,50.4726,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Carnglaze_Caverns">Carnglaze Caverns</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Castle an Dinas, St Columb Major]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.89453,50.42541,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Castle_an_Dinas,_St_Columb_Major">Castle an Dinas, St Columb Major</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chysauster Ancient Village]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.54022222222222,50.1610277777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Chysauster_Ancient_Village">Chysauster Ancient Village</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cot Valley]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.701,50.117,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Cot_Valley">Cot Valley</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Craddock Moor stone circle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.47,50.51,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Craddock_Moor_stone_circle">Craddock Moor stone circle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Dobwalls Adventure Park]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.51882222222222,50.4654527777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Dobwalls_Adventure_Park">Dobwalls Adventure Park</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Duloe stone circle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.484765,50.398013,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Duloe_stone_circle">Duloe stone circle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Eden Project]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.74472222222222,50.3619444444444,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Eden_Project">Eden Project</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fernacre]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.6234,50.5893,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Fernacre">Fernacre</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fistral Beach]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.10235,50.41645,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Fistral_Beach">Fistral Beach</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Godrevy]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.39373,50.23828,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Godrevy">Godrevy</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Goodaver stone circle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.530086,50.548596,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Goodaver_stone_circle">Goodaver stone circle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Helston Railway Preservation Company]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.301,50.125,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Helston_Railway_Preservation_Company">Helston Railway Preservation Company</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[King Arthur's Hall, Tintagel]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.751,50.664,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/King_Arthur's_Hall,_Tintagel">King Arthur's Hall, Tintagel</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Land's End]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.71611111111111,50.0686111111111,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Land's_End">Land's End</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lanyon Quoit]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.59916666666667,50.1475,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lanyon_Quoit">Lanyon Quoit</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Benny Halt]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.0412,50.3756,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lappa_Valley_Steam_Railway">Lappa Valley Steam Railway</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[East Wheal Rose]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.0416,50.3623,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lappa_Valley_Steam_Railway">Lappa Valley Steam Railway</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Launceston Steam Railway]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.365,50.641,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Launceston_Steam_Railway">Launceston Steam Railway</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lizard Point]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.20638888888889,49.9588888888889,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lizard_Point,_Cornwall">Lizard Point, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lost Gardens of Heligan]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.811583,50.285747,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lost_Gardens_of_Heligan">Lost Gardens of Heligan</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lusty Glaze]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.064,50.422,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Lusty_Glaze">Lusty Glaze</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Monkey Sanctuary]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.416,50.368,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Monkey_Sanctuary">Monkey Sanctuary</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mên-an-Tol]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.60445277777778,50.1585527777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Mên-an-Tol">Mên-an-Tol</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[National Seal Sanctuary, Gweek]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.202633,50.091968,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/National_Seal_Sanctuary,_Gweek">National Seal Sanctuary, Gweek</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Newquay Zoo]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.068,50.4114,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Newquay_Zoo">Newquay Zoo</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Paradise Park, Cornwall]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.42617,50.17895,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Paradise_Park,_Cornwall">Paradise Park, Cornwall</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pencarrow]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.765751,50.505288,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Pencarrow">Pencarrow</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pendennis Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.04777777777778,50.1472222222222,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Pendennis_Castle">Pendennis Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Port Eliot]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.30916666666667,50.3972222222222,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Port_Eliot">Port Eliot</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Prideaux Place]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.9459,50.5427,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Prideaux_Place">Prideaux Place</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Restormel Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.67047222222222,50.4217777777778,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Restormel_Castle">Restormel Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Screech Owl Sanctuary]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.898,50.407,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Screech_Owl_Sanctuary">Screech Owl Sanctuary</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Showery Tor]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.615833,50.601389,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Showery_Tor">Showery Tor</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Springfields Fun Park]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.928,50.413,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Springfields_Fun_Park">Springfields Fun Park</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Anthony Head]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.015,50.14,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Anthony_Head">St Anthony Head</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Dominic's Holy Well]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.06,50.264,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Dominic's_Holy_Well">St Dominic's Holy Well</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Michael's Mount]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.4772,50.116,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/St_Michael's_Mount">St Michael's Mount</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Stannon stone circle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.650258,50.589546,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Stannon_stone_circle">Stannon stone circle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Summercourt fair]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.972,50.366,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Summercourt_fair">Summercourt fair</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Carracks]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.551,50.213,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Carracks">The Carracks</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Flambards Experience]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.258,50.092,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Flambards_Experience">The Flambards Experience</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Hurlers (stone circles)]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.4547,50.5142,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Hurlers_(stone_circles)">The Hurlers (stone circles)</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Pipers]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.4599,50.5155,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/The_Pipers">The Pipers</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tintagel Castle]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-4.75936,50.66706,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Tintagel_Castle">Tintagel Castle</a>]]></description>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Wayside Folk Museum]]></name>
+      <styleUrl>#BasicStyle</styleUrl>
+      <Point>
+        <coordinates>-5.567,50.191,0</coordinates>
+      </Point>
+      <Snippet></Snippet>
+      <description><![CDATA[<br>Wikipedia Entry <a href="http://en.wikipedia.org/wiki/Wayside_Folk_Museum">Wayside Folk Museum</a>]]></description>
+    </Placemark>
+  </Document>
+</kml>

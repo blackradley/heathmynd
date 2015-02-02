@@ -1,0 +1,380 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
+<href>http://swmuseums.blackradleysystems.com/static/museums/arts.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Nature in Art]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Nature in Art<br>
+<a href="http://en.wikipedia.org/wiki/Nature_in_Art" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Gloucestershire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.232628,51.905731,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Swindon Art Gallery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Swindon Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Swindon_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Wiltshire
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.7775,51.5528,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Royal West of England Academy]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Royal West of England Academy<br>
+<a href="http://en.wikipedia.org/wiki/Royal_West_of_England_Academy" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.6084,51.4581,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Arnolfini]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Arnolfini<br>
+<a href="http://en.wikipedia.org/wiki/Arnolfini" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Bristol
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.5972,51.4492,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Museum of East Asian Art]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Museum of East Asian Art<br>
+<a href="http://en.wikipedia.org/wiki/Museum_of_East_Asian_Art" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3633,51.3864,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Fashion Museum, Bath]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Fashion Museum, Bath<br>
+<a href="http://en.wikipedia.org/wiki/Fashion_Museum,_Bath" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3624,51.3862,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Holburne Museum of Art]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Holburne Museum of Art<br>
+<a href="http://en.wikipedia.org/wiki/Holburne_Museum_of_Art" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3511,51.38566,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Victoria Art Gallery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Victoria Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Victoria_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.3586,51.38265,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[American Museum in Britain]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> American Museum in Britain<br>
+<a href="http://en.wikipedia.org/wiki/American_Museum_in_Britain" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.311,51.3768,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dunster Doll Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dunster Doll Museum<br>
+<a href="http://en.wikipedia.org/wiki/Dunster_Doll_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Somerset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-3.4459,51.1824,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Plough Arts Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Plough Arts Centre<br>
+<a href="http://en.wikipedia.org/wiki/The_Plough_Arts_Centre,_Torrington" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Devon
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-4.209,50.919,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Russell-Cotes Art Gallery &amp; Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Russell-Cotes Art Gallery &amp; Museum<br>
+<a href="http://en.wikipedia.org/wiki/Russell-Cotes_Art_Gallery_&amp;_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-1.8707,50.7176,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Dorset Teddy Bear Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Dorset Teddy Bear Museum<br>
+<a href="http://en.wikipedia.org/wiki/Dorset_Teddy_Bear_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Dorset
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-2.43283,50.71547,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Tate St Ives]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Tate St Ives<br>
+<a href="http://en.wikipedia.org/wiki/Tate_St_Ives" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.4825,50.2147222222,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Barbara Hepworth Museum]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Barbara Hepworth Museum<br>
+<a href="http://en.wikipedia.org/wiki/Barbara_Hepworth_Museum" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.48138888889,50.2136111111,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Falmouth Art Gallery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Falmouth Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Falmouth_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.0724,50.1557,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Penlee House]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Penlee House<br>
+<a href="http://en.wikipedia.org/wiki/Penlee_House" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.5398,50.1165,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[The Exchange]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> The Exchange<br>
+<a href="http://en.wikipedia.org/wiki/Newlyn_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.551,50.102,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+<Placemark>
+<name><![CDATA[Newlyn Art Gallery]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<b>Name:</b> Newlyn Art Gallery<br>
+<a href="http://en.wikipedia.org/wiki/Newlyn_Art_Gallery" target="_blank">Wikipedia Entry</a><br>
+<b>Type:</b> Arts<br>
+<b>County:</b> Cornwall
+</div>]]>
+</description>
+<Point>
+<coordinates>
+-5.551,50.102,0
+</coordinates>
+</Point>
+
+
+</Placemark>
+
+</Document>
+</kml>
