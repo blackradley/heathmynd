@@ -1,4 +1,4 @@
-# Project: Hope Bowdler
+# Project: Heathmynd - Museum Mapping
 *** 
 Copyright (c) 2011 Black Radley Systems Limited. All rights reserved.
 
