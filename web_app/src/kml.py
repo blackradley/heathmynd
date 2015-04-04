@@ -10,7 +10,7 @@ from google.appengine.ext.webapp import template
 from google.appengine.ext import webapp
 
 data = None
-headers = { 'User-Agent' : 'ProjectHopeBowdler (+http://www.blackradley.com/contact-us/)' }
+headers = { 'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact-us/)' }
 
 class MainPage(webapp.RequestHandler):
     def get(self):

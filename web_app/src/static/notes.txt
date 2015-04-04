@@ -1,11 +1,4 @@
 Icons from
 
-http://code.google.com/p/google-maps-icons
+https://mapicons.mapsmarker.com/
 
-Lat Long corrections from
-
-http://www.getlatlon.com/
-
-Competitor
-
-http://www.museumsincornwall.org.uk/map
