@@ -10,7 +10,7 @@ from google.appengine.ext import webapp
 class MainPage(webapp.RequestHandler):
     def get(self):
         if self.request.path == '/':
-            page = 'index.htm'
+            page = 'museums.htm'
         else:
             page = self.request.path.strip('/')
         path = os.path.join(os.path.dirname(__file__), page)

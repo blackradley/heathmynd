@@ -1,5 +1,4 @@
-<?xml version="1.0" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns:xsd="http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="http://www.opengis.net/kml/2.2/" version="1.0">
   <Document>
     <Style id="BasicStyle">
       <BalloonStyle>
@@ -12,7 +11,7 @@
         <scale>1.0</scale>
         <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/>
         <Icon>
-          <href>http://swmuseums.blackradleysystems.com/static/cornwall/beach.png</href>
+          <href>https://heathmynd.appspot.com/static/cornwall/beach.png</href>
         </Icon>
       </IconStyle>
     </Style>

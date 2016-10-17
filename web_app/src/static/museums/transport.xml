@@ -10,7 +10,7 @@
 <color>FFFFFFFF</color>
 <scale>1.1</scale>
 <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction"/><Icon>
-<href>http://swmuseums.blackradleysystems.com/static/museums/transport.png</href>
+<href>https://heathmynd.appspot.com/static/museums/transport.png</href>
 </Icon>
 </IconStyle>
 </Style>
@@ -110,11 +110,11 @@
 
 </Placemark>
 <Placemark>
-<name><![CDATA[STEAM – Museum of the Great Western Railway]]></name>
+<name><![CDATA[STEAM ï¿½ Museum of the Great Western Railway]]></name>
 <styleUrl>#BasicStyle</styleUrl>
 <description>
 <![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
-<b>Name:</b> STEAM – Museum of the Great Western Railway<br>
+<b>Name:</b> STEAM ï¿½ Museum of the Great Western Railway<br>
 <a href="http://en.wikipedia.org/wiki/STEAM_%E2%80%93_Museum_of_the_Great_Western_Railway" target="_blank">Wikipedia Entry</a><br>
 <b>Type:</b> Transport<br>
 <b>County:</b> Wiltshire
