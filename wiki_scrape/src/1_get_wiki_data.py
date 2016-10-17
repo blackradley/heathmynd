@@ -16,7 +16,8 @@ wiki_pages = [
               #'List_of_museums_in_Gloucestershire',
               #'List_of_museums_in_Somerset',
               #'List_of_museums_in_Wiltshire',
-              'List_of_museums_in_Leicestershire'
+              #'List_of_museums_in_Leicestershire',
+              'List_of_museums_in_Essex'
              ]
 data = None
 headers = { 'User-Agent' : 'ProjectHopeBowdler (+http://www.blackradley.com/contact-us/)' }

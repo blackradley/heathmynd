@@ -5,16 +5,17 @@ Joe J Collins
 31 March 2011
 '''
 import re # for regular expressions
+import urllib # for url encoding
 import urllib2 # for getting the gear from Wikipedia
 import string
 import simplejson
 
 data = None
-headers = { 'User-Agent' : 'ProjectHopeBowdler (+http://www.blackradley.com/contact-us/)' }
+headers = { 'User-Agent' : 'HeathMynd (+http://www.blackradley.com/contact-us/)' }
 
 def get_wiki_location(link):
+    link = urllib.urlencode(link)
     kml_url = 'http://toolserver.org/~para/cgi-bin/kmlexport?article=' + link.replace('&', '%26')
-    # I know replace('&', '%26') is naff, but I can't be arsed to think about encoding.
     kml_request = urllib2.Request(kml_url, data, headers)
     kml_response = urllib2.urlopen(kml_request)
     kml = kml_response.read()

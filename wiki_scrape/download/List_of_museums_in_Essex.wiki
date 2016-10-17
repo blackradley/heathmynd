@@ -1,0 +1,292 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of museums in Essex</title>
+    <ns>0</ns>
+    <id>26760917</id>
+    <revision>
+      <id>662173674</id>
+      <parentid>651510603</parentid>
+      <timestamp>2015-05-13T16:37:28Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>/* Museums */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: [[Epping]] → [[Epping, Essex|Epping]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22688">{{Commons category|Museums in Essex}}
+This '''list of museums in [[Essex]], [[England]]''' contains [[museum]]s which are defined for this context as institutions (including [[nonprofit organization]]s, government entities, and private [[business]]es) that collect and care for objects of cultural, artistic, scientific, or historical interest and make their collections or related exhibits available for public viewing. Also included are non-profit art galleries and university art galleries.  Museums that exist only in cyberspace (i.e., [[virtual museum]]s) are not included.  
+&lt;!-- Note: Please do not post websites for museums with existing Wikipedia articles, but please do verify that the existing article has the correct website. In this way, if the website changes, only the main article needs to be updated. --&gt;
+
+==Museums==
+
+To use the sortable table, click on the icons at the top of each column to sort that column in alphabetical order; click again for reverse alphabetical order.
+
+{| class=&quot;wikitable sortable&quot; 
+!| Name
+!| Image
+!| Town/City
+!| Region
+!| Type
+!| Summary
+|-
+| Art Exchange ||  || Colchester || Colchester || Art || [http://www.artexchange.org.uk/ website], part of the [[University of Essex]], international, contemporary art by established and emerging artists, historic figures who continue to inspire, and group shows
+|-
+| [[Ashdon Museum]] ||  || [[Ashdon]] || [[Uttlesford]] || Local  || [http://www.ashdonvillagemuseum.co.uk/ website], local history, trades, agriculture, social history
+|-
+| [[Audley End House]] || [[File:House Audley End cz.jpg|125px]] || [[Saffron Walden]] || Uttlesford || Historic house || Operated by [[English Heritage]], early 17th-century country house, finely furnished rooms, masterpieces by [[Hans Holbein the Younger|Hans Holbein]] and [[Canaletto]], 1880s period servant's wing, gardens
+|-
+| [[Aythorpe Roding Windmill]] || [[File:Aythorpe Roding Mill - geograph.org.uk - 515645.jpg|125px]] || [[Aythorpe Roding]] || Uttlesford || Mill || Late 18th century windmill
+|-
+| [[Barleylands Farm Museum]] ||  || [[Billericay]] || [[Basildon (district)|Basildon]] || Agriculture || Early farm machinery and tractors, tools, household implements, farm and animals
+|-
+| [[Beecroft Art Gallery]] ||  || [[Southend-on-Sea]] || Southend-on-Sea || Art || Collection ranges from 17th-century Dutch paintings to contemporary work
+|-
+| [[Bocking Windmill]] || [[File:Bocking Windmill, Church Street, Bocking, Braintree - geograph.org.uk - 57800.jpg|125px]] || [[Braintree, Essex|Bocking]] || [[Braintree (district)|Braintree]] || Mill || Early 18th century windmill
+|-
+| [[Bourne Mill, Essex]] ||  || [[Colchester]] || [[Colchester (borough)|Colchester]] || Mill || [http://www.nationaltrust.org.uk/bourne-mill/ website], operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], Elizabethan water mill
+|-
+| Boxted Airfield Museum || || [[Langham, Essex|Langham]] || Colchester || Military || [http://www.boxted-airfield.com/boxted-airfield-museum website], history of [[RAF Boxted]] in WWII
+|-
+| [[Bragg's Mill, Ashdon|Bragg's Mill]] ||  || [[Ashdon]] || Uttlesford || Mill || Mid 18th century windmill
+|-
+| [[Braintree Museum]] || [[File:Braintree District Museum, Manor Street, Braintree - geograph.org.uk - 59717.jpg|125px]] || Braintree || Braintree || Multiple || [http://www.braintreemuseum.co.uk/ website], local history, industry, textiles, ceramics and art, and &quot;[[The Essex Model House]]&quot; by [[St Osyth Mahala Wood]]
+|-
+| Brentwood Museum ||  || [[Brentwood, Essex|Brentwood]] || [[Borough of Brentwood|Brentwood]] || Local || [http://www.brentwoodmuseum.org.uk website]
+|-
+| Brightlingsea Museum ||  || [[Brightlingsea]] || [[Tendring]] || Local || [http://www.brightlingsea-town.co.uk/history/museum.htm website], local history, Roman life, shipbuilding, oyster industry
+|-
+| [[Burnham-on-Crouch &amp; District Museum]] ||  || [[Burnham-on-Crouch]] || [[Maldon (district)|Maldon]] || Local || Local history, maritime, agricultural, industrial and social history
+|-
+| Canvey Island Heritage Centre || || [[Canvey Island]] || [[Castle Point]] || Local || [https://canveyislandheritagecentre.wordpress.com/ website]
+|-
+| Canvey Island Transport Museum ||[[File:Canvey Bus Museum - geograph.org.uk - 107555.jpg|125px]]  || Canvey Island || Castle Point || Transportation || [http://www.castlepointtransportmuseum.co.uk/ website], automobiles, buses, commercial, military and emergency vehicles, public road transport artifacts, model train layout; located in a former bus depot
+|-
+| [[Cater Museum]] ||  || [[Billericay]] || Basildon || Local || [http://www.catermuseum.co.uk/ website], local history, period rooms
+|-
+| [[Chelmsford Museums|Chelmsford Museum]] ||  || [[Chelmsford]] || [[Chelmsford (borough)|Chelmsford]] || Multiple || Local history, art, archaeology, natural history, industry, part of [[Chelmsford Museums]]
+|-
+| [[Coalhouse Fort]] || [[File:Coalhouse Fort, Tilbury UK.jpg|125px]] || [[East Tilbury]] || [[Thurrock]] || Military || 19th century Victorian coastal defence fort open on specified days, includes military museums and vehicles
+|-
+| [[Coggeshall Grange Barn]] || || [[Coggeshall]] || Colchester || Agriculture || [http://www.nationaltrust.org.uk/coggeshall-grange-barn/ website], operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], 14th century barn built for [[Coggeshall Abbey]], collection of farm tools and equipment
+|-
+| Coggeshall Museum ||  || Coggeshall || Colchester || Local || [http://www.coggeshallmuseum.org.uk/ website], local history, industry, agriculture, culture, lace
+|-
+| [[Colchester Castle|Colchester Castle Museum]] || [[File:Colchester castle 800.jpg|125px]] || Colchester || Colchester || History || Norman castle with exhibits of local history, archaeology and Roman history 
+|-
+| Colne Valley Postal History Museum ||  || [[Halstead]] || Braintree || Philatelic || [http://www.cvphm.org.uk/ website], [[British Post Office]] [[letter box]]es, [[Postage stamp|stamp]] [[vending machine]]s, documents, postal uniforms and associated artefacts, open by appointment 
+|-
+| [[Colne Valley Railway]] ||  || [[Sible Hedingham]] || Braintree || Railway || Heritage railway, 7¼&quot; miniature railway, exhibit centre with history and artefacts, rare breed farm, located at [[Castle Hedingham Station]]
+|-
+| [[Combined Military Services Museum]] ||  || [[Maldon, Essex|Maldon]] || Maldon || Military || Combat equipment and weaponry used by the British armed forces from medieval times to the present, lifestyles of the troops, uniforms, [[Secret Intelligence Service|Secret Service]], artifacts, vehicles
+|-
+| [[Copped Hall]] || [[File:Copped Hall east west 1.jpg|125px]] || [[Waltham Abbey (town)|Waltham Abbey]] || [[Epping Forest (district)|Epping Forest]] || Historic house || Georgian mansion under restoration, gardens
+|-
+| [[Cressing Temple]] ||  || [[Cressing]] || Braintree || History || Medieval barns and well used by temple of the [[Knights Templar]], Tudor walled garden, early 17th-century house, granary and court hall
+|-
+| [[Duck End Mill, Finchingfield|Duck End Mill]] || [[File:Finchingfield post Windmill.jpg|125px]] || [[Finchingfield]] || Braintree || Mill || Mid 18th century windmill
+|-
+| Dutch Cottage Museum || [[File:Dutch Cottage Museum, Canvey Island - geograph.org.uk - 246513.jpg|125px]] || [[Canvey Island]] || [[Castle Point]] || Historic house || [http://www.benfleethistorical.org/aboutus.php website], operated by the Benfleet and District Historical Society
+|-
+| Earls Colne Heritage Museum ||  || [[Earls Colne]] || Braintree || Local || [http://www.echm.org.uk/ website], local history
+|-
+| [[East Anglian Railway Museum]] || [[File:Chappel and Wakes Colne Railway Station, Essex - geograph.org.uk - 42029.jpg|125px]] || [[Chappel]] || Colchester || Railway || Heritage railway and museum, includes equipment, station buildings, signal boxes, goods shed and restoration shed
+|-
+| East Essex Aviation Society and Museum || [[File:Martello Tower at Point Clear 4.jpg|125px]] || [[St Osyth]] || Tendring || Military || [http://eastessexaviationsociety.org/ website], located in a Martello tower, military artifacts, items recovered from local aircraft crash sites
+|-
+| [[Epping Forest District Museum]] ||  || [[Waltham Abbey (town)|Waltham Abbey]] || Epping Forest || Local || [http://www.eppingforestdc.gov.uk/index.php/out-and-about/museums/museum-home website], local history, archaeology, history of the abbey, medieval and Tudor artifacts, Victorian life
+|-
+| Essex Fire Museum ||  || [[Grays]] || Thurrock || Firefighting || [http://www.essex-fire.gov.uk/Fire_Museum/ website]
+|-
+| Essex Police Museum ||  || Chelmsford || Chelmsford || Law enforcement || [http://www.essex.police.uk/museum/ website], history of Essex Police from 1840 to present day, Victorian jail cell
+|-
+| [[Essex Regiment#Essex Regiment Museum|Essex Regiment Museum]] ||  || Chelmsford || Chelmsford || Military || Regimental history and memorabilia, part of [[Chelmsford Museums]]
+|-
+| Feering and Kelvedon Local History Museum || ||  [[Kelvedon]] || Braintree || Local || [http://www.kelvedon.org.uk/localhistory/museum.htm website], local history, archaeology, agriculture, trades
+|-
+| [[Finchingfield Guildhall]] || [[File:Finchingfield Guildhall.jpg|125px]] || [[Finchingfield]] || Braintree || Local || [http://www.finchingfieldguildhall.org.uk/ website], 15th century [[guildhall]] under restoration, houses the Finchingfield Heritage Center and Finchingfield Library
+|-
+| [[Firstsite]] || || Colchester || Colchester || Art || Contemporary visual arts centre and gallery
+|-
+| Frinton's Crossing Cottage, Garden and Railway Museum ||  || [[Frinton-on-Sea]] || Tendring || Local || [http://www.fwheritage.co.uk/frinton.aspx website], operated by the Frinton &amp; Walton Heritage Trust, local and area railroad history
+|-
+| [[Fry Art Gallery]] ||  || [[Saffron Walden]] || Uttlesford || Art || Emphasis on local artists, includes paintings, prints, illustrations, wallpapers and decorative designs by artists of the 20th century and the present 
+|-
+| [[Gibberd Gallery]] ||  || [[Harlow]] || [[Harlow]] || Art || [http://www.gibberdgallery.co.uk/ website], changing exhibits and [[Frederick Gibberd]] collection of British watercolours and drawings, operated by The Harlow Art Trust
+|-
+| Great Bardfield Cottage Museum ||  || [[Great Bardfield]] || Braintree || Local || [http://www.visiteastofengland.com/Braintree-Summer-opening-of-Great-Bardfield-Cottage-Museum/details/?dms=13&amp;venue=0248941&amp;feature=2 information], local history
+|-
+| [[Great Dunmow Museum]] ||  || [[Great Dunmow]] || Uttlesford || Local || [http://www.greatdunmowmuseum.org.uk/ website], local history, industry, culture
+|-
+| Halstead Heritage Museum ||  || [[Halstead]] || Braintree || Local || [http://www.halsteadhistory.org.uk/ website], local history, culture, transport, operated by the Halstead &amp; District Local History Society
+|-
+| [[Harlow Museum]] ||  || [[Harlow]] || [[Harlow]] || Local || [http://www.science-alive.co.uk website], walled gardens, local history, Roman era &amp; artifacts, Tudor life, Victorian household items, toys
+|-
+| [[Harwich Lifeboat Museum]] ||  || [[Harwich]] || Tendring || Maritime || [http://www.harwich.net/society.htm website], operated by the Harwich Society, [http://rnli.harwich.org.uk/LifeboatMuseum/LifeboatMuseum1.htm information], located in a former [[lifeboat (rescue)|lifeboat]] station with exhibits about sea rescues
+|-
+| [[Harwich Maritime Museum]] ||  || Harwich || Tendring || Maritime || [http://www.harwich.net/society.htm website], operated by the Harwich Society, located in a decommissioned [[lighthouse]], nautical artifacts, [http://www.visitessex.com/harwich/thedms.aspx?dms=13&amp;venue=0231980 information]
+|-
+| [[Harwich Redoubt]] || [[File:Harwich Redoubt 01 - general view.JPG|125px]] ||Harwich || Tendring || Military || Napoleonic fort, operated by the Harwich Society
+|-
+| [[Hedingham Castle]] || [[File:The Keep at Castle Hedingham - geograph.org.uk - 30510.jpg|125px]] || [[Castle Hedingham]] || Braintree || Historic house || Medieval Norman keep and grounds
+|-
+| [[Hill Hall (Essex)|Hill Hall]] ||  ||  [[Epping, Essex|Epping]] || Epping Forest || Historic house || Operated by [[English Heritage]], Elizabethan mansion, tours by appointment
+|-
+| [[Hollytrees Museum]] || [[File:Hollytrees museum, Colchester - geograph.org.uk - 189300.jpg|125px]] || Colchester || Colchester || Local || Local history, toys, costumes
+|-
+| [[Hylands House]] || [[File:Hylands house.jpg|125px]] || Chelmsford || Chelmsford || Historic house || Restored 18th century Queen Anne style house, park and gardens
+|-
+| [[Ingatestone Hall]] || [[File:IngatestoneHall(JohnSTurner)May2003.jpg|125px]] || [[Ingatestone]] || [[Borough of Brentwood|Brentwood]] || Historic house || 16th century Tudor house and grounds
+|-
+| [[John Webb's Mill, Thaxted|John Webb's Mill]] ||[[File:Thaxted Windmill and Church - geograph.org.uk - 158193.jpg|125px]] ||  [[Thaxted]] || Uttlesford || Mill || Early 19th century windmill
+|-
+| [[Kelvedon Hatch Secret Nuclear Bunker]] || [[File:Entrance to Kelvedon Hatch Nuclear Bunker.jpg|125px]] || [[Kelvedon Hatch]] || [[Borough of Brentwood|Brentwood]] || Military ||  Underground bunker used during the [[Cold War]] as a regional government headquarters
+|-
+| [[Dunton Plotlands|Langdon Visitor Centre &amp; Haven Plotlands Museum]] ||  || [[Basildon]] || Basildon || Multiple || Natural history of the nature reserve, also Haven Plotlands Museum, a 1930s period bungalow country getaway 
+|-
+| [[Layer Marney Tower]] || [[File:Layer marney2.jpg|125px]] || Colchester || Colchester || Historic house || 16th century Tudor palace and gardens
+|-
+| Little Baddow History Centre ||  || [[Little Baddow]] || Chelmsford || Local || [http://mel-thompson.co.uk/History%20Centre/ website]
+|-
+| [[Maeldune Centre]] ||  || Maldon || Maldon || Local  || Local history, art, modern large embroidery about the [[Battle of Maldon]]
+|-
+| Maldon District Agricultural &amp; Domestic Museum || [[File:The Maldon and District Agricultural and Domestic Museum, Goldhanger, Essex - geograph.org.uk - 172860.jpg|125px]] || Maldon || Maldon || History || [http://www.essexmums.org/placesmaldonagmuseum.html information], vintage farm machinery and equipment, agriculture tools, household items
+|-
+| Maldon Museum ||  || Maldon || Maldon || Local || [http://www.maldonmuseum.org.uk/ website], also known as Museum in the Park, located in a park keeper's lodge
+|-
+| [[Mangapps Railway Museum]] || [[File:Mangaps03.jpg|125px]] || [[Burnham-on-Crouch]] || Maldon || Railway || Heritage railway and museum, includes rolling equipment, memorabilia, buildings
+|-
+| Manningtree Museum ||  || [[Manningtree]] || Tendring || Local || [http://www.manningtree-museum.org.uk/ website], local history 
+|-
+| Mersea Island Museum ||  || [[Mersea Island]] || Colchester || Local || [http://www.merseamuseum.org.uk/ website], fishing, oystering, wild fowling, boat building, local history, natural history, geology
+|-
+| [[The Minories, Colchester|Minories Art Gallery]] || || Colchester || Colchester || Art || Part of the [[Colchester Institute]]
+|-
+| [[Mountnessing Windmill]] || [[File:Mountnessing windmill.jpg|125px]] || [[Mountnessing]] || [[Borough of Brentwood|Brentwood]] || Mill || Early 19th century windmill
+|-
+| [[Castle House, Dedham|Munnings Art Museum]] ||  || [[Dedham, Essex|Dedham]] || Colchester || Art || Home and works of Sir [[Alfred Munnings]], located in Castle House
+|-
+| [[Museum of Power]] ||  || [[Langford, Essex|Langford]] || Maldon || Technology || Located in a water pumping station, features working examples of steam engines, machinery, equipment and tools, miniature railway
+|-
+| [[Natural History Museum, Colchester]] ||  || Colchester || Colchester || Natural history ||[http://www.cimuseums.org.uk/article/10732/Natural-History-Museum website], natural heritage of north-east Essex
+|-
+| [[Naze Tower]] ||  || [[Walton-on-the-Naze]] || Tendring || Natural history || Tower with viewing platform, museum about the ecology and environment of the Naze headland, art gallery
+|-
+| [[Nazeing Glass Museum of 20th Century British Domestic Glass]] || || [[Nazeing]]|| Epping Forest || Art || [http://www.nazeing-glass.com/museum/ website], works and history of Nazeing Glass Works and other British glass manufacturers in the 20th century
+|-
+| [[North Weald Airfield|North Weald Airfield Museum]] ||  ||  [[North Weald Bassett]] || Epping Forest || Military || History of the former military airfield
+|-
+| [[Nottage Maritime Institute]] ||  || [[Wivenhoe]] || Colchester || Maritime || [http://www.nottagemaritimeinstitute.org.uk/ website], maritime paintings, photographs, models and artifacts
+|-
+| [[Paycocke's]] ||  || Coggeshall || Colchester || Historic house || [http://www.nationaltrust.org.uk/main/w-paycockes website], operated by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]], early 16th-century house with elaborate paneling and woodcarving, garden
+|-
+| Peter Edwards Museum &amp; Library ||  || Chelmsford || Chelmsford || Sports || [http://www.essexcricket.org.uk/team/history/ website], history and memorabilia of the [[Essex County Cricket Club]], located at [[County Cricket Ground, Chelmsford|County Cricket Ground]]
+|-
+| [[Prittlewell Priory]] || [[File:Prior's Chamber and Crowstone - geograph.org.uk - 1929931.jpg|125px]] || Southend-on-Sea || Southend-on-Sea || Religious || Medieval [[priory]]
+|-
+| [[Purfleet Heritage &amp; Military Centre]] ||  || [[Purfleet]] || Thurrock || Military || [http://www.purfleet-heritage.com/ website], located in a former Royal [[Magazine (artillery)|magazine]] for [[gunpowder]], artifacts and memorabilia from all the armed forces
+|-
+| [[Rayleigh Windmill]] || [[File:Rayleigh windmill - geograph.org.uk - 211121.jpg|125px]] || [[Rayleigh, Essex|Rayleigh]] || [[Rochford (district)|Rochford]] || Mill || Early 19th century windmill
+|-
+| Ridgewell Airfield Commemorative Museum ||  || [[Ridgewell]] || Braintree || Military || [http://www.381st.com/ website], uniforms, artifacts, medals, memorabilia of the [[World War II]] airfield, the [[381st Bomb Group]] and the [[No. 90 Squadron RAF]]
+|-
+| [[Waltham Abbey Royal Gunpowder Mills|Royal Gunpowder Mills]] ||  || [[Waltham Abbey (town)|Waltham Abbey]] || Epping Forest || Multiple || Complex includes science of gunpowder exhibits, history of the site, exhibits of weapons and military artifacts, transportation, rockets, 1940s street scene, history of the [[Gunpowder Plot]], narrow gauge railway, woodlands
+|-
+| [[Saffron Walden Museum]] || ||  [[Saffron Walden]] || Uttlesford || Multiple || [http://saffronwaldenmuseum.org/ website], local history, natural history, Ancient Egypt, archaeology, decorative arts, costumes, ethnographic artifacts
+|-
+| [[Sandford Mill]] ||  || Chelmsford || Chelmsford || Science || [http://www.chelmsford.gov.uk/sandfordmill website], area industrial history and the science involved, part of [[Chelmsford Museums]]
+|-
+| [[Southchurch Hall]] ||  || Southend-on-Sea || Southend-on-Sea || Historic house || Early 14th century half-timbered medieval manor house with period rooms depicting life in different centuries
+|-
+| [[Southend Central Museum]] ||  || Southend-on-Sea || Southend-on-Sea || Multiple || Local history, natural history, planetarium
+|-
+| [[Southend Pier#21st century|Southend Pier Museum]] ||  || Southend-on-Sea || Southend-on-Sea || Amusement || History of the Southend Pier, working penny slot machines
+|-
+| [[Stansted Mountfitchet Windmill]] ||[[File:Stansted Mountfitchet mill.jpg|125px]] ||  [[Stansted Mountfitchet]] || Uttlesford || Mill || Late 18th century windmill
+|-
+| [[Stock Windmill]] || [[File:Stock mill.jpg|125px]]||  [[Stock, Essex|Stock]] || Chelmsford || Mill || Early 19th century windmill
+|-
+| [[Thaxted Guildhall]] || [[File:Thaxted guildhall.JPG|125px]]  || [[Thaxted]] || Uttlesford || Historic house || [http://www.thaxted.co.uk/content/guildhall website], 14th century [[guild]] hall
+|-
+| The Time Machine ||  || Harlow || Harlow || Science || [http://www.science-alive.co.uk website], hands-on science and technology exhibits
+|-
+| [[Thurrock Museum]] ||  || [[Grays]] || Thurrock || Local || [http://www.thurrock.gov.uk/heritage/museum/ website], local history, culture, archaeology, industry, culture, social history
+|-
+| [[Tilbury Fort]] || [[File:Tilbury fort water gate.jpg|125px]] || [[Tilbury]] || Thurrock || Military || Operated by [[English Heritage]], 17th century artillery fort
+|-
+| Walton Maritime Museum || [[File:Walton Maritime Museum, Walton-on-the-Naze, Essex - geograph.org.uk - 195823.jpg|125px]] || [[Walton-on-the-Naze]] || Tendring || Maritime || [http://www.fwheritage.co.uk/waltoninfo.aspx website], former lifeboat station with maritime artifacts, local history, natural history, restore [[James Stevens lifeboats|James Stevens 14 lifeboat]], operated by the Frinton &amp; Walton Heritage Trust
+|-
+| [[Warner Textile Archive]] ||  || Braintree || Braintree || Textile|| Archive of some 100,000 items relating to the textile industry in Braintree, in particular the legacy of Warner and Sons
+|-
+| [[Wilkin &amp; Sons|Wilkin &amp; Sons Visitor Centre]] ||  || [[Tiptree]] || Colchester || Food || Tearoom, shop and museum of Wilkin &amp; Sons jams and jam-making
+|-
+|}
+
+==Defunct museums==
+* Motorboat Museum, Basildon; closed December 2009&lt;ref&gt;http://www.motorboatmuseum.org.uk/home/ Motorboat Museum&lt;/ref&gt;
+* Southend Historic Aircraft Museum, Southend-on-Sea; closed May, 1983 [http://www.southendtimeline.com/aircraftmuseum.htm &amp;#91;2&amp;#93;]
+* Tymperleys Clock Museum, Colchester, closed in 2010, clocks now at Hollytrees Museum&lt;ref&gt;{{cite web|title=Tymperleys' time is coming again|url=http://www.gazette-news.co.uk/NEWS/10926386.Tymperleys__time_is_coming_again/|publisher=Daily Gazette|accessdate=13 March 2015|date=January 10, 2014}}&lt;/ref&gt;
+* Walton Hall Museum, [[Stanford-le-Hope]], closed in 2010&lt;ref&gt;{{cite web|title=Walton Hall Museum shuts its doors after more than 18 years|url=http://www.thurrockgazette.co.uk/news/8680616.Walton_Hall_Museum_shuts_its_doors_after_more_than_18_years/|publisher=Thurrock Gazette|accessdate=13 March 2015|date=November 23, 2010}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+* [http://www.museumsinessex.org/ Museums in Essex]
+
+==See also==
+* [[:Category:Visitor attractions in Essex|Visitor attractions in Essex]]
+
+{{Essex}}
+{{Museums in the United Kingdom}}
+
+[[Category:Museums in Essex| ]]
+[[Category:Lists of museums in England by county|Essex]]
+[[Category:Essex-related lists|Museums]]</text>
+      <sha1>r1bmp02v1kcbz24y6db1z83chfzq8z5</sha1>
+    </revision>
+  </page>
+</mediawiki>

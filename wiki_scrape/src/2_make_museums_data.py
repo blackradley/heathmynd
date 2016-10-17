@@ -7,13 +7,13 @@ Joe J Collins
 import helpers_list
 import helpers_geo
 
-output_file_name = '../upload/List_of_museums_in_South_West.txt'
+output_file_name = '../upload/List_of_museums.txt'
 output_file = open(output_file_name,"wb")
 output_file.write('name\tlink\ttype\ticon\tlat\tlng\tcounty\n')
 
-counties = ['Bristol', 'Cornwall', 'Devon', 'Dorset', 'Gloucestershire', 'Somerset', 'Wiltshire']
-
+#counties = ['Bristol', 'Cornwall', 'Devon', 'Dorset', 'Gloucestershire', 'Somerset', 'Wiltshire']
 #counties = ['Leicestershire']
+counties = ['Essex']
 
 # open a file for output date
 for county in counties:
@@ -38,6 +38,8 @@ for county in counties:
         classified_type = helpers_list.classify_type(type)
         iconized_type = helpers_list.iconize_type(classified_type)
         location = helpers_geo.get_wiki_location(link)
+        if location[0] == 0.0:
+            helpers_geo.get_google_location(name, county)
         lat = location[0]
         lng = location[1]
         print name
