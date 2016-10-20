@@ -6,7 +6,7 @@
             "type": "python",
             "pythonPath":"c:/python27/python.exe", 
             "request": "launch",
-            "stopOnEntry": true,
+            "stopOnEntry": false,
             "externalConsole":false,
             "program": "${file}",
             "debugOptions": [
