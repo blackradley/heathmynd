@@ -8,7 +8,6 @@ import re # for regular expressions
 import urllib # for url encoding
 import urllib2 # for getting the gear from Wikipedia
 import string
-import simplejson
 
 data = None
 headers = { 'User-Agent' : 'HeathMynd (+http://www.blackradley.com/contact-us/)' }
@@ -29,24 +28,19 @@ def get_wikipedia_location(wikipedia_link):
     return [lat, lng]
 
 def get_google_location(name, county):
-    # e.g. http://maps.googleapis.com/maps/api/geocode/json?address=Basildon%20Park,%20Berkshire&bounds=49.766807,-7.557160|56.474628,3.493652&region=uk
-    address_string = (name + ', ' + county).replace(' ', '+')
-    boundary_box_string =  __uk_boundry_box()
-    google_url = 'http://maps.googleapis.com/maps/api/geocode/json?address=' + address_string + '&bounds=' + boundary_box_string + '&region=uk'
-    print google_url
-    google_request = urllib2.Request(google_url, data, headers)
-    google_response = urllib2.urlopen(google_request)
-    json = simplejson.loads(google_response.read())
-    location = []
-    # http://stackoverflow.com/questions/4639311/parsing-json-file-with-python-google-map-api
-    if json['status'] == 'OK':
-        for s in json['results']:
-             lat = s['geometry']['location']['lat'] 
-        for s in json['results']:
-             lng = s['geometry']['location']['lng'] 
-        location = [lat, lng]
-    else:
+    # e.g. https://www.google.co.uk/search?q=A+La+Ronde,+Devon&num=1&hl=en&start=0&cr=countryUK%7CcountryGB
+    query = name + ", " + county
+    html_url = "http://www.google.com/search?q=%s&num=1&hl=en&start=0&cr=countryUK|countryGB" % (urllib.quote_plus(query))
+    html_request = urllib2.Request(html_url, data, headers)
+    html_response = urllib2.urlopen(html_request)
+    html = html_response.read()
+    location = re.search('ll=\d+\.\d+,(-|)\d+\.\d+', html)
+    location = location.group(0)
+    if location.isspace():
         location = [0.0,0.0]
+    else:
+        location = location[3:].split(',')
+        location = [float(i) for i in location]
     return location
 
 def __uk_boundry_box():
