@@ -8,7 +8,7 @@ Bocking Windmill	Bocking_Windmill	Industrial	measle_turquoise	51.904	0.563	Essex
 Bourne Mill, Essex	Bourne_Mill,_Essex	Industrial	measle_turquoise	51.877044	0.912377	Essex
 Bragg's Mill	Bragg's_Mill,_Ashdon	Industrial	measle_turquoise	52.0584	0.3258	Essex
 Braintree Museum	Braintree_Museum	Multiple	small_red	51.8784169	0.5539372	Essex
-Burnham-on-Crouch &amp; District Museum	Burnham-on-Crouch_&_District_Museum	Local	small_purple	0.0	0.0	Essex
+Burnham-on-Crouch &amp; District Museum	Burnham-on-Crouch_&_District_Museum	Local	small_purple	51.625890	0.812868	Essex
 Cater Museum	Cater_Museum	Local	small_purple	51.6252079	0.4175183	Essex
 Chelmsford Museum	Chelmsford_Museums	Multiple	small_red	51.7228937	0.4636065	Essex
 Coalhouse Fort	Coalhouse_Fort	Other	measle_white	51.46502	0.4328	Essex
@@ -67,4 +67,4 @@ Thaxted Guildhall	Thaxted_Guildhall	Historic	small_green	51.9537492	0.3435072	Es
 Thurrock Museum	Thurrock_Museum	Local	small_purple	51.4791175	0.3247016	Essex
 Tilbury Fort	Tilbury_Fort	Other	measle_white	51.45238	0.37357	Essex
 Warner Textile Archive	Warner_Textile_Archive	Arts	small_blue	51.876	0.552	Essex
-Wilkin &amp; Sons Visitor Centre	Wilkin_&_Sons	Other	measle_white	0.0	0.0	Essex
+Wilkin &amp; Sons Visitor Centre	Wilkin_&_Sons	Other	measle_white	51.806442	0.754633	Essex
