@@ -8,7 +8,7 @@ from xml.dom.minidom import parseString
 import urllib2 # for getting the gear from Fusion tables
 
 data = None
-headers = { 'User-Agent' : 'ProjectHopeBowdler (+http://www.blackradley.com/contact-us/)' }
+headers = { 'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact-us/)' }
 types = ["Arts", "Historic", "Industrial", "Local", "Multiple", "Other", "Transport" ]
 
 for type in types:

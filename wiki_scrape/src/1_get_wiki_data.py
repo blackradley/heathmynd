@@ -22,7 +22,7 @@ wiki_pages = [
               'List_of_museums_in_Essex'
              ]
 data = None
-headers = { 'User-Agent' : 'ProjectHopeBowdler (+http://www.blackradley.com/contact-us/)' }
+headers = { 'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact-us/)' }
 
 for page in wiki_pages:
     url = 'http://en.wikipedia.org/wiki/Special:Export/' + page
