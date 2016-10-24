@@ -8,6 +8,8 @@ import re # for regular expressions
 import urllib # for url encoding
 import urllib2 # for getting the gear from Wikipedia
 import string
+from random import randint
+from time import sleep
 
 data = None
 headers = { 'User-Agent' : 'HeathMynd (+http://www.blackradley.com/contact-us/)' }
@@ -31,6 +33,7 @@ def get_google_location(name, county):
     # e.g. https://www.google.co.uk/search?q=A+La+Ronde,+Devon&num=1&hl=en&start=0&cr=countryUK%7CcountryGB
     query = name + ", " + county
     html_url = "http://www.google.com/search?q=%s&num=1&hl=en&start=0&cr=countryUK|countryGB" % (urllib.quote_plus(query))
+    sleep(randint(1, 7)) # to try and avoid a 503 error
     html_request = urllib2.Request(html_url, data, headers)
     html_response = urllib2.urlopen(html_request)
     html = html_response.read()
