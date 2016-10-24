@@ -1,0 +1,2664 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>List_of_museums_in_Essex</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Ashdon Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Ashdon Museum<br>
+<b>link:</b> Ashdon_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 52.0527164<br>
+<b>lng:</b> 0.3110367<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Ashdon_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>52.0527164</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.3110367</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3110367,52.0527164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audley End House</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Audley End House<br>
+<b>link:</b> Audley_End_House<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 52.02039<br>
+<b>lng:</b> 0.21961<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Audley_End_House</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>52.02039</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.21961</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.21961,52.02039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aythorpe Roding Windmill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Aythorpe Roding Windmill<br>
+<b>link:</b> Aythorpe_Roding_Windmill<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.812<br>
+<b>lng:</b> 0.307<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Aythorpe_Roding_Windmill</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.812</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.307</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.307,51.812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barleylands Farm Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Barleylands Farm Museum<br>
+<b>link:</b> Barleylands_Farm_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.60108<br>
+<b>lng:</b> 0.44569<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Barleylands_Farm_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.60108</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.44569</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.44569,51.60108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beecroft Art Gallery</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Beecroft Art Gallery<br>
+<b>link:</b> Beecroft_Art_Gallery<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 51.535617<br>
+<b>lng:</b> 0.697841<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Beecroft_Art_Gallery</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.535617</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.697841</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.697841,51.535617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bocking Windmill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Bocking Windmill<br>
+<b>link:</b> Bocking_Windmill<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.904<br>
+<b>lng:</b> 0.563<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Bocking_Windmill</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.904</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.563</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.563,51.904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bourne Mill, Essex</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Bourne Mill, Essex<br>
+<b>link:</b> Bourne_Mill,_Essex<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.877044<br>
+<b>lng:</b> 0.912377<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Bourne_Mill,_Essex</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.877044</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.912377</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.912377,51.877044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bragg's Mill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Bragg's Mill<br>
+<b>link:</b> Bragg's_Mill,_Ashdon<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 52.0584<br>
+<b>lng:</b> 0.3258<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Bragg's_Mill,_Ashdon</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>52.0584</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.3258</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3258,52.0584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Braintree Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Braintree Museum<br>
+<b>link:</b> Braintree_Museum<br>
+<b>type:</b> Multiple<br>
+<b>icon:</b> small_red<br>
+<b>lat:</b> 51.8784169<br>
+<b>lng:</b> 0.5539372<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Braintree_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Multiple</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.8784169</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.5539372</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.5539372,51.8784169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burnham-on-Crouch &amp;amp; District Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Burnham-on-Crouch &amp; District Museum<br>
+<b>link:</b> Burnham-on-Crouch_&amp;_District_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.625890<br>
+<b>lng:</b> 0.812868<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Burnham-on-Crouch_&amp;_District_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.625890</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.812868</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.812868,51.62589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cater Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Cater Museum<br>
+<b>link:</b> Cater_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.6252079<br>
+<b>lng:</b> 0.4175183<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Cater_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.6252079</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.4175183</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.4175183,51.6252079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chelmsford Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Chelmsford Museum<br>
+<b>link:</b> Chelmsford_Museums<br>
+<b>type:</b> Multiple<br>
+<b>icon:</b> small_red<br>
+<b>lat:</b> 51.7228937<br>
+<b>lng:</b> 0.4636065<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Chelmsford_Museums</value>
+				</Data>
+				<Data name='type'>
+					<value>Multiple</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7228937</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.4636065</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.4636065,51.7228937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coalhouse Fort</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Coalhouse Fort<br>
+<b>link:</b> Coalhouse_Fort<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.46502<br>
+<b>lng:</b> 0.4328<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Coalhouse_Fort</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.46502</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.4328</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.4328,51.46502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coggeshall Grange Barn</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Coggeshall Grange Barn<br>
+<b>link:</b> Coggeshall_Grange_Barn<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.8671266<br>
+<b>lng:</b> 0.6842424<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Coggeshall_Grange_Barn</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.8671266</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.6842424</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.6842424,51.8671266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colchester Castle Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Colchester Castle Museum<br>
+<b>link:</b> Colchester_Castle<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.89133<br>
+<b>lng:</b> 0.90217<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Colchester_Castle</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.89133</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.90217</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.90217,51.89133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colne Valley Railway</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Colne Valley Railway<br>
+<b>link:</b> Colne_Valley_Railway<br>
+<b>type:</b> Transport<br>
+<b>icon:</b> small_yellow<br>
+<b>lat:</b> 51.9966<br>
+<b>lng:</b> 0.5798<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Colne_Valley_Railway</value>
+				</Data>
+				<Data name='type'>
+					<value>Transport</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.9966</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.5798</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.5798,51.9966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Combined Military Services Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Combined Military Services Museum<br>
+<b>link:</b> Combined_Military_Services_Museum<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.7349<br>
+<b>lng:</b> 0.6832<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Combined_Military_Services_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7349</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.6832</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.6832,51.7349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Copped Hall</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Copped Hall<br>
+<b>link:</b> Copped_Hall<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.6936111111<br>
+<b>lng:</b> 0.0677777777778<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Copped_Hall</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.6936111111</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.0677777777778</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.0677778,51.6936111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cressing Temple</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Cressing Temple<br>
+<b>link:</b> Cressing_Temple<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.8372361111<br>
+<b>lng:</b> 0.610975<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Cressing_Temple</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.8372361111</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.610975</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.610975,51.8372361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Duck End Mill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Duck End Mill<br>
+<b>link:</b> Duck_End_Mill,_Finchingfield<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.969<br>
+<b>lng:</b> 0.454<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Duck_End_Mill,_Finchingfield</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.969</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.454</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.454,51.969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>East Anglian Railway Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> East Anglian Railway Museum<br>
+<b>link:</b> East_Anglian_Railway_Museum<br>
+<b>type:</b> Transport<br>
+<b>icon:</b> small_yellow<br>
+<b>lat:</b> 51.9260555556<br>
+<b>lng:</b> 0.759055555556<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>East_Anglian_Railway_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Transport</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.9260555556</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.759055555556</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.7590556,51.9260556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Epping Forest District Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Epping Forest District Museum<br>
+<b>link:</b> Epping_Forest_District_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.6866548<br>
+<b>lng:</b> 0.0003434<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Epping_Forest_District_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.6866548</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.0003434</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>3.434E-4,51.6866548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Essex Regiment Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Essex Regiment Museum<br>
+<b>link:</b> Essex_Regiment#Essex_Regiment_Museum<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.5991<br>
+<b>lng:</b> 0.2977<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Essex_Regiment#Essex_Regiment_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.5991</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.2977</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.2977,51.5991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finchingfield Guildhall</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Finchingfield Guildhall<br>
+<b>link:</b> Finchingfield_Guildhall<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.968427<br>
+<b>lng:</b> 0.452853<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Finchingfield_Guildhall</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.968427</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.452853</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.452853,51.968427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Firstsite</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Firstsite<br>
+<b>link:</b> Firstsite<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 51.889<br>
+<b>lng:</b> 0.906<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Firstsite</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.889</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.906</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.906,51.889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fry Art Gallery</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Fry Art Gallery<br>
+<b>link:</b> Fry_Art_Gallery<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 52.0251<br>
+<b>lng:</b> 0.2378<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Fry_Art_Gallery</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>52.0251</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.2378</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.2378,52.0251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gibberd Gallery</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Gibberd Gallery<br>
+<b>link:</b> Gibberd_Gallery<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 51.767652<br>
+<b>lng:</b> 0.094134<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Gibberd_Gallery</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.767652</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.094134</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.094134,51.767652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Great Dunmow Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Great Dunmow Museum<br>
+<b>link:</b> Great_Dunmow_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.8727686<br>
+<b>lng:</b> 0.3651725<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Great_Dunmow_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.8727686</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.3651725</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3651725,51.8727686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harlow Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Harlow Museum<br>
+<b>link:</b> Harlow_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.7786561<br>
+<b>lng:</b> 0.1237518<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Harlow_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7786561</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.1237518</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.1237518,51.7786561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harwich Lifeboat Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Harwich Lifeboat Museum<br>
+<b>link:</b> Harwich_Lifeboat_Museum<br>
+<b>type:</b> Transport<br>
+<b>icon:</b> small_yellow<br>
+<b>lat:</b> 51.9464657<br>
+<b>lng:</b> 1.289495<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Harwich_Lifeboat_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Transport</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.9464657</value>
+				</Data>
+				<Data name='lng'>
+					<value>1.289495</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>1.289495,51.9464657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harwich Maritime Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Harwich Maritime Museum<br>
+<b>link:</b> Harwich_Maritime_Museum<br>
+<b>type:</b> Transport<br>
+<b>icon:</b> small_yellow<br>
+<b>lat:</b> 51.943385<br>
+<b>lng:</b> 1.2909876<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Harwich_Maritime_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Transport</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.943385</value>
+				</Data>
+				<Data name='lng'>
+					<value>1.2909876</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>1.2909876,51.943385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harwich Redoubt</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Harwich Redoubt<br>
+<b>link:</b> Harwich_Redoubt<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.9419<br>
+<b>lng:</b> 1.2889<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Harwich_Redoubt</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.9419</value>
+				</Data>
+				<Data name='lng'>
+					<value>1.2889</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>1.2889,51.9419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hedingham Castle</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Hedingham Castle<br>
+<b>link:</b> Hedingham_Castle<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.9925<br>
+<b>lng:</b> 0.601111111111<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Hedingham_Castle</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.9925</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.601111111111</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.6011111,51.9925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hill Hall</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Hill Hall<br>
+<b>link:</b> Hill_Hall_(Essex)<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.6742166667<br>
+<b>lng:</b> 0.152527777778<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Hill_Hall_(Essex)</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.6742166667</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.152527777778</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.1525278,51.6742167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hollytrees Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Hollytrees Museum<br>
+<b>link:</b> Hollytrees_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.8901<br>
+<b>lng:</b> 0.9044<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Hollytrees_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.8901</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.9044</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.9044,51.8901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hylands House</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Hylands House<br>
+<b>link:</b> Hylands_House<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.7113888889<br>
+<b>lng:</b> 0.436111111111<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Hylands_House</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7113888889</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.436111111111</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.4361111,51.7113889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ingatestone Hall</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Ingatestone Hall<br>
+<b>link:</b> Ingatestone_Hall<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.6615277778<br>
+<b>lng:</b> 0.390361111111<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Ingatestone_Hall</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.6615277778</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.390361111111</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3903611,51.6615278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>John Webb's Mill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> John Webb's Mill<br>
+<b>link:</b> John_Webb's_Mill,_Thaxted<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.9525<br>
+<b>lng:</b> 0.341<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>John_Webb's_Mill,_Thaxted</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.9525</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.341</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.341,51.9525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelvedon Hatch Secret Nuclear Bunker</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Kelvedon Hatch Secret Nuclear Bunker<br>
+<b>link:</b> Kelvedon_Hatch_Secret_Nuclear_Bunker<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.6718055556<br>
+<b>lng:</b> 0.256555555556<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Kelvedon_Hatch_Secret_Nuclear_Bunker</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.6718055556</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.256555555556</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.2565556,51.6718056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Langdon Visitor Centre &amp;amp; Haven Plotlands Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Langdon Visitor Centre &amp; Haven Plotlands Museum<br>
+<b>link:</b> Dunton_Plotlands<br>
+<b>type:</b> Multiple<br>
+<b>icon:</b> small_red<br>
+<b>lat:</b> 51.5611111111<br>
+<b>lng:</b> 0.394444444444<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Dunton_Plotlands</value>
+				</Data>
+				<Data name='type'>
+					<value>Multiple</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.5611111111</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.394444444444</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3944444,51.5611111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Layer Marney Tower</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Layer Marney Tower<br>
+<b>link:</b> Layer_Marney_Tower<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.8225<br>
+<b>lng:</b> 0.796666666667<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Layer_Marney_Tower</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.8225</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.796666666667</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.7966667,51.8225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maeldune Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Maeldune Centre<br>
+<b>link:</b> Maeldune_Centre<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.7317<br>
+<b>lng:</b> 0.6788<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Maeldune_Centre</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7317</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.6788</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.6788,51.7317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mangapps Railway Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Mangapps Railway Museum<br>
+<b>link:</b> Mangapps_Railway_Museum<br>
+<b>type:</b> Transport<br>
+<b>icon:</b> small_yellow<br>
+<b>lat:</b> 51.6469444444<br>
+<b>lng:</b> 0.808333333333<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Mangapps_Railway_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Transport</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.6469444444</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.808333333333</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.8083333,51.6469444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Minories Art Gallery</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Minories Art Gallery<br>
+<b>link:</b> The_Minories,_Colchester<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 51.889<br>
+<b>lng:</b> 0.906<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>The_Minories,_Colchester</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.889</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.906</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.906,51.889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountnessing Windmill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Mountnessing Windmill<br>
+<b>link:</b> Mountnessing_Windmill<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.656<br>
+<b>lng:</b> 0.358<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Mountnessing_Windmill</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.656</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.358</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.358,51.656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Munnings Art Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Munnings Art Museum<br>
+<b>link:</b> Castle_House,_Dedham<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 51.95<br>
+<b>lng:</b> 0.9961<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Castle_House,_Dedham</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.95</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.9961</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.9961,51.95,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Museum of Power</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Museum of Power<br>
+<b>link:</b> Museum_of_Power<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.7509<br>
+<b>lng:</b> 0.6549<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Museum_of_Power</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7509</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.6549</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.6549,51.7509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Natural History Museum, Colchester</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Natural History Museum, Colchester<br>
+<b>link:</b> Natural_History_Museum,_Colchester<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.8895733<br>
+<b>lng:</b> 0.9037765<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Natural_History_Museum,_Colchester</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.8895733</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.9037765</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.9037765,51.8895733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naze Tower</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Naze Tower<br>
+<b>link:</b> Naze_Tower<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.868966<br>
+<b>lng:</b> 1.279564<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Naze_Tower</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.868966</value>
+				</Data>
+				<Data name='lng'>
+					<value>1.279564</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>1.279564,51.868966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nazeing Glass Museum of 20th Century British Domestic Glass</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Nazeing Glass Museum of 20th Century British Domestic Glass<br>
+<b>link:</b> Nazeing_Glass_Museum_of_20th_Century_British_Domestic_Glass<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 51.7419047<br>
+<b>lng:</b> -0.0025<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Nazeing_Glass_Museum_of_20th_Century_British_Domestic_Glass</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7419047</value>
+				</Data>
+				<Data name='lng'>
+					<value>-0.0025</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.0025,51.7419047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>North Weald Airfield Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> North Weald Airfield Museum<br>
+<b>link:</b> North_Weald_Airfield<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.7216666667<br>
+<b>lng:</b> 0.154166666667<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>North_Weald_Airfield</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7216666667</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.154166666667</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.1541667,51.7216667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nottage Maritime Institute</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Nottage Maritime Institute<br>
+<b>link:</b> Nottage_Maritime_Institute<br>
+<b>type:</b> Transport<br>
+<b>icon:</b> small_yellow<br>
+<b>lat:</b> 51.854177<br>
+<b>lng:</b> 0.96011<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Nottage_Maritime_Institute</value>
+				</Data>
+				<Data name='type'>
+					<value>Transport</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.854177</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.96011</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.96011,51.854177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paycocke's</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Paycocke's<br>
+<b>link:</b> Paycocke's<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.870358<br>
+<b>lng:</b> 0.6829557<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Paycocke's</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.870358</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.6829557</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.6829557,51.870358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prittlewell Priory</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Prittlewell Priory<br>
+<b>link:</b> Prittlewell_Priory<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.553<br>
+<b>lng:</b> 0.705<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Prittlewell_Priory</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.553</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.705</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.705,51.553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Purfleet Heritage &amp;amp; Military Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Purfleet Heritage &amp; Military Centre<br>
+<b>link:</b> Purfleet_Heritage_&amp;_Military_Centre<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.4843979<br>
+<b>lng:</b> 0.2293126<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Purfleet_Heritage_&amp;_Military_Centre</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.4843979</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.2293126</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.2293126,51.4843979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rayleigh Windmill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Rayleigh Windmill<br>
+<b>link:</b> Rayleigh_Windmill<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.588<br>
+<b>lng:</b> 0.607<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Rayleigh_Windmill</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.588</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.607</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.607,51.588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Royal Gunpowder Mills</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Royal Gunpowder Mills<br>
+<b>link:</b> Waltham_Abbey_Royal_Gunpowder_Mills<br>
+<b>type:</b> Multiple<br>
+<b>icon:</b> small_red<br>
+<b>lat:</b> 51.693<br>
+<b>lng:</b> -0.009<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Waltham_Abbey_Royal_Gunpowder_Mills</value>
+				</Data>
+				<Data name='type'>
+					<value>Multiple</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.693</value>
+				</Data>
+				<Data name='lng'>
+					<value>-0.009</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.009,51.693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saffron Walden Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Saffron Walden Museum<br>
+<b>link:</b> Saffron_Walden_Museum<br>
+<b>type:</b> Multiple<br>
+<b>icon:</b> small_red<br>
+<b>lat:</b> 52.025443<br>
+<b>lng:</b> 0.240783<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Saffron_Walden_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Multiple</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='lat'>
+					<value>52.025443</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.240783</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.240783,52.025443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sandford Mill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Sandford Mill<br>
+<b>link:</b> Sandford_Mill<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.7263809<br>
+<b>lng:</b> 0.5165738<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Sandford_Mill</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.7263809</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.5165738</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.5165738,51.7263809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Southchurch Hall</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Southchurch Hall<br>
+<b>link:</b> Southchurch_Hall<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.536967<br>
+<b>lng:</b> 0.729493<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Southchurch_Hall</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.536967</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.729493</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.729493,51.536967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Southend Central Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Southend Central Museum<br>
+<b>link:</b> Southend_Central_Museum<br>
+<b>type:</b> Multiple<br>
+<b>icon:</b> small_red<br>
+<b>lat:</b> 51.5422<br>
+<b>lng:</b> 0.7106<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Southend_Central_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Multiple</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.5422</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.7106</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.7106,51.5422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Southend Pier Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Southend Pier Museum<br>
+<b>link:</b> Southend_Pier#21st_century<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.525731<br>
+<b>lng:</b> 0.717461<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Southend_Pier#21st_century</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.525731</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.717461</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.717461,51.525731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stansted Mountfitchet Windmill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Stansted Mountfitchet Windmill<br>
+<b>link:</b> Stansted_Mountfitchet_Windmill<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.901<br>
+<b>lng:</b> 0.194<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Stansted_Mountfitchet_Windmill</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.901</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.194</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.194,51.901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stock Windmill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Stock Windmill<br>
+<b>link:</b> Stock_Windmill<br>
+<b>type:</b> Industrial<br>
+<b>icon:</b> measle_turquoise<br>
+<b>lat:</b> 51.662<br>
+<b>lng:</b> 0.456<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Stock_Windmill</value>
+				</Data>
+				<Data name='type'>
+					<value>Industrial</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_turquoise</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.662</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.456</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.456,51.662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thaxted Guildhall</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Thaxted Guildhall<br>
+<b>link:</b> Thaxted_Guildhall<br>
+<b>type:</b> Historic<br>
+<b>icon:</b> small_green<br>
+<b>lat:</b> 51.9537492<br>
+<b>lng:</b> 0.3435072<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Thaxted_Guildhall</value>
+				</Data>
+				<Data name='type'>
+					<value>Historic</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.9537492</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.3435072</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3435072,51.9537492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thurrock Museum</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Thurrock Museum<br>
+<b>link:</b> Thurrock_Museum<br>
+<b>type:</b> Local<br>
+<b>icon:</b> small_purple<br>
+<b>lat:</b> 51.4791175<br>
+<b>lng:</b> 0.3247016<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Thurrock_Museum</value>
+				</Data>
+				<Data name='type'>
+					<value>Local</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.4791175</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.3247016</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3247016,51.4791175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tilbury Fort</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Tilbury Fort<br>
+<b>link:</b> Tilbury_Fort<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.45238<br>
+<b>lng:</b> 0.37357<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Tilbury_Fort</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.45238</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.37357</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.37357,51.45238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Warner Textile Archive</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Warner Textile Archive<br>
+<b>link:</b> Warner_Textile_Archive<br>
+<b>type:</b> Arts<br>
+<b>icon:</b> small_blue<br>
+<b>lat:</b> 51.876<br>
+<b>lng:</b> 0.552<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Warner_Textile_Archive</value>
+				</Data>
+				<Data name='type'>
+					<value>Arts</value>
+				</Data>
+				<Data name='icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.876</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.552</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.552,51.876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wilkin &amp;amp; Sons Visitor Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>name:</b> Wilkin &amp; Sons Visitor Centre<br>
+<b>link:</b> Wilkin_&amp;_Sons<br>
+<b>type:</b> Other<br>
+<b>icon:</b> measle_white<br>
+<b>lat:</b> 51.806442<br>
+<b>lng:</b> 0.754633<br>
+<b>county:</b> Essex
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='link'>
+					<value>Wilkin_&amp;_Sons</value>
+				</Data>
+				<Data name='type'>
+					<value>Other</value>
+				</Data>
+				<Data name='icon'>
+					<value>measle_white</value>
+				</Data>
+				<Data name='lat'>
+					<value>51.806442</value>
+				</Data>
+				<Data name='lng'>
+					<value>0.754633</value>
+				</Data>
+				<Data name='county'>
+					<value>Essex</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.754633,51.806442,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
