@@ -8,6 +8,8 @@ Joe J Collins
 '''
 import urllib2 # for getting the gear from Wikipedia
 
+print '\nGet Wikipedia Data\n---'
+
 wiki_pages = [
               #'List_of_museums_in_Bristol',
               #'List_of_museums_in_Cornwall',

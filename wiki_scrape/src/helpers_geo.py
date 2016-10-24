@@ -35,10 +35,10 @@ def get_google_location(name, county):
     html_response = urllib2.urlopen(html_request)
     html = html_response.read()
     location = re.search('ll=\d+\.\d+,(-|)\d+\.\d+', html)
-    location = location.group(0)
-    if location.isspace():
+    if location is None: # then Google Search doesn't have a location
         location = [0.0,0.0]
     else:
+        location = location.group(0)
         location = location[3:].split(',')
         location = [float(i) for i in location]
     return location
