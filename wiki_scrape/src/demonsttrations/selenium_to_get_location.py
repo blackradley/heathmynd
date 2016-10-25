@@ -1,10 +1,14 @@
-'''
-Get the coordinates of a wikipage from some KML.
+""" Get the coordinates of a wikipage from some KML.
 
-Joe Collins
+__author__ = "Joe Collins"
+__copyright__ = "Copyright 2016"
+
+"""
+
+
+
 24 October 2016
 
-'''
 import os
 import urllib # for url encoding
 from selenium import webdriver
