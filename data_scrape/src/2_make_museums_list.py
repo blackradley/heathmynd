@@ -8,7 +8,7 @@ import helpers_list
 ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
 
 for county in ceremonial_counties_of_england:
-    print '\nMaking museum data file\n---'
+    print '\n---'
     wiki_file_name = '../download/List_of_museums_' + county + '.wiki'
     output_file_name = './data/List_of_museums_' + county + '.txt'
 
@@ -25,11 +25,13 @@ for county in ceremonial_counties_of_england:
         museums = helpers_list.get_museums_list(wiki_page)
         # Merge the two lists in to one
         merged_list = zip(museums, types)
+        i = 0
         for row in merged_list:
+            i += 1
             name = row[0][0]
             link = row[0][1]
             type = row[1]
             classified_type = helpers_list.classify_type(type)
-            print name
+            print '{},'.format(i), # the last comma keeps the print on the same line
             output_file.write(name + '\t' + county + '\t' + classified_type + '\t' + link + '\n')
-
+            

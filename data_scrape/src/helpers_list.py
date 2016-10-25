@@ -1,11 +1,12 @@
 """ Helpers for handling lists and wiki text 
 
-All done mainly using regex.  To test the regex go to
-http://www.pythonregex.com/ which uses the Google App Engine. """
+All done mainly using regex. """
 
 __author__ = "Joe Collins"
 __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
+
+from bs4 import BeautifulSoup
 import re # for regular expressions
 import string # for string handling like 'split'
 
@@ -16,10 +17,17 @@ def get_ceremonial_counties_of_england():
         ceremonial_counties_of_england = file_of_counties.read().splitlines()
     return ceremonial_counties_of_england
 
-
 def get_museum_type_column(the_page):
     # Get the column number of the column which contains the museum type
+    soup = BeautifulSoup(the_page, "lxml")
+    table = soup.find("table", {"class" : "wikitable sortable"})
+    rows = table.findAll('tr')
+    header = rows[0]
     
+
+
+#mw-content-text > table.wikitable.sortable > tbody > tr:nth-child(1) > th:nth-child(4)
+
     # First find the beginning of the table '{| class="wikitable sortable"' 
     table_header_begin = re.search('\{\| class=&quot;wikitable sortable&quot;', the_page)
     
@@ -34,7 +42,7 @@ def get_museums_list(the_page):
     # Get a list of the links to the museums in the table
     
     # Find the museum links '|- <newline?> | [[Bedford Museum & Art Gallery]]'
-    museums = re.finditer('(?<=\|-\s\|\s\[\[)(?:[^|\]]*\|)?([^\]]+)(?=\]\])', the_page)
+    museums = re.finditer('(?<=\|-\s[!|\|]\s\[\[)(?:[^|\]]*\|)?([^\]]+)(?=\]\])', the_page)
     # use ?<= and ?= to gobble up the shit at either end, unfortunately the lookbehind (?<=)
     # has to be of fixed length, so it requires the precise amount of white space.  This
     # will probably turn out to be brittle.

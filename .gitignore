@@ -53,6 +53,7 @@ docs/_build/
 # PyBuilder
 target/
 
+# Project specific
 password.txt
-.*.py
-*.wiki
+**/download/*.htm
+**/data/*.txt

@@ -17,11 +17,12 @@ data = None
 headers = { 'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact-us/)' }
 
 for county in ceremonial_counties_of_england:
-    url = 'http://en.wikipedia.org/wiki/Special:Export/List_of_museums_' + county
+    url = 'https://en.wikipedia.org/wiki/List_of_museums_' + county
+    #url = 'http://en.wikipedia.org/wiki/Special:Export/List_of_museums_' + county
     print url
     request = urllib2.Request(url, data, headers)
     response = urllib2.urlopen(request)
     content = response.read()
-    file = open('../download/List_of_museums_' + county + '.wiki', 'wb')
+    file = open('../download/List_of_museums_' + county + '.htm', 'wb')
     file.write(content)
     file.close()
