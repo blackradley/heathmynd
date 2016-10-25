@@ -4,7 +4,7 @@ All done mainly using regex.  To test the regex go to
 http://www.pythonregex.com/ which uses the Google App Engine. """
 
 __author__ = "Joe Collins"
-__copyright__ = "Copyright 2016"
+__copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
 import re # for regular expressions
 import string # for string handling like 'split'

@@ -1,15 +1,13 @@
-'''
-Confirm the geohelpers work correctly
+""" Confirm the geohelpers work correctly """
 
-Joe J Collins
-31 March 2011
-'''
+__author__ = "Joe Collins"
+__copyright__ = "Copyright (c) 2016 Black Radley Limited."
+
 import unittest
 import helpers_geo
 
 class test_geo_helpers(unittest.TestCase):
-    '''
-    '''    
+ 
     def setUp(self):
         # set up an array of each test case
         # Name, Link, County, Wiki Location, Google Location

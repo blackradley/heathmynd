@@ -1,6 +1,6 @@
 # Project: Heathmynd - Museum Mapping
 *** 
-Copyright (c) 2011 Black Radley Systems Limited. All rights reserved.
+Copyright (c) 2016 Black Radley Limited. 
 
 The museum data (including name and location) is gathered from Wikipedia
 Data is held in a Google Fusion table or KML file and displayed on a Google
