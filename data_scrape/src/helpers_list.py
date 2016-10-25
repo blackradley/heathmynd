@@ -22,9 +22,21 @@ def get_museum_type_column(the_page):
     soup = BeautifulSoup(the_page, "lxml")
     table = soup.find("table", {"class" : "wikitable sortable"})
     rows = table.findAll('tr')
-    header = rows[0]
-    
+    headers = rows[0].findAll('th')
+    # which column is the Type of museum
+    for index, header in enumerate(headers):
+        if header.text == 'Type':
+            break
+    else:
+        index = -1
 
+    iter_rows = iter(rows)
+    next(iter_rows) # Jump the first row which has the headers in
+    for row in iter_rows:
+        name = row.findAll('td')[0].text
+        wikipedia_link = row.findAll('td')[0].find('a').get('href') # TODO: doesn't work if no link
+        type = row.findAll('td')[index].text
+        print name, wikipedia_link, type
 
 #mw-content-text > table.wikitable.sortable > tbody > tr:nth-child(1) > th:nth-child(4)
 
