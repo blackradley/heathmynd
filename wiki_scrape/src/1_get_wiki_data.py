@@ -3,59 +3,16 @@
 Doing it this way, rather than cutting and pasting ensures that the same
 encoding is used as urllib2 uses."""
 
-import urllib2 # for getting the gear from Wikipedia
+__author__ = "Joe Collins"
+__copyright__ = "Copyright 2016"
+
+import helpers_list
+import urllib2 # for getting the pages from Wikipedia
 
 print '\nGet Wikipedia Data\n---'
 
-ceremonial_counties_of_england = [
-    'Bedfordshire',
-    'Berkshire',
-    'Bristol',
-    'Buckinghamshire',
-    'Cambridgeshire',
-    'Cheshire',
-    'Cornwall',
-    'Cumbria',
-    'Derbyshire',
-    'Devon',
-    'Dorset',
-    'County_Durham',
-    'the_East_Riding_of_Yorkshire',
-    'East_Sussex',
-    'Essex',
-    'Gloucestershire',
-    'Greater_Manchester',
-    'Hampshire',
-    'Herefordshire',
-    'Hertfordshire',
-    'the_Isle_of_Wight',
-    'Kent',
-    'Lancashire',
-    'Leicestershire',
-    'Lincolnshire',
-    'Merseyside',
-    'Norfolk',
-    'Northamptonshire',
-    'Northumberland',
-    'North_Yorkshire',
-    'Nottinghamshire',
-    'Oxfordshire',
-    'Rutland',
-    'Shropshire',
-    'Somerset',
-    'South_Yorkshire',
-    'Staffordshire',
-    'Suffolk',
-    'Surrey',
-    'Tyne_and_Wear',
-    'Warwickshire',
-    'the_West_Midlands',
-    'West_Sussex',
-    'West_Yorkshire',
-    'Wiltshire',
-    'Worcestershire',
-    'London'
-    ]
+ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
+
 data = None
 headers = { 'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact-us/)' }
 

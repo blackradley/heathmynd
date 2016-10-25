@@ -1,14 +1,21 @@
-'''
-Helpers for handling the wiki text 
+""" Helpers for handling lists and wiki text 
 
 All done mainly using regex.  To test the regex go to
-http://www.pythonregex.com/ which uses the Google App Engine.
+http://www.pythonregex.com/ which uses the Google App Engine. """
 
-Joe J Collins
-25 March 2011
-'''
+__author__ = "Joe Collins"
+__copyright__ = "Copyright 2016"
+
 import re # for regular expressions
 import string # for string handling like 'split'
+
+def get_ceremonial_counties_of_england():
+    """ Return a list of the ceremonial counties of England """
+    ceremonial_counties_of_england = []
+    with open('./data/ceremonial_counties_of_england.txt') as file_of_counties:
+        ceremonial_counties_of_england = file_of_counties.read().splitlines()
+    return ceremonial_counties_of_england
+
 
 def get_museum_type_column(the_page):
     # Get the column number of the column which contains the museum type
