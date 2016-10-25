@@ -55,3 +55,4 @@ target/
 
 password.txt
 .*.py
+*.wiki

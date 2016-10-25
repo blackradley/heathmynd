@@ -46,7 +46,7 @@
             };
             $("#checkboxes")[0].appendChild(input);
             var img = document.createElement("img");
-            img.setAttribute('src', 'https://heathmynd.appspot.com/static/museums/' + icon);
+            img.setAttribute('src', './static/museums/' + icon);
             img.setAttribute('width', 26);
             $("#checkboxes")[0].appendChild(img);
             var text = document.createTextNode(' ' + title);
@@ -69,7 +69,7 @@
                 title = Museums.layers[layer].title;
                 addCheckBox(layer, icon, title);
                 kml = Museums.layers[layer].kml;
-                var kmlLayer = new google.maps.KmlLayer('https://heathmynd.appspot.com/static/museums/' + kml,
+                var kmlLayer = new google.maps.KmlLayer('http://localhost:8080/static/museums/' + kml,
                 		{preserveViewport:true});
                 Museums.layers[layer]["KmlLayer"] = kmlLayer;
             }

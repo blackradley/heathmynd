@@ -15,6 +15,7 @@ data = None
 headers = { 'User-Agent' : 'HeathMynd (+http://www.blackradley.com/contact-us/)' }
 
 def get_wikipedia_location(wikipedia_link):
+    """ Get the location (lat, lng) from the Wikipedia page if it is available """
     wikipedia_link = urllib.quote_plus(wikipedia_link)
     kml_url = 'http://toolserver.org/~para/cgi-bin/kmlexport?article=' + wikipedia_link
     kml_request = urllib2.Request(kml_url, data, headers)
@@ -30,6 +31,7 @@ def get_wikipedia_location(wikipedia_link):
     return [lat, lng]
 
 def get_google_location(name, county):
+    """ Get the location (lat, lng) using a Google search """
     # e.g. https://www.google.co.uk/search?q=A+La+Ronde,+Devon&num=1&hl=en&start=0&cr=countryUK%7CcountryGB
     query = name + ", " + county
     html_url = "http://www.google.com/search?q=%s&num=1&hl=en&start=0&cr=countryUK|countryGB" % (urllib.quote_plus(query))
@@ -44,9 +46,11 @@ def get_google_location(name, county):
         location = location.group(0)
         location = location[3:].split(',')
         location = [float(i) for i in location]
+        __uk_boundry_box
     return location
 
 def __uk_boundry_box():
+    """ Return a string representing a boundary box around most of UK """
     # SV00 in the OS Grid (the origin)
     south_west_lat = 49.766807
     south_west_lng = -7.557160 
