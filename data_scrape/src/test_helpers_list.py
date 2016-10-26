@@ -68,7 +68,7 @@ class test_list_helpers(unittest.TestCase):
             {
                 'file': 'List_of_museums_in_Hertfordshire.htm', 
                 'wikipedia_page':'',
-                'rows':76, 
+                'rows':40, 
                 'first_name': '1940s Experience', 
                 'first_type':'Living',
                 'last_name':'Welwyn Roman Baths',
@@ -87,9 +87,13 @@ class test_list_helpers(unittest.TestCase):
             # Check number of rows
             self.assertEqual(len(museums_list), county['rows'])
             # Check first
-            self.assertEqual(museums_list[0]['name'], county['first_name'])
+            first = 0
+            self.assertEqual(museums_list[first]['name'], county['first_name'])
+            self.assertEqual(museums_list[first]['type'], county['first_type'])
             # Check last
-            self.assertEqual(museums_list[len(museums_list)-1]['name'], county['last_name'])
+            last = len(museums_list)-1
+            self.assertEqual(museums_list[last]['name'], county['last_name'])
+            self.assertEqual(museums_list[last]['type'], county['last_type'])
     
     def XX_test_get_museum_types(self):
         print 'test_get_museum_types'
