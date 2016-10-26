@@ -17,87 +17,41 @@ def get_ceremonial_counties_of_england():
         ceremonial_counties_of_england = file_of_counties.read().splitlines()
     return ceremonial_counties_of_england
 
-def get_museum_type_column(the_page):
-    # Get the column number of the column which contains the museum type
-    soup = BeautifulSoup(the_page, "lxml")
-    table = soup.find("table", {"class" : "wikitable sortable"})
+def get_museums_list(wikipedia_page):
+    """ Return the name, wikipedia link and type for all the museums on the page """
+    page = BeautifulSoup(wikipedia_page, "lxml")
+    table = page.find("table", {"class" : "wikitable sortable"})
     rows = table.findAll('tr')
     headers = rows[0].findAll('th')
-    # which column is the Type of museum
+    # Which column is the Type of museum?
     for index, header in enumerate(headers):
         if header.text == 'Type':
             break
     else:
         index = -1
-
+    # Iterate through the rows makign a list of museums
     iter_rows = iter(rows)
     next(iter_rows) # Jump the first row which has the headers in
+    list_of_museums = []
     for row in iter_rows:
         name = row.findAll('td')[0].text
-        wikipedia_link = row.findAll('td')[0].find('a').get('href') # TODO: doesn't work if no link
+        wikipedia_link = row.findAll('td')[0].find('a')
+        if wikipedia_link is not None:
+            wikipedia_link = wikipedia_link.get('href') # assumes the <a> has an <href>
+        else:
+            wikipedia_link = u''
         type = row.findAll('td')[index].text
-        print name, wikipedia_link, type
-
-#mw-content-text > table.wikitable.sortable > tbody > tr:nth-child(1) > th:nth-child(4)
-
-    # First find the beginning of the table '{| class="wikitable sortable"' 
-    table_header_begin = re.search('\{\| class=&quot;wikitable sortable&quot;', the_page)
-    
-    # Then count the number of '!| ' until you get to '!| Type' 
-    # This tells you what number the type column is
-    table_header_end = re.search('\!\| Type', the_page)
-    table_header_string = the_page[table_header_begin.end(): table_header_end.end()]
-    columns = re.findall('(\!\||\!class=&quot;unsortable&quot;\|)', table_header_string)
-    return len(columns)
-
-def get_museums_list(the_page):
-    # Get a list of the links to the museums in the table
-    
-    # Find the museum links '|- <newline?> | [[Bedford Museum & Art Gallery]]'
-    museums = re.finditer('(?<=\|-\s[!|\|]\s\[\[)(?:[^|\]]*\|)?([^\]]+)(?=\]\])', the_page)
-    # use ?<= and ?= to gobble up the shit at either end, unfortunately the lookbehind (?<=)
-    # has to be of fixed length, so it requires the precise amount of white space.  This
-    # will probably turn out to be brittle.
-    links_and_names = [] # an array to return
-    for museum in museums:
-        # Sometimes the link and the name of the link are separated [[The Link|The Name of The Link]]
-        link_and_name = string.split(museum.group(), '|')
-        link = link_and_name[0] # The first part is the link, the bit I want
-        name = link # If there is only a link it is also the name
-        link = link.replace('&amp;', '&').replace(' ', '_') # make the link like a link
-        if len(link_and_name) > 1:
-            name = link_and_name[1]
-        links_and_names.append([name, link])
-    return links_and_names
-
-def get_museum_types(the_page, type_column):
-    # Get a list of the museum types
-    
-    # Find the museum links '|- <newline?> | [[Bedford Museum & Art Gallery]]'
-    museums = re.finditer('(?<=\|-\s\|\s\[\[)(?:[^|\]]*\|)?([^\]]+)(?=\]\])', the_page)
-    types = []
-    for museum in museums:
-    # 4. From each museum link count on the number of '||' you got in step 2
-    # an get the type of the museum.  But first you have to get the data row
-    # and split it.
-        row_start = museum.start()
-        row_end =  museum.start() + re.search('(\|-\s+)|(\|}\s+)', the_page[museum.start():]).end() # |- or \}
-        row = the_page[row_start:row_end]
-        cells = string.split(row, '||')
-        type = cells[type_column - 1] # Get the cell with the type information in
-        type = string.strip(type) # Remove the white space from front and back
-        # For Somerset the type is also a link [[Art museum|Art]], the first bit is the link and the
-        # second be is the type.
-        if '|' in type:
-            type = string.split(type, '|')[1].replace('[', '').replace(']', '')
-        types.append(type)
-    return types
+        # Make a museum and append to the list
+        museum = {}
+        museum['name'] = name
+        museum['wikipedia_link'] = wikipedia_link
+        museum['type'] = type
+        list_of_museums.append(museum)
+    return list_of_museums
 
 def classify_type(type):
-    '''It seems logical to assume that Iain's data is inconsistent, so I 
-    trimmed of the first 5 characters and converted them to upper case.
-    This also allows me to merge a few categories.'''
-    type = type[:5].upper()
+    """ Reclassify the museums using Iain's classification """
+    type = type[:5].upper() # because they can be a bit inconsistent on wikipedia
     if type == 'AGRIC': classifed_type = 'Local'
     elif type == 'AMUSE': classifed_type = 'Other'
     elif type == 'ARCHA': classifed_type = 'Historic'
@@ -150,5 +104,3 @@ def iconize_type(classified_type):
         'TRANS': 'small_yellow',
         }
     return types_iconization_table.get(classified_type)
-
- 

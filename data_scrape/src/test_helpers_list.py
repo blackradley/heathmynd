@@ -5,7 +5,7 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
 
 """                 
-                         {'file':'List_of_museums_in_Devon.htm', 'the_page':'',
+                         {'file':'List_of_museums_in_Devon.htm', 'wikipedia_page':'',
                           'type_column':5, 'rows':116, 
                           'first':'A_La_Ronde', 
                           'first_type': 'Historic house', 'first_type_classified':'Historic',
@@ -13,7 +13,7 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
                           'last':'Yelverton_Paperweight_Centre', 
                           'last_type':'Art', 'last_type_classified':'Arts',
                           'last_type_icon':'convenience'},     
-                         {'file':'List_of_museums_in_Dorset.htm', 'the_page':'',
+                         {'file':'List_of_museums_in_Dorset.htm', 'wikipedia_page':'',
                           'type_column':5, 'rows':69, 
                           'first':'Anvil_Point#Anvil_Point_Lighthouse', 
                           'first_type': 'Maritime', 'first_type_classified':'Transport',
@@ -21,7 +21,7 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
                           'last':'Wolfeton_House',
                           'last_type':'Historic house', 'last_type_classified':'Historic',
                           'last_type_icon':'museum'},
-                         {'file': 'List_of_museums_in_Gloucestershire.htm', 'the_page':'',
+                         {'file': 'List_of_museums_in_Gloucestershire.htm', 'wikipedia_page':'',
                           'type_column':5, 'rows':59, 
                           'first':'Acton_Court', 
                           'first_type':'Historic house', 'first_type_classified':'Historic',
@@ -29,7 +29,7 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
                           'last':'Yate_and_District_Heritage_Centre',
                           'last_type':'Local', 'last_type_classified':'Local',
                           'last_type_icon':'govtbldgs'},
-                         {'file':'List_of_museums_in_Somerset.htm', 'the_page':'',
+                         {'file':'List_of_museums_in_Somerset.htm', 'wikipedia_page':'',
                           'type_column':5, 'rows':83,
                           'first':'American_Museum_in_Britain',
                           'first_type':'Art', 'first_type_classified':'Arts', 
@@ -37,7 +37,7 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
                           'last':'Yeovil_Railway_Centre',
                           'last_type':'Railway', 'last_type_classified':'Transport',
                           'last_type_icon':'rec_bus'}, 
-                        {'file':'List_of_museums_in_Wiltshire.htm', 'the_page':'', 
+                        {'file':'List_of_museums_in_Wiltshire.htm', 'wikipedia_page':'', 
                          'type_column':5, 'rows':55,
                          'first':'Avebury#Alexander_Keiller_Museum', 
                          'first_type':'Archaeology', 'first_type_classified':'Historic',
@@ -56,47 +56,48 @@ class test_list_helpers(unittest.TestCase):
         # set up an array of file names and then read all the contents
         # Test filename, Test Data, Number of Columns, Number of Rows, First Link, Last Link
         self.counties = [
-                         {'file': 'List_of_museums_in_Cornwall.htm', 'the_page':'',
-                          'type_column':5, 'rows':67, 
-                          'first':'Antony_House', 
-                          'first_type':'Historic house', 'first_type_classified':'Historic',
-                          'first_type_icon':'museum',
-                          'last':'Wheal_Martyn_China_Clay_Country_Park',
-                          'last_type':'Industry', 'last_type_classified':'Industrial',
-                          'last_type_icon':'factory'},
- 
-                        ]
+            {
+                'file': 'List_of_museums_in_Cornwall.htm', 
+                'wikipedia_page':'',
+                'rows':76, 
+                'first_name': 'Antony House', 
+                'first_type':'Historic house',
+                'last_name':'Wheal Martyn China Clay Country Park',
+                'last_type':'Industry'
+            },            
+            {
+                'file': 'List_of_museums_in_Hertfordshire.htm', 
+                'wikipedia_page':'',
+                'rows':76, 
+                'first_name': '1940s Experience', 
+                'first_type':'Living',
+                'last_name':'Welwyn Roman Baths',
+                'last_type':'Archaeology'
+            },
+        ]
         for county in self.counties:
-            county['the_page'] = open('../download/' + county['file'], "r").read()
+            county['wikipedia_page'] = open('../download/' + county['file'], "r").read()
                  
-    def test_get_museum_type_column(self):
+    def test_get_museums_list(self):
         print 'test_get_museum_type_column'
         for county in self.counties:
-            the_page = county['the_page']
-            type_column_number = helpers_list.get_museum_type_column(the_page)
-            print '\t' + county['file']
-            self.assertEqual(type_column_number, county['type_column'])
-            
-    def XX_test_get_museums_list(self):
-        print 'test_get_museums_list'
-        for county in self.counties:
-            the_page = county['the_page']
-            museums = helpers_list.get_museums_list(the_page)
+            wikipedia_page = county['wikipedia_page']
+            museums_list = helpers_list.get_museums_list(wikipedia_page)
             print '\t' + county['file']
             # Check number of rows
-            self.assertEqual(len(museums), county['rows'])
+            self.assertEqual(len(museums_list), county['rows'])
             # Check first
-            self.assertEqual(museums[0][1], county['first'])
+            self.assertEqual(museums_list[0]['name'], county['first_name'])
             # Check last
-            self.assertEqual(museums[len(museums)-1][1], county['last'])
+            self.assertEqual(museums_list[len(museums_list)-1]['name'], county['last_name'])
     
     def XX_test_get_museum_types(self):
         print 'test_get_museum_types'
         for county in self.counties:
             print '\t' + county['file']
-            the_page = county['the_page']
+            wikipedia_page = county['wikipedia_page']
             type_column = county['type_column']
-            types = helpers_list.get_museum_types(the_page, type_column)
+            types = helpers_list.get_museum_types(wikipedia_page, type_column)
             # Check first
             self.assertEqual(types[0], county['first_type'])
             # Check last
