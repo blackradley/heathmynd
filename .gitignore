@@ -55,5 +55,4 @@ target/
 
 # Project specific
 password.txt
-**/download/*.htm
 **/data/*.txt
