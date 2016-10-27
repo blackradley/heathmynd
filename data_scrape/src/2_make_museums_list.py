@@ -3,8 +3,9 @@
 __author__ = "Joe Collins"
 __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
-import helpers_list
 import codecs
+import helpers_list
+import helpers_list
 
 ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
 
@@ -22,6 +23,7 @@ for county in ceremonial_counties_of_england:
             i += 1 # counter for displaying progress
             name = row['name']
             link = row['wikipedia_link']
+            
             type = row['type']
             classified_type = helpers_list.classify_type(type)
             print '{},'.format(i), # print progress, the last comma keeps the print on the same line

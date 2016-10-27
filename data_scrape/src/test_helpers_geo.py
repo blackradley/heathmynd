@@ -53,15 +53,15 @@ class test_geo_helpers(unittest.TestCase):
                             }
         ]
       
-    def xxx_test_get_wiki_location(self):
+    def test_get_wiki_location(self):
         print '\nWikipedia Location Tests\n---'
         for museum in self.test_data:
             print museum['name'] + ', ' + museum['wikipedia_link']
             location = helpers_geo.get_wikipedia_location(museum['wikipedia_link'])
-            self.assertAlmostEqual(location[0], museum['location_wikipedia']['lat'], 4)
-            self.assertAlmostEqual(location[1], museum['location_wikipedia']['lng'], 4)
+            self.assertAlmostEqual(location['lat'], museum['location_wikipedia']['lat'], 4)
+            self.assertAlmostEqual(location['lng'], museum['location_wikipedia']['lng'], 4)
             
-    def test_get_google_maps_location(self):
+    def xxx_test_get_google_maps_location(self):
         print '\nGoogle Location Tests\n---'
         for museum in self.test_data:
             print museum['name'] + ', ' + museum['county']
@@ -71,4 +71,3 @@ class test_geo_helpers(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-

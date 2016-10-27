@@ -1,18 +1,31 @@
 """  Get location data for each of the museums. """
 
+__author__ = "Joe Collins"
+__copyright__ = "Copyright (c) 2016 Black Radley Limited."
+
 import helpers_list
 import helpers_geo
 
-print '\nMake Museum Data File\n---'
+ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
+ceremonial_counties_of_england = ['Bristol', 'Cornwall', 'Devon', 'Dorset', 'Gloucestershire', 'Somerset', 'Wiltshire']
+ceremonial_counties_of_england = ['Leicestershire']
+ceremonial_counties_of_england = ['Essex']
+
+for county in ceremonial_counties_of_england:
+    print '\n---'
+    museum_list_file_name = './data/List_of_museums_' + county + '.txt'
+    output_file_name = './data/List_of_museums_' + county + '_.txt'
+    print 'Output to: ' + output_file_name
+
+    with open(wikipedia_file_name, "r") as wikipedia_file, codecs.open(output_file_name, "w", "utf-8") as output_file:
+        output_file.write('name\tcounty\ttype\twikipedia_link\n')
 
 output_file_name = '../upload/List_of_museums.txt'
 print 'Output to: ' + output_file_name
 output_file = open(output_file_name,"wb")
 output_file.write('name\tlink\ttype\ticon\tlat\tlng\tcounty\n')
 
-#counties = ['Bristol', 'Cornwall', 'Devon', 'Dorset', 'Gloucestershire', 'Somerset', 'Wiltshire']
-#counties = ['Leicestershire']
-counties = ['Essex']
+
 
 # open a file for output date
 for county in counties:

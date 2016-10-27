@@ -1,9 +1,8 @@
-'''
-Helpers for getting the locations of places
+""" Helpers for getting the locations of places """
 
-Joe J Collins
-31 March 2011
-'''
+__author__ = "Joe Collins"
+__copyright__ = "Copyright (c) 2016 Black Radley Limited."
+
 import re # for regular expressions
 import urllib # for url encoding
 import urllib2 # for getting the gear from Wikipedia
@@ -28,14 +27,14 @@ def get_wikipedia_location(wikipedia_link):
         lng = string.split(coordinates.group(), ',')[0]
         lat = float(lat)
         lng = float(lng)
-    return [lat, lng]
+    return {'lat': lat, 'lng': lng}
 
 def get_google_location(name, county):
     """ Get the location (lat, lng) using a Google search """
     # e.g. https://www.google.co.uk/search?q=A+La+Ronde,+Devon&num=1&hl=en&start=0&cr=countryUK%7CcountryGB
     query = name + ", " + county
     html_url = "http://www.google.com/search?q=%s&num=1&hl=en&start=0&cr=countryUK|countryGB" % (urllib.quote_plus(query))
-    sleep(randint(1, 7)) # to try and avoid a 503 error
+    sleep(randint(2, 10)) # delay request so it doesn't look like an attack
     html_request = urllib2.Request(html_url, data, headers)
     html_response = urllib2.urlopen(html_request)
     html = html_response.read()
@@ -46,7 +45,6 @@ def get_google_location(name, county):
         location = location.group(0)
         location = location[3:].split(',')
         location = [float(i) for i in location]
-        __uk_boundry_box
     return location
 
 def __uk_boundry_box():
