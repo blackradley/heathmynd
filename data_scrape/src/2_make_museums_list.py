@@ -9,6 +9,7 @@ import helpers_list
 
 ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
 
+number_of_museums = 0
 for county in ceremonial_counties_of_england:
     print '\n---'
     wikipedia_file_name = '../download/List_of_museums_' + county + '.htm'
@@ -21,6 +22,7 @@ for county in ceremonial_counties_of_england:
         i = 0
         for row in museums_list:
             i += 1 # counter for displaying progress
+            number_of_museums += 1
             name = row['name']
             link = row['wikipedia_link']
             
@@ -28,4 +30,4 @@ for county in ceremonial_counties_of_england:
             classified_type = helpers_list.classify_type(type)
             print '{},'.format(i), # print progress, the last comma keeps the print on the same line
             output_file.write(name + '\t' + county + '\t' + classified_type + '\t' + link + '\n')
-            
+print 'Total number of musuems: ' + str(number_of_museums)            
