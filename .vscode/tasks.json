@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "command": "C:\\Python27\\python",
+    "command": "python",
     "showOutput": "always",
     "args": ["${file}"]
 }

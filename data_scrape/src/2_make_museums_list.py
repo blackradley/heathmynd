@@ -5,11 +5,10 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
 import codecs
 import helpers_list
-import helpers_list
 
-ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
+ENGLISH_CEREMONIAL_COUNTIES = helpers_list.get_english_ceremonial_counties()
 
-for county in ceremonial_counties_of_england:
+for county in ENGLISH_CEREMONIAL_COUNTIES:
     print '\n---'
     wikipedia_file_name = '../download/List_of_museums_' + county + '.htm'
     output_file_name = './data/List_of_museums_' + county + '.txt'

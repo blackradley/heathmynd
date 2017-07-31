@@ -5,17 +5,22 @@ All done mainly using regex. """
 __author__ = "Joe Collins"
 __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
-
+import os
 from bs4 import BeautifulSoup
-import re # for regular expressions
-import string # for string handling like 'split'
 
-def get_ceremonial_counties_of_england():
+def get_counties_england_ceremonial():
     """ Return a list of the ceremonial counties of England """
-    ceremonial_counties_of_england = []
-    with open('./data/ceremonial_counties_of_england.txt') as file_of_counties:
-        ceremonial_counties_of_england = file_of_counties.read().splitlines()
-    return ceremonial_counties_of_england
+    counties_england_ceremonial = []
+    path_to_file_of_counties = get_canonical_path_for(r'data/counties_england_ceremonial.txt')
+    with open(path_to_file_of_counties) as file_of_counties:
+        counties_england_ceremonial = file_of_counties.read().splitlines()
+    return counties_england_ceremonial
+
+def get_canonical_path_for(file_path):
+    """ Return the canonical path for a file so it doesn't matter where the script is running """
+    this_script_dir = os.path.dirname(os.path.realpath(__file__))
+    canonical_path = r'/'.join([this_script_dir, file_path])
+    return canonical_path
 
 def get_museums_list(wikipedia_page):
     """ Return the name, wikipedia link and type for all the museums on the page """

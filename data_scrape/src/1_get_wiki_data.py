@@ -6,22 +6,23 @@ encoding is used as urllib2 uses."""
 __author__ = "Joe Collins"
 __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
-import helpers_list
 import urllib2 # for getting the pages from Wikipedia
+import helpers_list
 
 print '\nGet Wikipedia Data\n---'
 
-ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
+COUNTIES_ENGLAND_CEREMONIAL = helpers_list.get_counties_england_ceremonial()
 
-data = None
-headers = { 'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact-us/)' }
+DATA = None
+HEADERS = {'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact-us/)'}
 
-for county in ceremonial_counties_of_england:
+for county in COUNTIES_ENGLAND_CEREMONIAL:
     url = 'https://en.wikipedia.org/wiki/List_of_museums_' + county
     print url
-    request = urllib2.Request(url, data, headers)
+    request = urllib2.Request(url, DATA, HEADERS)
     response = urllib2.urlopen(request)
     content = response.read()
-    file = open('../download/List_of_museums_' + county + '.htm', 'wb')
-    file.write(content)
-    file.close()
+    county_museums_file_path = helpers_list.get_canonical_path_for('../download/List_of_museums_' + county + '.htm')
+    county_museums_file = open(county_museums_file_path, 'wb')
+    county_museums_file.write(content)
+    county_museums_file.close()
