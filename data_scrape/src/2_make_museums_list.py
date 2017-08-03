@@ -3,18 +3,22 @@
 __author__ = "Joe Collins"
 __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
-import codecs
+import io
 import helpers_list
 
-ENGLISH_CEREMONIAL_COUNTIES = helpers_list.get_english_ceremonial_counties()
+COUNTIES_ENGLAND_CEREMONIAL = helpers_list.get_counties_england_ceremonial()
 
-for county in ENGLISH_CEREMONIAL_COUNTIES:
+for county in COUNTIES_ENGLAND_CEREMONIAL:
     print '\n---'
     wikipedia_file_name = '../download/List_of_museums_' + county + '.htm'
+    wikipedia_file_path = helpers_list.get_canonical_path_for(wikipedia_file_name)
     output_file_name = './data/List_of_museums_' + county + '.txt'
+    output_file_path = helpers_list.get_canonical_path_for(output_file_name)
     print 'Output to: ' + output_file_name
-    with open(wikipedia_file_name, "r") as wikipedia_file, codecs.open(output_file_name, "w", "utf-8") as output_file:
-        output_file.write('name\tcounty\ttype\twikipedia_link\n')
+    with io.open(wikipedia_file_path, 'r') as wikipedia_file, \
+            io.open(output_file_path, 'w', encoding='utf-8') as output_file:
+        header = unicode('name\tcounty\ttype\twikipedia_link\n')
+        output_file.write(header)
         wikipedia_page = wikipedia_file.read()
         museums_list = helpers_list.get_museums_list(wikipedia_page)
         i = 0
@@ -22,9 +26,8 @@ for county in ENGLISH_CEREMONIAL_COUNTIES:
             i += 1 # counter for displaying progress
             name = row['name']
             link = row['wikipedia_link']
-            
-            type = row['type']
-            classified_type = helpers_list.classify_type(type)
+            museum_type = row['type']
+            classified_type = helpers_list.classify_type(museum_type)
             print '{},'.format(i), # print progress, the last comma keeps the print on the same line
             output_file.write(name + '\t' + county + '\t' + classified_type + '\t' + link + '\n')
             

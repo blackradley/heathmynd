@@ -22,7 +22,8 @@ for county in COUNTIES_ENGLAND_CEREMONIAL:
     request = urllib2.Request(url, DATA, HEADERS)
     response = urllib2.urlopen(request)
     content = response.read()
-    county_museums_file_path = helpers_list.get_canonical_path_for('../download/List_of_museums_' + county + '.htm')
+    county_museums_file_path = helpers_list.get_canonical_path_for(
+        '../download/List_of_museums_' + county + '.htm')
     county_museums_file = open(county_museums_file_path, 'wb')
     county_museums_file.write(content)
     county_museums_file.close()
