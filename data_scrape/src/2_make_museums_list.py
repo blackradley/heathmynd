@@ -8,6 +8,7 @@ import helpers_list
 
 COUNTIES_ENGLAND_CEREMONIAL = helpers_list.get_counties_england_ceremonial()
 
+j = 0 # Counter for all the museums in England
 for county in COUNTIES_ENGLAND_CEREMONIAL:
     print '\n---'
     wikipedia_file_name = '../download/List_of_museums_' + county + '.htm'
@@ -23,11 +24,12 @@ for county in COUNTIES_ENGLAND_CEREMONIAL:
         museums_list = helpers_list.get_museums_list(wikipedia_page)
         i = 0
         for row in museums_list:
-            i += 1 # counter for displaying progress
+            i += 1 # counter for displaying progress in county
+            j += 1 # counter for displaying total number of museums
             name = row['name']
             link = row['wikipedia_link']
             museum_type = row['type']
             classified_type = helpers_list.classify_type(museum_type)
             print '{},'.format(i), # print progress, the last comma keeps the print on the same line
             output_file.write(name + '\t' + county + '\t' + classified_type + '\t' + link + '\n')
-            
+        print '\nCumulative total: {}'.format(j)
