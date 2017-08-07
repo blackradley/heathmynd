@@ -19,6 +19,7 @@ HEADERS = {'User-Agent' : 'ProjectHeathMynd (+http://www.blackradley.com/contact
 
 for county in COUNTIES_ENGLAND_CEREMONIAL:
     url = 'https://en.wikipedia.org/wiki/List_of_museums_' + county
+    print url
     response = requests.get(url)
     content = response.text
     county_museums_file_path = helpers_list.get_canonical_path_for(
