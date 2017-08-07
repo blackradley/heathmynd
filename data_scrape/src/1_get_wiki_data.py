@@ -1,4 +1,4 @@
-""" Get the county museum lists from wikipedia. 
+""" Get the county museum lists from wikipedia.
 
 Doing it this way, rather than cutting and pasting ensures that the same
 encoding is used as urllib2 uses."""
