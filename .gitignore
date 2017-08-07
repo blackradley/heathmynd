@@ -1,7 +1,6 @@
 # Project specific
 password.txt
 **/download/*.htm
-**/data/*.txt
 shit.py
 
 # Byte-compiled / optimized / DLL files

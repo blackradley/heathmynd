@@ -1,0 +1,67 @@
+name	county	type	wikipedia_link
+1066 Battle Of Hastings, Abbey & Battlefield	in_East_Sussex	Historic	/wiki/Battle_Abbey
+Alfriston Clergy House	in_East_Sussex	Historic	/wiki/Alfriston_Clergy_House
+Anne of Cleves House	in_East_Sussex	Historic	/wiki/Anne_of_Cleves_House
+Bateman's	in_East_Sussex	Historic	/wiki/Bateman%27s
+Battle Museum of Local History	in_East_Sussex	Local	
+Bentley Wildfowl and Motor Museum	in_East_Sussex	Multiple	/wiki/Bentley_Wildfowl_and_Motor_Museum
+Bexhill Museum	in_East_Sussex	Multiple	/wiki/Bexhill_Museum
+Bluebell Railway	in_East_Sussex	Transport	/wiki/Bluebell_Railway
+Bodiam Castle	in_East_Sussex	Historic	/wiki/Bodiam_Castle
+Booth Museum of Natural History	in_East_Sussex	Other	/wiki/Booth_Museum_of_Natural_History
+Brede Waterworks	in_East_Sussex	Other	/wiki/Brede_Waterworks
+Brighton Fishing Museum	in_East_Sussex	Transport	/wiki/Brighton_Fishing_Museum
+Brighton Museum & Art Gallery	in_East_Sussex	Multiple	/wiki/Brighton_Museum_%26_Art_Gallery
+Brighton Toy and Model Museum	in_East_Sussex	Arts	/wiki/Brighton_Toy_and_Model_Museum
+British Engineerium	in_East_Sussex	Other	/wiki/British_Engineerium
+Charleston Farmhouse	in_East_Sussex	Historic	/wiki/Charleston_Farmhouse
+De La Warr Pavilion	in_East_Sussex	Arts	/wiki/De_La_Warr_Pavilion
+Ditchling Museum of Art + Craft	in_East_Sussex	Arts	/wiki/Ditchling_Museum_of_Art_%2B_Craft
+Eastbourne Heritage Centre	in_East_Sussex	Local	/w/index.php?title=Eastbourne_Heritage_Centre&action=edit&redlink=1
+Eastbourne RNLI Museum	in_East_Sussex	Transport	
+Fabrica	in_East_Sussex	Arts	/wiki/Holy_Trinity_Church,_Brighton
+Farley Farm House	in_East_Sussex	Arts	/wiki/Farley_Farm_House
+Firle Place	in_East_Sussex	Historic	/wiki/Firle_Place
+Flower Makers' Museum	in_East_Sussex	Arts	
+Glynde Place	in_East_Sussex	Historic	/wiki/Glynde_Place
+Grange Museum & Art Gallery	in_East_Sussex	Multiple	/w/index.php?title=Grange_Museum_%26_Art_Gallery&action=edit&redlink=1
+Great Dixter	in_East_Sussex	Historic	/wiki/Great_Dixter
+Hastings Fishermen's Museum	in_East_Sussex	Transport	/wiki/Hastings_Fishermen%27s_Museum
+Hastings History House	in_East_Sussex	Local	
+Hastings Lifeboat Station	in_East_Sussex	Transport	
+Hastings Museum and Art Gallery	in_East_Sussex	Multiple	/wiki/Hastings_Museum_and_Art_Gallery
+Heritage Mill, North Chailey	in_East_Sussex	Industrial	/wiki/Heritage_Mill,_North_Chailey
+Hove Museum and Art Gallery	in_East_Sussex	Multiple	/wiki/Hove_Museum_and_Art_Gallery
+How We Lived Then	in_East_Sussex	Historic	/w/index.php?title=How_We_Lived_Then&action=edit&redlink=1
+Jerwood Gallery	in_East_Sussex	Arts	/wiki/Jerwood_Gallery
+Kent and East Sussex Railway	in_East_Sussex	Transport	/wiki/Kent_and_East_Sussex_Railway
+Lamb House	in_East_Sussex	Historic	/wiki/Lamb_House
+Lavender Line	in_East_Sussex	Transport	/wiki/Lavender_Line
+Lewes Castle	in_East_Sussex	Historic	/wiki/Lewes_Castle
+Mechanical Memories Museum	in_East_Sussex	Other	/w/index.php?title=Mechanical_Memories_Museum&action=edit&redlink=1
+Michelham Priory	in_East_Sussex	Other	/wiki/Michelham_Priory
+Monk's House	in_East_Sussex	Historic	/wiki/Monk%27s_House
+Newhaven Fort	in_East_Sussex	Other	/wiki/Newhaven_Fort
+Newhaven Museum	in_East_Sussex	Multiple	
+Nutley Windmill	in_East_Sussex	Industrial	/wiki/Nutley_Windmill
+Observatory Science Center	in_East_Sussex	Other	/w/index.php?title=Observatory_Science_Center&action=edit&redlink=1
+Old Police Cells Museum	in_East_Sussex	Local	/wiki/Old_Police_Cells_Museum
+Ovenden's Mill	in_East_Sussex	Industrial	/wiki/Ovenden%27s_Mill,_Polegate
+Paradise Park, Newhaven	in_East_Sussex	Other	/w/index.php?title=Paradise_Park,_Newhaven&action=edit&redlink=1
+Pevensey Court House Museum	in_East_Sussex	Local	/w/index.php?title=Pevensey_Court_House_Museum&action=edit&redlink=1
+Preston Manor, Brighton	in_East_Sussex	Historic	/wiki/Preston_Manor,_Brighton
+Redoubt Fortress & Military Museum	in_East_Sussex	Other	/wiki/Eastbourne_Redoubt
+Regency Town House	in_East_Sussex	Local	/wiki/Regency_Town_House
+Royal Pavilion	in_East_Sussex	Historic	/wiki/Royal_Pavilion
+Rye Art Gallery	in_East_Sussex	Arts	
+Rye Castle Museum	in_East_Sussex	Multiple	/wiki/Rye_Castle
+Rye Heritage Centre	in_East_Sussex	Local	/w/index.php?title=Rye_Heritage_Centre&action=edit&redlink=1
+Seaford Museum	in_East_Sussex	Local	/wiki/Seaford_Museum
+Shipwreck Museum	in_East_Sussex	Transport	/wiki/Shipwreck_Museum
+Stanmer Rural Museum	in_East_Sussex	Local	
+Stone Cross Windmill	in_East_Sussex	Industrial	/wiki/Stone_Cross_Windmill
+Towner	in_East_Sussex	Arts	/wiki/Towner_Gallery
+Volk's Electric Railway	in_East_Sussex	Transport	/wiki/Volk%27s_Electric_Railway
+West Blatchington Windmill	in_East_Sussex	Industrial	/wiki/West_Blatchington_Windmill
+Winchelsea Court Hall Museum	in_East_Sussex	Local	/w/index.php?title=Winchelsea_Court_Hall_Museum&action=edit&redlink=1
+Windmill Hill Mill	in_East_Sussex	Industrial	/wiki/Windmill_Hill_Mill,_Herstmonceux

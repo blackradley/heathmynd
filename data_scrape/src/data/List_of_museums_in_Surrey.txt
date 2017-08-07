@@ -1,0 +1,51 @@
+name	county	type	wikipedia_link
+Army Medical Services Museum	in_Surrey	Other	/wiki/Army_Medical_Services_Museum
+Ash Museum	in_Surrey	Local	
+Basingstoke Canal Visitor Centre	in_Surrey	Transport	
+Bourne Hall Museum	in_Surrey	Local	
+Brooklands Museum	in_Surrey	Transport	/wiki/Brooklands_Museum
+Chertsey Museum	in_Surrey	Local	/wiki/Chertsey#Museum
+Chobham Museum	in_Surrey	Local	
+Clandon Park	in_Surrey	Historic	/wiki/Clandon_Park
+Crafts Study Centre	in_Surrey	Arts	/wiki/Crafts_Study_Centre
+Cranleigh Arts Centre	in_Surrey	Arts	/w/index.php?title=Cranleigh_Arts_Centre&action=edit&redlink=1
+Dapdune Wharf	in_Surrey	Transport	/wiki/Dapdune_Wharf
+Dorking Museum	in_Surrey	Local	
+East Surrey Museum	in_Surrey	Local	
+Egham Museum	in_Surrey	Local	
+Farnham Castle - Keep & Bishop's Palace	in_Surrey	Historic	/wiki/Farnham_Castle
+Gatwick Aviation Museum	in_Surrey	Transport	/wiki/Gatwick_Aviation_Museum
+Godalming Museum	in_Surrey	Multiple	/wiki/Godalming_Museum
+Guildford Castle	in_Surrey	Historic	/wiki/Guildford_Castle
+Guildford House	in_Surrey	Arts	/wiki/Guildford_House
+Guildford Museum	in_Surrey	Multiple	/wiki/Guildford_Museum
+Haslemere Educational Museum	in_Surrey	Multiple	/wiki/Haslemere_Educational_Museum
+Hatchlands Park	in_Surrey	Historic	/wiki/Hatchlands_Park
+Holmesdale Natural History Museum	in_Surrey	Other	
+The Homewood	in_Surrey	Historic	/wiki/The_Homewood
+Kempton Park Steam Engines	in_Surrey	Other	/wiki/Kempton_Park_Steam_Engines
+Leatherhead Museum of Local History	in_Surrey	Local	
+Lewis Elton Gallery	in_Surrey	Arts	/wiki/Lewis_Elton_Gallery
+The Lightbox	in_Surrey	Multiple	/wiki/The_Lightbox
+London Bus Museum	in_Surrey	Transport	/wiki/London_Bus_Museum
+Loseley Park	in_Surrey	Historic	/wiki/Loseley_Park
+Mercedes-Benz World	in_Surrey	Transport	/wiki/Mercedes-Benz_World
+Museum of Farnham	in_Surrey	Local	/wiki/Museum_of_Farnham
+Museum of the National Rifle Association	in_Surrey	Other	
+Oakhurst Cottage	in_Surrey	Historic	/wiki/Oakhurst_Cottage
+Polesden Lacey	in_Surrey	Historic	/wiki/Polesden_Lacey
+Reigate Priory Museum	in_Surrey	Local	/w/index.php?title=Reigate_Priory_Museum&action=edit&redlink=1
+Royal Holloway, University of London Picture Gallery and Art Collections	in_Surrey	Arts	/wiki/Royal_Holloway,_University_of_London#The_Picture_Gallery_and_art_collections
+Royal Logistic Corps Museum	in_Surrey	Other	/wiki/Royal_Logistic_Corps_Museum
+Rural Life Centre	in_Surrey	Other	/wiki/Rural_Life_Centre,_Tilford
+Send & Ripley Museum	in_Surrey	Local	
+Shalford Mill	in_Surrey	Industrial	/wiki/Shalford_Mill
+Shere Museum	in_Surrey	Local	
+Spelthorne Museum	in_Surrey	Local	
+Spike Heritage Centre	in_Surrey	Local	
+Surrey Fire Museum	in_Surrey	Other	
+Surrey Heath Museum	in_Surrey	Local	/w/index.php?title=Surrey_Heath_Museum&action=edit&redlink=1
+Surrey Infantry Museum	in_Surrey	Other	/wiki/Queen%27s_Royal_Surrey_Regiment
+Surrey Police Museum	in_Surrey	Local	
+Titsey Place	in_Surrey	Historic	/wiki/Titsey_Place
+Watts Gallery	in_Surrey	Arts	/wiki/Watts_Gallery

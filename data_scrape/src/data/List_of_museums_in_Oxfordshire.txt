@@ -1,0 +1,55 @@
+name	county	type	wikipedia_link
+Abingdon County Hall Museum	in_Oxfordshire	Local	/wiki/Abingdon_County_Hall_Museum
+Ashdown House	in_Oxfordshire	Historic	/wiki/Ashdown_House,_Oxfordshire
+Ashmolean Museum	in_Oxfordshire	Multiple	/wiki/Ashmolean_Museum
+Aston Martin Heritage Trust Museum	in_Oxfordshire	Transport	/w/index.php?title=Aston_Martin_Heritage_Trust_Museum&action=edit&redlink=1
+Banbury Museum	in_Oxfordshire	Local	/wiki/Banbury_Museum
+Bate Collection of Musical Instruments	in_Oxfordshire	Other	/wiki/Bate_Collection_of_Musical_Instruments
+Benson Veteran Cycle Museum	in_Oxfordshire	Transport	
+Blenheim Palace	in_Oxfordshire	Historic	/wiki/Blenheim_Palace
+Bloxham Village Museum	in_Oxfordshire	Local	
+Broughton Castle	in_Oxfordshire	Historic	/wiki/Broughton_Castle
+Buscot Park	in_Oxfordshire	Historic	/wiki/Buscot_Park
+Champs Chapel Museum of East Hendred	in_Oxfordshire	Local	/wiki/Champs_Chapel_Museum_of_East_Hendred
+Charlbury Museum	in_Oxfordshire	Local	/wiki/Charlbury_Museum
+Chastleton House	in_Oxfordshire	Historic	/wiki/Chastleton_House
+Chipping Norton Museum	in_Oxfordshire	Local	
+Christ Church Picture Gallery	in_Oxfordshire	Arts	/wiki/Christ_Church_Picture_Gallery
+Churchill and Sarsden Heritage Centre	in_Oxfordshire	Local	
+Cogges Manor Farm Museum	in_Oxfordshire	Other	/wiki/Cogges_Manor_Farm_Museum
+Combe Mill	in_Oxfordshire	Other	/wiki/Combe_Mill
+Didcot Railway Centre	in_Oxfordshire	Transport	/wiki/Didcot_Railway_Centre
+Dorchester Abbey Museum	in_Oxfordshire	Other	/wiki/Dorchester_Abbey_Museum
+Earth Trust Centre	in_Oxfordshire	Other	/wiki/Earth_Trust_Centre
+Greys Court	in_Oxfordshire	Historic	/wiki/Greys_Court
+Hook Norton Brewery	in_Oxfordshire	Other	/wiki/Hook_Norton_Brewery
+Kelmscott Manor	in_Oxfordshire	Historic	/wiki/Kelmscott_Manor
+Mapledurham House	in_Oxfordshire	Historic	/wiki/Mapledurham_House
+Mapledurham Watermill	in_Oxfordshire	Industrial	/wiki/Mapledurham_Watermill
+Modern Art Oxford	in_Oxfordshire	Arts	/wiki/Modern_Art_Oxford
+Museum of the History of Science	in_Oxfordshire	Other	/wiki/Museum_of_the_History_of_Science,_Oxford
+Museum of Oxford	in_Oxfordshire	Local	/wiki/Museum_of_Oxford
+Nuffield Place	in_Oxfordshire	Historic	/wiki/Nuffield_Place
+Oxford Bus Museum	in_Oxfordshire	Transport	/wiki/Oxford_Bus_Museum
+Oxford Castle – Unlocked	in_Oxfordshire	Local	/wiki/Oxford_Castle
+The Oxfordshire Museum	in_Oxfordshire	Multiple	/wiki/The_Oxfordshire_Museum
+Oxford University Museum of Natural History	in_Oxfordshire	Other	/wiki/Oxford_University_Museum_of_Natural_History
+Oxford University Press Museum	in_Oxfordshire	Multiple	/wiki/Oxford_University_Press_Museum
+Pendon Museum	in_Oxfordshire	Transport	/wiki/Pendon_Museum
+Pitt Rivers Museum	in_Oxfordshire	Other	/wiki/Pitt_Rivers_Museum
+River and Rowing Museum	in_Oxfordshire	Other	/wiki/River_and_Rowing_Museum
+Science Oxford	in_Oxfordshire	Other	/wiki/Science_Oxford
+Soldiers of Oxfordshire Museum	in_Oxfordshire	Other	/wiki/Soldiers_of_Oxfordshire_Museum
+Stonor Park	in_Oxfordshire	Historic	/wiki/Stonor_Park
+The Story Museum	in_Oxfordshire	Other	/wiki/The_Story_Museum
+Swalcliffe Barn	in_Oxfordshire	Local	/wiki/Swalcliffe_Tithe_Barn
+Swinford Museum	in_Oxfordshire	Local	
+Thame Museum	in_Oxfordshire	Local	/w/index.php?title=Thame_Museum&action=edit&redlink=1
+Tolsey Museum	in_Oxfordshire	Local	
+Tom Brown's School Museum	in_Oxfordshire	Local	
+Vale and Downland Museum	in_Oxfordshire	Local	/wiki/Vale_and_Downland_Museum
+Wallingford Museum	in_Oxfordshire	Local	/wiki/Wallingford_Museum
+Waterperry Gardens	in_Oxfordshire	Historic	/w/index.php?title=Waterperry_Gardens&action=edit&redlink=1
+West Oxon Arts	in_Oxfordshire	Arts	/w/index.php?title=West_Oxon_Arts&action=edit&redlink=1
+Williams F1 Grand Prix Collection	in_Oxfordshire	Transport	/w/index.php?title=Williams_F1_Grand_Prix_Collection&action=edit&redlink=1
+Witney and District Museum	in_Oxfordshire	Local	/wiki/Witney_and_District_Museum

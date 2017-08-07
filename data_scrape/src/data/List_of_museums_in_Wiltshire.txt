@@ -1,0 +1,60 @@
+name	county	type	wikipedia_link
+Aldbourne Heritage Centre	in_Wiltshire	Local	/wiki/Aldbourne_Heritage_Centre
+Alexander Keiller Museum at Avebury	in_Wiltshire	Historic	/wiki/Avebury#Alexander_Keiller_Museum
+Arundells	in_Wiltshire	Historic	/wiki/Arundells
+Athelstan Museum	in_Wiltshire	Local	/w/index.php?title=Athelstan_Museum&action=edit&redlink=1
+Atwell-Wilson Motor Museum	in_Wiltshire	Transport	/w/index.php?title=Atwell-Wilson_Motor_Museum&action=edit&redlink=1
+Avebury Manor & Garden	in_Wiltshire	Historic	/wiki/Avebury_Manor_%26_Garden
+Bedwyn Stone Museum	in_Wiltshire	Arts	/w/index.php?title=Bedwyn_Stone_Museum&action=edit&redlink=1
+Boscombe Down Aviation Collection	in_Wiltshire	Other	/w/index.php?title=Boscombe_Down_Aviation_Collection&action=edit&redlink=1
+Bowood House	in_Wiltshire	Historic	/wiki/Bowood_House
+Bradford on Avon Museum	in_Wiltshire	Local	/w/index.php?title=Bradford_on_Avon_Museum&action=edit&redlink=1
+Calne Heritage Centre	in_Wiltshire	Local	/w/index.php?title=Calne_Heritage_Centre&action=edit&redlink=1
+Chippenham Museum & Heritage Centre	in_Wiltshire	Local	/w/index.php?title=Chippenham_Museum_%26_Heritage_Centre&action=edit&redlink=1
+Chiseldon Museum	in_Wiltshire	Local	/w/index.php?title=Chiseldon_Museum&action=edit&redlink=1
+Corsham Almshouses & 17th Century Schoolroom	in_Wiltshire	Historic	/wiki/Hungerford_Almshouses
+Corsham Court	in_Wiltshire	Historic	/wiki/Corsham_Court
+Corsham Information and Heritage Centre	in_Wiltshire	Local	/w/index.php?title=Corsham_Information_and_Heritage_Centre&action=edit&redlink=1
+Cricklade Museum	in_Wiltshire	Local	/w/index.php?title=Cricklade_Museum&action=edit&redlink=1
+Crofton Pumping Station	in_Wiltshire	Other	/wiki/Crofton_Pumping_Station
+Edward Young Collection	in_Wiltshire	Arts	/w/index.php?title=Edward_Young_Collection&action=edit&redlink=1
+Great Chalfield Manor	in_Wiltshire	Historic	/wiki/Great_Chalfield_Manor
+John Creasey Collection of Contemporary Art	in_Wiltshire	Arts	/w/index.php?title=John_Creasey_Collection_of_Contemporary_Art&action=edit&redlink=1
+Kennet & Avon Canal Museum	in_Wiltshire	Transport	/wiki/Kennet_%26_Avon_Canal_Museum
+Lacock Abbey, Fox Talbot Museum & Village	in_Wiltshire	Multiple	/wiki/Lacock_Abbey
+Lackham Museum of Agriculture and Rural Life	in_Wiltshire	Local	/w/index.php?title=Lackham_Museum_of_Agriculture_and_Rural_Life&action=edit&redlink=1
+Little Clarendon	in_Wiltshire	Historic	/w/index.php?title=Little_Clarendon&action=edit&redlink=1
+Longleat	in_Wiltshire	Historic	/wiki/Longleat
+Lydiard House	in_Wiltshire	Historic	/wiki/Lydiard_House
+Market Lavington Village Museum	in_Wiltshire	Local	/w/index.php?title=Market_Lavington_Village_Museum&action=edit&redlink=1
+Merchant's House, Marlborough	in_Wiltshire	Historic	/w/index.php?title=Merchant%27s_House,_Marlborough&action=edit&redlink=1
+Mere Museum	in_Wiltshire	Local	/w/index.php?title=Mere_Museum&action=edit&redlink=1
+Museum of Computing	in_Wiltshire	Other	/wiki/Museum_of_Computing
+Mompesson House	in_Wiltshire	Historic	/wiki/Mompesson_House
+Oxfam Art Gallery	in_Wiltshire	Arts	/w/index.php?title=Oxfam_Art_Gallery&action=edit&redlink=1
+Pewsey Heritage Centre	in_Wiltshire	Local	/w/index.php?title=Pewsey_Heritage_Centre&action=edit&redlink=1
+Philipps House	in_Wiltshire	Historic	/wiki/Philipps_House
+The Pound	in_Wiltshire	Arts	/w/index.php?title=The_Pound&action=edit&redlink=1
+Purton Museum	in_Wiltshire	Local	/w/index.php?title=Purton_Museum&action=edit&redlink=1
+REME Museum	in_Wiltshire	Other	/wiki/REME_Museum
+Richard Jefferies Museum	in_Wiltshire	Historic	/w/index.php?title=Richard_Jefferies_Museum&action=edit&redlink=1
+The Rifles (Berkshire and Wiltshire) Museum	in_Wiltshire	Other	/w/index.php?title=The_Rifles_(Berkshire_and_Wiltshire)_Museum&action=edit&redlink=1
+Salisbury Museum	in_Wiltshire	Multiple	/wiki/Salisbury_Museum
+Salisbury Arts Centre	in_Wiltshire	Arts	/wiki/Salisbury_Arts_Centre
+Science Museum at Wroughton	in_Wiltshire	Other	/wiki/The_Science_Museum_at_Wroughton
+STEAM - Museum of the Great Western Railway	in_Wiltshire	Transport	/wiki/STEAM_-_Museum_of_the_Great_Western_Railway
+Stourhead	in_Wiltshire	Historic	/wiki/Stourhead
+Swindon and Cricklade Railway	in_Wiltshire	Transport	/wiki/Swindon_and_Cricklade_Railway
+Swindon Art Gallery	in_Wiltshire	Arts	/wiki/Swindon_Art_Gallery
+Swindon Museum	in_Wiltshire	Multiple	/wiki/Swindon_Museum
+Trowbridge Museum	in_Wiltshire	Arts	/wiki/Trowbridge_Museum
+Warminster Museum	in_Wiltshire	Local	/w/index.php?title=Warminster_Museum&action=edit&redlink=1
+The Well House Collection	in_Wiltshire	Local	/w/index.php?title=The_Well_House_Collection&action=edit&redlink=1
+Westbury Visitor Centre	in_Wiltshire	Local	/w/index.php?title=Westbury_Visitor_Centre&action=edit&redlink=1
+Westwood Manor	in_Wiltshire	Historic	/wiki/Westwood_Manor
+Wilton Carpet Factory Museum	in_Wiltshire	Industrial	/w/index.php?title=Wilton_Carpet_Factory_Museum&action=edit&redlink=1
+Wilton House	in_Wiltshire	Historic	/wiki/Wilton_House
+Wilton Town Museum	in_Wiltshire	Local	/w/index.php?title=Wilton_Town_Museum&action=edit&redlink=1
+Wilton Windmill	in_Wiltshire	Industrial	/wiki/Wilton_Windmill
+Wiltshire Museum	in_Wiltshire	Multiple	/wiki/Wiltshire_Museum
+Wootton Bassett Museum	in_Wiltshire	Local	/wiki/Wootton_Bassett_Museum

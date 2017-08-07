@@ -1,0 +1,23 @@
+name	county	type	wikipedia_link
+Basildon Park	in_Berkshire	Historic	/wiki/Basildon_Park
+Berkshire Medical Heritage Centre	in_Berkshire	Other	/wiki/Berkshire_Medical_Heritage_Centre
+Cole Museum of Zoology	in_Berkshire	Other	/wiki/Cole_Museum_of_Zoology
+Eton College Natural History Museum	in_Berkshire	Other	/wiki/Eton_College_Collections#Eton_College_Natural_History_Museum
+Frogmore House	in_Berkshire	Historic	/wiki/Frogmore_House
+Look Out Discovery Centre	in_Berkshire	Other	/w/index.php?title=Look_Out_Discovery_Centre&action=edit&redlink=1
+Maidenhead Heritage Centre	in_Berkshire	Local	/wiki/Maidenhead_Heritage_Centre
+Museum of Berkshire Aviation	in_Berkshire	Transport	/wiki/Museum_of_Berkshire_Aviation
+Museum of English Rural Life	in_Berkshire	Local	/wiki/Museum_of_English_Rural_Life
+Museum of Eton Life	in_Berkshire	Other	/wiki/Eton_College_Collections#Museum_of_Eton_Life
+Museum of Reading	in_Berkshire	Multiple	/wiki/Museum_of_Reading
+REME Museum of Technology	in_Berkshire	Other	/wiki/REME_Museum_of_Technology
+Riverside Museum at Blake's Lock	in_Berkshire	Multiple	/wiki/Riverside_Museum_at_Blake%27s_Lock
+Shaw House	in_Berkshire	Historic	/wiki/Shaw_House,_Berkshire
+Slough Museum	in_Berkshire	Local	/wiki/Slough_Museum
+South Hill Park Arts Centre	in_Berkshire	Arts	/wiki/South_Hill_Park
+Stanley Spencer Gallery	in_Berkshire	Arts	/wiki/Stanley_Spencer_Gallery
+Thames Valley Police Museum	in_Berkshire	Local	/wiki/Thames_Valley_Police_Museum
+Ure Museum of Greek Archaeology	in_Berkshire	Historic	/wiki/Ure_Museum_of_Greek_Archaeology
+West Berkshire Museum	in_Berkshire	Local	/wiki/West_Berkshire_Museum
+Windsor and Royal Borough Museum	in_Berkshire	Local	/wiki/Windsor_and_Royal_Borough_Museum
+Windsor Castle	in_Berkshire	Historic	/wiki/Windsor_Castle

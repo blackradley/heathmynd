@@ -1,0 +1,56 @@
+name	county	type	wikipedia_link
+Astley Cheetham Art Gallery	in_Greater_Manchester	Arts	/w/index.php?title=Astley_Cheetham_Art_Gallery&action=edit&redlink=1
+Astley Green Colliery Museum	in_Greater_Manchester	Industrial	/wiki/Astley_Green_Colliery_Museum
+Bolton Museum	in_Greater_Manchester	Multiple	/wiki/Bolton_Museum
+Bolton Steam Museum	in_Greater_Manchester	Other	/wiki/Bolton_Steam_Museum
+Bramall Hall	in_Greater_Manchester	Historic	/wiki/Bramall_Hall
+Bury Art Museum	in_Greater_Manchester	Multiple	/wiki/Bury_Art_Museum
+Bury Transport Museum	in_Greater_Manchester	Transport	/w/index.php?title=Bury_Transport_Museum&action=edit&redlink=1
+Castlefield Gallery	in_Greater_Manchester	Arts	/wiki/Castlefield_Gallery
+Central Art Gallery	in_Greater_Manchester	Arts	/w/index.php?title=Central_Art_Gallery&action=edit&redlink=1
+Centre for Chinese Contemporary Art	in_Greater_Manchester	Arts	/wiki/Centre_for_Chinese_Contemporary_Art
+Cornerhouse	in_Greater_Manchester	Arts	/wiki/Cornerhouse,_Manchester
+Dunham Massey Hall	in_Greater_Manchester	Historic	/wiki/Dunham_Massey_Hall
+Elizabeth Gaskell's House	in_Greater_Manchester	Historic	/wiki/84_Plymouth_Grove
+Ellenroad Engine House	in_Greater_Manchester	Other	/wiki/Ellenroad_Ring_Mill_Engine
+Fusilier Museum	in_Greater_Manchester	Other	/wiki/Fusilier_Museum
+Gallery of Costume	in_Greater_Manchester	Arts	/wiki/Gallery_of_Costume
+Gallery Oldham	in_Greater_Manchester	Multiple	/wiki/Gallery_Oldham
+Greater Manchester Fire Service Museum	in_Greater_Manchester	Other	
+Greater Manchester Police Museum	in_Greater_Manchester	Local	/wiki/Greater_Manchester_Police_Museum
+Haigh Hall	in_Greater_Manchester	Historic	/wiki/Haigh_Hall
+Hall i' th' Wood	in_Greater_Manchester	Historic	/wiki/Hall_i%27_th%27_Wood
+Hat Works	in_Greater_Manchester	Industrial	/wiki/Hat_Works
+Heaton Hall	in_Greater_Manchester	Historic	/wiki/Heaton_Hall
+Heaton Park Tramway	in_Greater_Manchester	Transport	/wiki/Heaton_Park_Tramway
+Horwich Heritage Centre	in_Greater_Manchester	Local	
+Imperial War Museum North	in_Greater_Manchester	Other	/wiki/Imperial_War_Museum_North
+John Rylands Library	in_Greater_Manchester	Other	/wiki/John_Rylands_Library
+The Lowry	in_Greater_Manchester	Arts	/wiki/The_Lowry
+Manchester Art Gallery	in_Greater_Manchester	Arts	/wiki/Manchester_Art_Gallery
+Manchester Jewish Museum	in_Greater_Manchester	Other	/wiki/Manchester_Jewish_Museum
+Manchester Museum	in_Greater_Manchester	Multiple	/wiki/Manchester_Museum
+Manchester United Museum	in_Greater_Manchester	Other	/wiki/Old_Trafford#Structure_and_facilities
+Mossley Industrial Heritage Centre	in_Greater_Manchester	Industrial	
+Museum of Science and Industry	in_Greater_Manchester	Multiple	/wiki/Museum_of_Science_and_Industry_(Manchester)
+Museum of the Manchester Regiment	in_Greater_Manchester	Other	/w/index.php?title=Museum_of_the_Manchester_Regiment&action=edit&redlink=1
+Museum of Transport	in_Greater_Manchester	Transport	/wiki/Museum_of_Transport,_Greater_Manchester
+Museum of Wigan Life	in_Greater_Manchester	Local	/wiki/Museum_of_Wigan_Life
+National Football Museum	in_Greater_Manchester	Other	/wiki/National_Football_Museum
+Ordsall Hall	in_Greater_Manchester	Historic	/wiki/Ordsall_Hall
+Pankhurst Centre	in_Greater_Manchester	Historic	/wiki/Pankhurst_Centre
+Park Bridge Heritage Centre	in_Greater_Manchester	Local	/wiki/Park_Bridge_Heritage_Centre
+People's History Museum	in_Greater_Manchester	Historic	/wiki/People%27s_History_Museum
+Portland Basin Museum	in_Greater_Manchester	Local	/wiki/Portland_Basin_Museum
+Rochdale Pioneers Museum	in_Greater_Manchester	Historic	/wiki/Rochdale_Pioneers_Museum
+Saddleworth Museum	in_Greater_Manchester	Local	/wiki/Saddleworth_Museum
+Salford Museum and Art Gallery	in_Greater_Manchester	Multiple	/wiki/Salford_Museum_and_Art_Gallery
+Smithills Hall	in_Greater_Manchester	Historic	/wiki/Smithills_Hall
+Staircase House	in_Greater_Manchester	Historic	/wiki/Staircase_House
+Stockport Art Gallery	in_Greater_Manchester	Arts	/w/index.php?title=Stockport_Art_Gallery&action=edit&redlink=1
+Stockport Air Raid Shelters	in_Greater_Manchester	Other	/wiki/Stockport_Air_Raid_Shelters
+Stockport Museum	in_Greater_Manchester	Local	/w/index.php?title=Stockport_Museum&action=edit&redlink=1
+Touchstones Rochdale	in_Greater_Manchester	Multiple	/wiki/Touchstones_Rochdale
+Trencherfield Mill Steam Engine	in_Greater_Manchester	Other	/wiki/Trencherfield_Mill
+Whitworth Art Gallery	in_Greater_Manchester	Arts	/wiki/Whitworth_Art_Gallery
+Wythenshawe Hall	in_Greater_Manchester	Historic	/wiki/Wythenshawe_Hall

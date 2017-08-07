@@ -1,0 +1,72 @@
+name	county	type	wikipedia_link
+Anvil Point Lighthouse	in_Dorset	Transport	/wiki/Anvil_Point_Lighthouse
+Athelhampton	in_Dorset	Historic	/wiki/Athelhampton
+Beaminster Museum	in_Dorset	Local	/w/index.php?title=Beaminster_Museum&action=edit&redlink=1
+Bennetts Water Gardens	in_Dorset	Multiple	/wiki/Bennetts_Water_Gardens
+Blandford Fashion Museum	in_Dorset	Arts	/w/index.php?title=Blandford_Fashion_Museum&action=edit&redlink=1
+Blandford Town Museum	in_Dorset	Local	/w/index.php?title=Blandford_Town_Museum&action=edit&redlink=1
+Bridport Museum	in_Dorset	Local	/w/index.php?title=Bridport_Museum&action=edit&redlink=1
+Bournemouth Aviation Museum	in_Dorset	Transport	/wiki/Bournemouth_Aviation_Museum
+Bournemouth Natural Science Society	in_Dorset	Other	
+Bournemouth University Atrium Gallery	in_Dorset	Arts	/wiki/Bournemouth_University
+Charmouth Heritage Coast Centre	in_Dorset	Other	/wiki/Charmouth_Heritage_Coast_Centre
+Chettle House	in_Dorset	Historic	/w/index.php?title=Chettle_House&action=edit&redlink=1
+Clouds Hill	in_Dorset	Historic	/wiki/Clouds_Hill
+Corfe Castle Town Museum	in_Dorset	Local	/w/index.php?title=Corfe_Castle_Town_Museum&action=edit&redlink=1
+Dinosaur Museum	in_Dorset	Other	/wiki/Dinosaur_Museum_(Dorchester)
+Dinosaurland Fossil Museum	in_Dorset	Other	/wiki/Dinosaurland_Fossil_Museum
+Dorset County Museum	in_Dorset	Multiple	/wiki/Dorset_County_Museum
+Dorset Teddy Bear Museum	in_Dorset	Arts	/wiki/Dorset_Teddy_Bear_Museum
+Fiddleford Manor	in_Dorset	Historic	/wiki/Fiddleford_Manor
+Forde Abbey	in_Dorset	Historic	/wiki/Forde_Abbey
+TheGallery at Arts University Bournemouth	in_Dorset	Arts	/wiki/Arts_University_Bournemouth
+Gillingham Museum	in_Dorset	Local	/w/index.php?title=Gillingham_Museum&action=edit&redlink=1
+Gold Hill Museum	in_Dorset	Local	/w/index.php?title=Gold_Hill_Museum&action=edit&redlink=1
+Grove Prison Museum	in_Dorset	Local	/wiki/HM_Prison_Portland#Grove_Prison_Museum
+Highcliffe Castle	in_Dorset	Historic	/wiki/Highcliffe_Castle
+Keep Military Museum	in_Dorset	Other	/wiki/The_Keep,_Dorchester
+Kingston Lacy	in_Dorset	Historic	/wiki/Kingston_Lacy
+Langton Matravers Museum	in_Dorset	Local	/w/index.php?title=Langton_Matravers_Museum&action=edit&redlink=1
+Lulworth Castle	in_Dorset	Historic	/wiki/Lulworth_Castle
+Lyme Regis Marine Aquarium	in_Dorset	Other	/w/index.php?title=Lyme_Regis_Marine_Aquarium&action=edit&redlink=1
+Lyme Regis Museum	in_Dorset	Multiple	/wiki/Lyme_Regis_Museum
+Mangerton Mill	in_Dorset	Industrial	/w/index.php?title=Mangerton_Mill&action=edit&redlink=1
+Mapperton House	in_Dorset	Historic	/wiki/Mapperton#Mapperton_House
+Max Gate	in_Dorset	Historic	/wiki/Max_Gate
+Museum of Design in Plastics	in_Dorset	Arts	/w/index.php?title=Museum_of_Design_in_Plastics&action=edit&redlink=1
+Nothe Fort	in_Dorset	Other	/wiki/Nothe_Fort
+Place Mill	in_Dorset	Industrial	/w/index.php?title=Place_Mill&action=edit&redlink=1
+Poole Museum	in_Dorset	Local	/wiki/Poole_Museum
+Poole Old Lifeboat Museum and Shop	in_Dorset	Transport	/wiki/Poole_Lifeboat_Station
+Portland Bill Lighthouse	in_Dorset	Transport	/wiki/Portland_Bill_Lighthouse
+Portland Castle	in_Dorset	Other	/wiki/Portland_Castle
+Portland Museum	in_Dorset	Local	/wiki/Portland_Museum,_Dorset
+Priest's House Museum	in_Dorset	Historic	/wiki/Priest%27s_House_Museum
+Purbeck Mineral and Mining Museum	in_Dorset	Industrial	/wiki/Purbeck_Mineral_and_Mining_Museum
+Red House Museum, Dorset	in_Dorset	Local	
+Royal Signals Museum	in_Dorset	Other	/wiki/Royal_Signals_Museum
+Russell-Cotes Art Gallery & Museum	in_Dorset	Arts	/wiki/Russell-Cotes_Art_Gallery_%26_Museum
+Scaplens Court Museum	in_Dorset	Historic	/w/index.php?title=Scaplens_Court_Museum&action=edit&redlink=1
+Shaftesbury Abbey Museum	in_Dorset	Other	/wiki/Shaftesbury_Abbey
+Sherborne Castle	in_Dorset	Historic	/wiki/Sherborne_Castle
+Sherborne House Arts	in_Dorset	Arts	
+Sherborne Museum	in_Dorset	Local	/wiki/Sherborne_Museum
+Sherborne Steam & Waterwheel Centre	in_Dorset	Other	/w/index.php?title=Sherborne_Steam_%26_Waterwheel_Centre&action=edit&redlink=1
+Shire Hall Dorset	in_Dorset	Local	/w/index.php?title=Shire_Hall_Dorset&action=edit&redlink=1
+Stock Gaylard	in_Dorset	Historic	/w/index.php?title=Stock_Gaylard&action=edit&redlink=1
+Sturminster Newton Mill	in_Dorset	Industrial	/w/index.php?title=Sturminster_Newton_Mill&action=edit&redlink=1
+Sturminster Newton Museum	in_Dorset	Local	/w/index.php?title=Sturminster_Newton_Museum&action=edit&redlink=1
+Sutton Poyntz Water Supply Museum	in_Dorset	Historic	/w/index.php?title=Sutton_Poyntz_Water_Supply_Museum&action=edit&redlink=1
+Swanage Museum	in_Dorset	Local	/w/index.php?title=Swanage_Museum&action=edit&redlink=1
+Swanage Railway	in_Dorset	Transport	/wiki/Swanage_Railway
+The Tank Museum	in_Dorset	Other	/wiki/The_Tank_Museum
+Terracotta Warriors Museum	in_Dorset	Historic	/w/index.php?title=Terracotta_Warriors_Museum&action=edit&redlink=1
+Thomas Hardy's Cottage	in_Dorset	Historic	/wiki/Thomas_Hardy%27s_Cottage
+Tolpuddle Martyrs Museum	in_Dorset	Historic	/wiki/Tolpuddle_Martyrs
+Town Mill, Lyme Regis	in_Dorset	Industrial	/w/index.php?title=Town_Mill,_Lyme_Regis&action=edit&redlink=1
+Tudor House	in_Dorset	Historic	/wiki/Tudor_House_Museum,_Weymouth
+Tutankhamun Exhibition	in_Dorset	Historic	/wiki/Tutankhamun_Exhibition,_Dorchester
+Wareham Town Museum	in_Dorset	Local	/wiki/Wareham_Town_Museum
+Weymouth Museum	in_Dorset	Local	/wiki/Brewers_Quay#Weymouth_Museum
+White Mill, Sturminster Marshall	in_Dorset	Industrial	/w/index.php?title=White_Mill,_Sturminster_Marshall&action=edit&redlink=1
+Wolfeton House	in_Dorset	Historic	/wiki/Wolfeton_House

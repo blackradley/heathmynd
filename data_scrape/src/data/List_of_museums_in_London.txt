@@ -1,0 +1,279 @@
+name	county	type	wikipedia_link
+	in_London	Other	/wiki/File:1_2_3_Willow_Road_Hampstead_London_20050924.JPG
+	in_London	Other	/wiki/File:Hammersmith_Terrace_06.JPG
+	in_London	Other	/wiki/File:Linley_Sambourne_House.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:AllHallowsByTheTowerChurch.jpg
+	in_London	Historic	
+	in_London	Other	/wiki/File:Apsley_House_1.JPG
+	in_London	Historic	/wiki/File:Museum_Arsenal_Football_Club_Museum.JPG
+	in_London	Other	/wiki/File:Art_in_Perpetuity_Trust1.jpg
+	in_London	Other	/wiki/File:Artsdepot.JPG
+	in_London	Historic	/wiki/File:Bphouse04.jpg
+	in_London	Historic	/wiki/File:London.bankofengland.arp.jpg
+	in_London	Other	/wiki/File:Bankside_Gallery_(1).jpg
+	in_London	Other	/wiki/File:Banqueting_House_London.jpg
+	in_London	Other	/wiki/File:Barbican-arts-centre-large.jpg
+	in_London	Local	/wiki/File:The_Museum_at_Barnet_-_geograph.org.uk_-_24796.jpg
+	in_London	Other	/wiki/File:Plotting_Table.jpg
+	in_London	Other	/wiki/File:BU_Gallery_Exterior_2015_(1).jpg
+	in_London	Other	/wiki/File:Benjamin_Franklin_Museum-Craven_Street.jpg
+	in_London	Other	/wiki/File:OfficersMessBentley.JPG
+	in_London	Other	/wiki/File:BethlemRoyalHospital.jpeg
+	in_London	Other	/wiki/File:South_Bank_University_buildings_-_geograph.org.uk_-_1750189.jpg
+	in_London	Other	/wiki/File:Boston_manor_front_2943.jpg
+	in_London	Other	
+	in_London	Historic	
+	in_London	Historic	
+	in_London	Other	/wiki/File:British_Library_entranceway.jpg
+	in_London	Other	/wiki/File:British_Museum_from_NE_2.JPG
+	in_London	Historic	
+	in_London	Other	
+	in_London	Historic	/wiki/File:Red_Cross_Parcel.jpg
+	in_London	Local	
+	in_London	Local	/wiki/File:Bruce_castle_1.jpg
+	in_London	Other	/wiki/File:Brunei_Gallery.jpg
+	in_London	Historic	/wiki/File:Brunel_museum_mural.jpg
+	in_London	Other	/wiki/File:Buckingham_Palace_from_gardens,_London,_UK_-_Diliff.jpg
+	in_London	Other	/wiki/File:The_Building_Centre,_Store_Street,_London.JPG
+	in_London	Local	/wiki/File:Burgh_House_in_New_End_Square_-_geograph.org.uk_-_674944.jpg
+	in_London	Other	/wiki/File:Calvert22exterior.jpg
+	in_London	Other	/wiki/File:Camden_Arts_Centre,_London,_UK.jpg
+	in_London	Other	/wiki/File:Canada_House.jpg
+	in_London	Other	/wiki/File:Carlyle%27s_House.jpg
+	in_London	Other	/wiki/File:CartoonMuseumLondon.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Dickens-museum.jpg
+	in_London	Other	/wiki/File:Chartered_Insurance_Institute,_Aldermanbury,_London_02.JPG
+	in_London	Other	/wiki/File:Chelsea_physic_garden.jpg
+	in_London	Other	/wiki/File:Chisehale_Gallery.jpg
+	in_London	Other	/wiki/File:Chiswick_House.jpg
+	in_London	Other	/wiki/File:Churchillmuseumcabinetwarrooms.JPG
+	in_London	Other	
+	in_London	Historic	/wiki/File:Exterior_of_Cinema_Museum_lecture,_Kennington,_Lambeth.jpg
+	in_London	Other	/wiki/File:Clarence_house.jpg
+	in_London	Other	/wiki/File:2005-06-21_-_London_-_The_Clink_Prison_Museum_(4887300019).jpg
+	in_London	Arts	
+	in_London	Other	
+	in_London	Other	/wiki/File:Somerset_House,_Strand.jpg
+	in_London	Historic	/wiki/File:New_Scotland_Yard_sign_3.jpg
+	in_London	Other	/wiki/File:Crofton_Roman_Villa_-_geograph.org.uk_-_612839.jpg
+	in_London	Other	/wiki/File:Prince_Consort,_Crossness_Pumping_Station.jpg
+	in_London	Historic	/wiki/File:Crystal_Palace_Museum_-_geograph.org.uk_-_840945.jpg
+	in_London	Other	
+	in_London	Local	/wiki/File:Southwark_vestry_hall.jpg
+	in_London	Other	/wiki/File:Cutty_Sark_June_2012.jpg
+	in_London	Other	/wiki/File:Danson_Mansion.jpg
+	in_London	Other	/wiki/File:18_Folgate_Street_(Night).jpg
+	in_London	Other	/wiki/File:Design_Museum.jpg
+	in_London	Other	/wiki/File:Dr._Johnson%27s_House.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:ONBDOWNhouse.jpg
+	in_London	Other	/wiki/File:Dulwich-picture-gallery-interior.JPG
+	in_London	Other	/wiki/File:Eastbury_Manor_House.jpg
+	in_London	Other	/wiki/File:Eltham_palace_exterior.jpg
+	in_London	Other	
+	in_London	Other	
+	in_London	Other	/wiki/File:Royal_Institution.jpg
+	in_London	Arts	/wiki/File:Bermondsey_fashion_museum_1.jpg
+	in_London	Other	/wiki/File:Fenton_House_Hampstead_front_February_2006.jpg
+	in_London	Other	/wiki/File:St_Mary%27s_Hospital_01.jpg
+	in_London	Other	
+	in_London	Other	
+	in_London	Local	/wiki/File:FortyHall2.jpg
+	in_London	Historic	/wiki/File:Foundling_Museum_-Brunswick_Square_-London_-15July2009.jpg
+	in_London	Other	/wiki/File:Belarusian_library_London.jpg
+	in_London	Other	/wiki/File:Freud_Museum_London_2.jpg
+	in_London	Arts	/wiki/File:Fulham_Palace_courtyard_-_geograph.org.uk_-_835758.jpg
+	in_London	Historic	/wiki/File:London_tower_royal_fusiliers_regimental_museum_2005-05.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:London_garden_museum_-20_garden_and_church.JPG
+	in_London	Other	/wiki/File:Garrick%27s_Temple_to_Shakespeare.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:London_-_Geffrye_Museum.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Francis-drake-galleon-southwark-london-uk.jpg
+	in_London	Other	/wiki/File:Guys_campus_kcl_2.jpg
+	in_London	Other	/wiki/File:Grant_Museum_of_Zoology_(9201048849).jpg
+	in_London	Local	/wiki/File:Woolwich_Arsenal_Laboratory_Square_-_geograph.org.uk_-_895906.jpg
+	in_London	Other	/wiki/File:Samuel_pepys_building_greenwich.jpg
+	in_London	Historic	/wiki/File:Guards_museum_armoured_car_1.jpg
+	in_London	Other	/wiki/File:Guildhall_Art_Gallery.jpg
+	in_London	Local	/wiki/File:The_Large_Mansion_at_Gunnersbury_ed.JPG
+	in_London	Local	/wiki/File:Hackney_museum.jpg
+	in_London	Other	/wiki/File:HallPlace.jpg
+	in_London	Other	/wiki/File:Ham_House_2007.jpg
+	in_London	Other	/wiki/File:Hampton_Court_Great_Gatehouse.jpg
+	in_London	Other	/wiki/File:London_Handel_House.jpg
+	in_London	Local	/wiki/File:Harrow_Museum_Tithe_Barn.JPG
+	in_London	Other	
+	in_London	Other	/wiki/File:Hayward-gallery-london_I.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Hms_belfast.jpg
+	in_London	Other	/wiki/File:Hogarths_house_5832.JPG
+	in_London	Other	/wiki/File:Honeywood_House_Carshalton.jpg
+	in_London	Other	/wiki/File:Armoury_House.JPG
+	in_London	Other	/wiki/File:Horniman_Museum.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:House_of_Illustration_02.JPG
+	in_London	Other	/wiki/File:Horse_guards_2004.jpg
+	in_London	Other	/wiki/File:House_Mill_2007.jpg
+	in_London	Other	/wiki/File:Royal_College_of_Surgeons_of_England_1.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:The_Imperial_war_museum.jpg
+	in_London	Other	/wiki/File:68_Signal_Squadron_-_10_Stone_Building_1.jpg
+	in_London	Other	/wiki/File:IOA,_UCL_entrance.jpg
+	in_London	Multiple	/wiki/File:The_ica_1.jpg
+	in_London	Local	/wiki/File:Islington_Museum_and_Finsbury_Library_-_geograph.org.uk_-_1311637.jpg
+	in_London	Historic	/wiki/File:Jack_the_Ripper_Museum.jpg
+	in_London	Other	/wiki/File:Jewel_Tower.jpg
+	in_London	Other	/wiki/File:Jewish_Museum_London.jpg
+	in_London	Other	/wiki/File:Keats_House.jpg
+	in_London	Other	/wiki/File:Kelmscott_House.JPG
+	in_London	Other	
+	in_London	Other	/wiki/File:Kensington_Palace.jpg
+	in_London	Other	/wiki/File:Kenwood_House.jpg
+	in_London	Other	/wiki/File:Marianne_North_Gallery_821.JPG
+	in_London	Other	/wiki/File:Kew_Palace_(5942717068).jpg
+	in_London	Local	/wiki/File:Exterior_of_Kingston_Museum.jpg
+	in_London	Other	/wiki/File:Kirkaldy_Testing_Museum_testing_machine.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Lambeth_Palace_gatehouse_-_geograph.org.uk_-_343864.jpg
+	in_London	Other	/wiki/File:The_Landmark_Arts_centre,_Teddington_05.jpg
+	in_London	Other	
+	in_London	Other	
+	in_London	Other	/wiki/File:Leighton_House_02.JPG
+	in_London	Other	/wiki/File:Freemasons%27_Hall,_London.JPG
+	in_London	Other	/wiki/File:Little_Holland_House_Notice.jpg
+	in_London	Historic	/wiki/File:London_Canal_Museum_TQ3083.jpg
+	in_London	Other	
+	in_London	Other	
+	in_London	Other	
+	in_London	Other	/wiki/File:London_Motorcycle_Museum_racing_motorcycles.jpg
+	in_London	Other	/wiki/File:90_inch_engine_valves,Kew_Bridge_Steam_Museum.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:London_Transport_Museum_Covent_Garden.jpg
+	in_London	Other	/wiki/File:London_Motorcycle_Museum_racing_motorcycles.jpg
+	in_London	Other	/wiki/File:MadameTussaudMuseumLondon.JPG
+	in_London	Other	
+	in_London	Other	/wiki/File:Mansion_House_London.jpg
+	in_London	Other	/wiki/File:Marble_Hill_House-River(south)front.jpg
+	in_London	Other	/wiki/File:Markfield_pumphouse.jpg
+	in_London	Historic	
+	in_London	Other	
+	in_London	Other	
+	in_London	Local	
+	in_London	Other	/wiki/File:MOCA,_LONDON.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Kneller_Hall_Whitton_Feb_2006.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Museum_of_Brands_London_can_display.jpg
+	in_London	Other	
+	in_London	Local	
+	in_London	Other	
+	in_London	Other	/wiki/File:19_Princelet_Street,_Spitalfields,_London.jpg
+	in_London	Historic	/wiki/File:Guys_courtyard_5.jpg
+	in_London	Other	/wiki/File:Museum_of_London.jpg
+	in_London	Other	/wiki/File:Docklands_Museum,_London_E14.jpg
+	in_London	Local	/wiki/File:Old_Town_Hall,_Richmond,_London.jpg
+	in_London	Historic	/wiki/File:St_John%27s_Gate_2007_5.jpg
+	in_London	Local	/wiki/File:Museum_of_Wimbledon.jpg
+	in_London	Other	/wiki/File:The_Musical_Museum,_Brentford.jpg
+	in_London	Historic	/wiki/File:National_Army_Museum_entrance.JPG
+	in_London	Other	/wiki/File:National_Gallery_in_September_2011.jpg
+	in_London	Historic	/wiki/File:EH1211481_National_Maritime_Museum_10.JPG
+	in_London	Other	/wiki/File:London_NPG.JPG
+	in_London	Other	/wiki/File:Natural_History_Museum_London_Jan_2006.jpg
+	in_London	Other	/wiki/File:Old-op-the-lond.jpg
+	in_London	Other	/wiki/File:United_Kingdom_-_England_-_London_-_Greenwich_-_Old_Royal_Naval_College.jpg
+	in_London	Other	/wiki/File:The_Old_Schools,_Harrow_School.JPG
+	in_London	Other	/wiki/File:Orleans_House_Gallery_(16944530880).jpg
+	in_London	Other	/wiki/File:Osterley_Park_House,_London-25June2009-rc.jpg
+	in_London	Other	/wiki/File:Parasol_unit_exterior.jpg
+	in_London	Other	/wiki/File:Peckham_Platform_small.jpeg
+	in_London	Other	/wiki/File:Petrie_Museum_of_Egyptian_Archaeology.jpg
+	in_London	Arts	/wiki/File:The_Photographers%27_Gallery,_London.jpg
+	in_London	Other	/wiki/File:Pitzhanger.jpg
+	in_London	Other	/wiki/File:IPMS.jpg
+	in_London	Other	/wiki/File:Pollock%27s_Toy_Museum,_Scala_Street_W1_-_geograph.org.uk_-_1568357.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Kew_Gardens_Queen_Charlottes_Cottage.jpg
+	in_London	Other	/wiki/File:Hunting_Lodge_Chingford.JPG
+	in_London	Other	/wiki/File:Queen%27s_Gallery_-1.jpg
+	in_London	Other	/wiki/File:The_Queen%27s_House,_Greenwich.JPG
+	in_London	Historic	/wiki/File:Ragged_School_Museum_-_geograph.org.uk_-_129072.jpg
+	in_London	Other	/wiki/File:Rainham_Hall.jpg
+	in_London	Other	/wiki/File:Rangers_House_Greenwich_from_Shooters_Hill_20070819_20-09.jpg
+	in_London	Other	/wiki/File:The_Red_House,_Bexleyheath.JPG
+	in_London	Other	
+	in_London	Local	/wiki/File:Ilford_Central_Library.JPG
+	in_London	Other	/wiki/File:Royal_College_of_Music_-_April_2007.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Rivington_place_psi.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Burlington_House.jpg
+	in_London	Other	/wiki/File:Royal_Academy_of_Music.jpg
+	in_London	Historic	/wiki/File:RAF_Museum_London_053.jpg
+	in_London	Other	/wiki/File:Armour_of_William_Somerset.003_-_Tower_of_London.JPG
+	in_London	Other	/wiki/File:Lasdun_Royal_College_of_Physicians_front_Dec_2005.jpg
+	in_London	Other	/wiki/File:Royal-hospital-chel-fig.jpg
+	in_London	Historic	/wiki/File:Royal_london.jpg
+	in_London	Other	/wiki/File:Le_Royal_Mews_de_Londres-007.JPG
+	in_London	Other	/wiki/File:Royal_observatory_greenwich.jpg
+	in_London	Other	
+	in_London	Historic	/wiki/File:Barts-main-entrance.jpg
+	in_London	Other	/wiki/File:St_Paul%27s_Cathedral,_London,_England_-_Jan_2010.jpg
+	in_London	Other	/wiki/File:SaatchiGallery.jpg
+	in_London	Other	/wiki/File:Science_Museum,_Exhibition_Road,_London_SW7_-_geograph.org.uk_-_1125595.jpg
+	in_London	Other	/wiki/File:20110606_London_96.JPG
+	in_London	Other	/wiki/File:TheGlobe01_ST_02.jpg
+	in_London	Other	/wiki/File:221B_Baker_Street,_London_-_Sherlock_Holmes_Museum.jpg
+	in_London	Other	/wiki/File:Shirley_Windmill.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Soane_Museum_2.jpg
+	in_London	Other	/wiki/File:Somerset_House.jpg
+	in_London	Other	/wiki/File:Natsume_Soseki_house_Clapham.jpg
+	in_London	Other	/wiki/File:Passmore_Edwards_South_London_Art_Gallery,_Peckham_Road_-_geograph.org.uk_-_1441923.jpg
+	in_London	Other	/wiki/File:Southside_House_geograph_3298503.jpg
+	in_London	Other	/wiki/File:Spencer_House.jpg
+	in_London	Other	/wiki/File:Avenue_house_finchley.JPG
+	in_London	Other	/wiki/File:Strawberry_Hill_House_from_garden_in_2012_after_restoration.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Sutton_house_hackney_2.jpg
+	in_London	Other	/wiki/File:Syon_House_West_Aspect.JPG
+	in_London	Other	/wiki/File:Tate_Britain_(5822081512)_(2).jpg
+	in_London	Other	/wiki/File:Tate_Modern_viewed_from_Thames_Pleasure_Boat_-_geograph.org.uk_-_307445.jpg
+	in_London	Other	/wiki/File:Tower_bridge_London_Twilight_-_November_2006.jpg
+	in_London	Historic	/wiki/File:Armour_of_William_Somerset.003_-_Tower_of_London.JPG
+	in_London	Historic	/wiki/File:Twinings_store.JPG
+	in_London	Local	/wiki/File:Twickenham_Museum_-_London._(19977475534).jpg
+	in_London	Other	/wiki/File:2_Temple_Place.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:UCL_Flaxman_Gallery_and_sculpture.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Upminster_tithe_barn_south.jpg
+	in_London	Other	/wiki/File:Upminster_mill_150912.JPG
+	in_London	Local	/wiki/File:Valence_House_Museum.JPG
+	in_London	Other	/wiki/File:Valentines_Mansion,_front_entrance.jpg
+	in_London	Local	/wiki/File:Courtyard_of_the_Vestry_House_Museum_-_geograph.org.uk_-_900047.jpg
+	in_London	Other	/wiki/File:Victoria_%26_Albert_Museum_Entrance,_London,_UK_-_Diliff.jpg
+	in_London	Other	/wiki/File:The_Viktor_Wynd_Museum_cabinet_of_curiosities_26.jpg
+	in_London	Other	/wiki/File:V%26A_Museum_of_Childhood.jpg
+	in_London	Other	/wiki/File:Wallace_Collection_first_floor_drawing_room.jpg
+	in_London	Other	/wiki/File:307123_Walthamstow_Pump_House_Museum_(1).jpg
+	in_London	Industrial	
+	in_London	Local	
+	in_London	Other	/wiki/File:Wellcome-110.JPG
+	in_London	Other	/wiki/File:Wellington_Arch_-_01.jpg
+	in_London	Historic	/wiki/File:Wesley%27s_Chapel_And_Statue.jpg
+	in_London	Other	/wiki/File:Tombeau_@.jpg
+	in_London	Other	
+	in_London	Historic	/wiki/File:White_Lodge.jpg
+	in_London	Other	/wiki/File:Whitechapel_Gallery_in_August_2014.JPG
+	in_London	Other	/wiki/File:Whitehall,_Cheam_-_geograph.org.uk_-_32986.jpg
+	in_London	Other	
+	in_London	Other	/wiki/File:Wiener_Library_02.JPG
+	in_London	Other	/wiki/File:William_Morris_Gallery-001.JPG
+	in_London	Historic	/wiki/File:Wimbledon_Lawn_Tennis_Museum_(485259229).jpg
+	in_London	Other	/wiki/File:Wimbledon_Windmill.jpg
+	in_London	Other	/wiki/File:World_Rugby_Museum.jpg

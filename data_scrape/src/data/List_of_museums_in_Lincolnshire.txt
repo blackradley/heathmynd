@@ -1,0 +1,84 @@
+name	county	type	wikipedia_link
+20-21 Visual Arts Centre	in_Lincolnshire	Arts	
+50 and 61 Squadron Museum	in_Lincolnshire	Other	/wiki/RAF_Skellingthorpe#50_and_61_Squadron_Museum
+Alford Manor House	in_Lincolnshire	Historic	/wiki/Alford_Manor_House
+Anderby Drainage Museum	in_Lincolnshire	Other	
+Ayscoughfee Hall Museum	in_Lincolnshire	Historic	/wiki/Ayscoughfee_Hall
+Battle of Britain Memorial Flight Visitor Centre	in_Lincolnshire	Transport	/wiki/Battle_of_Britain_Memorial_Flight
+Baysgarth House Museum	in_Lincolnshire	Local	/wiki/Baysgarth_House_Museum
+Belton House	in_Lincolnshire	Historic	/wiki/Belton_House
+Boston Guildhall	in_Lincolnshire	Local	/wiki/Boston_Guildhall
+Bourne Heritage Centre	in_Lincolnshire	Local	/wiki/Bourne_Civic_Society#Bourne_Heritage_Centre_.28Baldock.27s_Mill.29
+Browne's Hospital	in_Lincolnshire	Historic	/wiki/Browne%27s_Hospital,_Stamford
+Bubble Car Museum	in_Lincolnshire	Transport	/w/index.php?title=Bubble_Car_Museum&action=edit&redlink=1
+Burgh le Marsh Heritage Centre	in_Lincolnshire	Industrial	
+Burgh Museum	in_Lincolnshire	Local	
+Burton Fen Collection	in_Lincolnshire	Other	
+Caistor Arts & Heritage Centre	in_Lincolnshire	Local	
+Chain Bridge Forge	in_Lincolnshire	Other	
+Cleethorpes Discovery Centre	in_Lincolnshire	Arts	
+Cogglesford Mill	in_Lincolnshire	Industrial	/wiki/Cogglesford_Mill
+The Collection	in_Lincolnshire	Multiple	/wiki/The_Collection_(Lincolnshire)
+Cottage Museum	in_Lincolnshire	Local	
+Cranwell Aviation Heritage Centre	in_Lincolnshire	Transport	/w/index.php?title=Cranwell_Aviation_Heritage_Centre&action=edit&redlink=1
+Discover Stamford	in_Lincolnshire	Local	
+Doddington Hall & Gardens	in_Lincolnshire	Historic	/wiki/Doddington_Hall,_Lincolnshire
+Dogdyke Steam Drainage Station	in_Lincolnshire	Other	/wiki/Dogdyke_Engine
+Epworth Old Rectory	in_Lincolnshire	Historic	/w/index.php?title=Epworth_Old_Rectory&action=edit&redlink=1
+Gainsborough Old Hall	in_Lincolnshire	Historic	/wiki/Gainsborough_Old_Hall
+Gayton Engine Pumping Station	in_Lincolnshire	Other	
+Gordon Boswell Romany Museum	in_Lincolnshire	Transport	/wiki/Gordon_Boswell_Romany_Museum
+Grantham House	in_Lincolnshire	Historic	/wiki/Grantham_House
+Grantham Museum	in_Lincolnshire	Local	/wiki/Grantham_Museum
+Grimsby Fishing Heritage Centre	in_Lincolnshire	Transport	/wiki/Grimsby_Fishing_Heritage_Centre
+Grimsby Town Hall Time Trap Museum	in_Lincolnshire	Local	
+Grimsthorpe Castle	in_Lincolnshire	Historic	/wiki/Grimsthorpe_Castle
+Haywain Farm Museum	in_Lincolnshire	Local	
+Heckington Railway and Heritage Museum	in_Lincolnshire	Transport	/wiki/Heckington_railway_station
+Heckington Windmill	in_Lincolnshire	Industrial	/wiki/Heckington_Windmill
+Immingham Museum	in_Lincolnshire	Transport	
+Lincoln Castle	in_Lincolnshire	Multiple	/wiki/Lincoln_Castle
+Lincoln Medieval Bishop's Palace	in_Lincolnshire	Historic	/wiki/Lincoln_Medieval_Bishop%27s_Palace
+Lincolnshire Aviation Heritage Centre	in_Lincolnshire	Transport	/wiki/Lincolnshire_Aviation_Heritage_Centre
+Lincolnshire Road Transport Museum	in_Lincolnshire	Transport	/w/index.php?title=Lincolnshire_Road_Transport_Museum&action=edit&redlink=1
+Lincolnshire Wolds Railway	in_Lincolnshire	Transport	/wiki/Lincolnshire_Wolds_Railway
+Louth Museum	in_Lincolnshire	Local	
+Magdalen College Museum	in_Lincolnshire	Local	
+Maud Foster Windmill	in_Lincolnshire	Industrial	/wiki/Maud_Foster_Windmill
+Metheringham Airfield Visitor Centre	in_Lincolnshire	Transport	/wiki/Metheringham_Airfield_Visitor_Centre
+Moulton Windmill	in_Lincolnshire	Industrial	/wiki/Moulton_Windmill
+Mrs Smith's Cottage	in_Lincolnshire	Historic	/wiki/Navenby#Mrs_Smith.27s_Cottage
+Museum of Lincolnshire Life	in_Lincolnshire	Local	/wiki/Museum_of_Lincolnshire_Life
+Museum of RAF Firefighting	in_Lincolnshire	Other	
+Museum of Technology	in_Lincolnshire	Other	/wiki/The_Museum_of_Technology
+National Centre for Craft & Design	in_Lincolnshire	Arts	/wiki/The_National_Centre_for_Craft_%26_Design
+Natural World Centre	in_Lincolnshire	Other	/wiki/Whisby_Moor
+Navigation House	in_Lincolnshire	Transport	/wiki/Navigation_House
+Normanby Hall Museum and Country Park	in_Lincolnshire	Multiple	/wiki/Normanby_Hall
+North Ings Farm Museum	in_Lincolnshire	Other	/wiki/North_Ings_Farm_Museum
+North Lincolnshire Museum	in_Lincolnshire	Local	/wiki/North_Lincolnshire_Museum
+Owston Ferry Smithy	in_Lincolnshire	Local	
+Pinchbeck Engine	in_Lincolnshire	Other	/wiki/Pinchbeck_Engine
+RAF Digby Sector Ops Room Museum	in_Lincolnshire	Other	/wiki/RAF_Digby#Current_units
+RAF Scampton Museum	in_Lincolnshire	Other	/w/index.php?title=RAF_Scampton_Museum&action=edit&redlink=1
+RAF Skellingthorpe Heritage Room	in_Lincolnshire	Other	/wiki/RAF_Skellingthorpe#RAF_Skellingthorpe_Heritage_Room
+RAF Waddington Heritage Centre	in_Lincolnshire	Other	
+RAF Wickenby Memorial Collection	in_Lincolnshire	Other	/wiki/RAF_Wickenby_Memorial_Collection
+The Ropewalk	in_Lincolnshire	Arts	/wiki/Ropewalk_Barton_upon_Humber
+Scawby Hall	in_Lincolnshire	Historic	/w/index.php?title=Scawby_Hall&action=edit&redlink=1
+Sibsey Trader Mill	in_Lincolnshire	Industrial	/wiki/Sibsey_Trader_Mill
+South Lincolnshire Military Museum	in_Lincolnshire	Other	
+Spalding Flower Bulb Museum	in_Lincolnshire	Local	
+St Katherine’s Heritage and Cultural Centre	in_Lincolnshire	Local	/wiki/St._Catherines,_Lincoln#St_Katherine.E2.80.99s_Heritage_and_Cultural_Centre
+St Peter's Church, Barton-upon-Humber	in_Lincolnshire	Historic	/wiki/St_Peter%27s_Church,_Barton-upon-Humber
+Tattershall Castle	in_Lincolnshire	Historic	/wiki/Tattershall_Castle,_Lincolnshire
+Thornton Abbey	in_Lincolnshire	Other	/wiki/Thornton_Abbey
+Thorpe Camp Visitor Centre	in_Lincolnshire	Other	/wiki/Thorpe_Park,_Lincolnshire
+Trolleybus Museum at Sandtoft	in_Lincolnshire	Transport	/wiki/The_Trolleybus_Museum_at_Sandtoft
+The Village Church Farm	in_Lincolnshire	Other	/wiki/The_Village_Church_Farm
+Waltham Windmill	in_Lincolnshire	Industrial	/wiki/Waltham_Windmill
+Welbourn Forge	in_Lincolnshire	Historic	
+Wilderspin National School	in_Lincolnshire	Other	/w/index.php?title=Wilderspin_National_School&action=edit&redlink=1
+Woolsthorpe Manor	in_Lincolnshire	Historic	/wiki/Woolsthorpe_Manor
+Wrawby Windmill	in_Lincolnshire	Industrial	/wiki/Wrawby_Windmill
+Ye Olde Curiosity Museum	in_Lincolnshire	Historic	

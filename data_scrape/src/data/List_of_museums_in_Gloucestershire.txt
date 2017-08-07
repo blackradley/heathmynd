@@ -1,0 +1,55 @@
+name	county	type	wikipedia_link
+Acton Court	in_Gloucestershire	Historic	/wiki/Acton_Court
+Berkeley Castle	in_Gloucestershire	Historic	/wiki/Berkeley_Castle
+Blackfriars	in_Gloucestershire	Historic	/wiki/Blackfriars,_Gloucester
+Chavenage House	in_Gloucestershire	Historic	/wiki/Chavenage_House
+Chedworth Roman Villa	in_Gloucestershire	Historic	/wiki/Chedworth_Roman_Villa
+Clearwell Caves	in_Gloucestershire	Industrial	/wiki/Clearwell_Caves
+Coleford Great Western Railway Museum	in_Gloucestershire	Transport	/wiki/Coleford_Great_Western_Railway_Museum
+Corinium Museum	in_Gloucestershire	Historic	/wiki/Corinium_Museum
+Cotswold Motoring Museum	in_Gloucestershire	Transport	/wiki/Cotswold_Motoring_Museum
+Court Barn	in_Gloucestershire	Arts	/w/index.php?title=Court_Barn&action=edit&redlink=1
+Dean Forest Railway	in_Gloucestershire	Transport	/wiki/Dean_Forest_Railway
+Dean Heritage Centre	in_Gloucestershire	Local	/wiki/Dean_Heritage_Centre
+Dr. Jenner’s House	in_Gloucestershire	Historic	/wiki/Dr._Jenner%E2%80%99s_House
+Dunkirk Mill	in_Gloucestershire	Industrial	/w/index.php?title=Dunkirk_Mill&action=edit&redlink=1
+Dursley Heritage Centre	in_Gloucestershire	Local	
+Dyrham Park	in_Gloucestershire	Historic	/wiki/Dyrham_Park
+Frenchay Village Museum	in_Gloucestershire	Local	
+Gardens Gallery	in_Gloucestershire	Arts	
+Gigg Mill	in_Gloucestershire	Industrial	/w/index.php?title=Gigg_Mill&action=edit&redlink=1
+The Museum of Gloucester	in_Gloucestershire	Multiple	/wiki/The_Museum_of_Gloucester
+Gloucester Life	in_Gloucestershire	Multiple	/wiki/Gloucester_Life
+Gloucester Waterways Museum	in_Gloucestershire	Transport	/wiki/Gloucester_Waterways_Museum
+Hailes Abbey	in_Gloucestershire	Other	/wiki/Hailes_Abbey
+Holst Birthplace Museum	in_Gloucestershire	Historic	/w/index.php?title=Holst_Birthplace_Museum&action=edit&redlink=1
+Hopewell Colliery Museum	in_Gloucestershire	Industrial	
+Jet Age Museum	in_Gloucestershire	Transport	/wiki/Jet_Age_Museum
+John Moore Museum	in_Gloucestershire	Other	/w/index.php?title=John_Moore_Museum&action=edit&redlink=1
+Keith Harding's World of Mechanical Music	in_Gloucestershire	Other	
+Kingswood Heritage Museum	in_Gloucestershire	Local	/w/index.php?title=Kingswood_Heritage_Museum&action=edit&redlink=1
+Lydney Park	in_Gloucestershire	Multiple	/wiki/Lydney_Park
+Merchant's House	in_Gloucestershire	Historic	/w/index.php?title=Merchant%E2%80%99s_House,_Tewkesbury&action=edit&redlink=1
+Museum in the Park	in_Gloucestershire	Local	/wiki/Stratford_Park
+Nature in Art	in_Gloucestershire	Arts	/wiki/Nature_in_Art
+Newark Park	in_Gloucestershire	Historic	/wiki/Newark_Park
+Owlpen Manor	in_Gloucestershire	Historic	/wiki/Owlpen_Manor
+Prema	in_Gloucestershire	Arts	
+Rodmarton Manor	in_Gloucestershire	Historic	/wiki/Rodmarton_Manor
+Sezincote House	in_Gloucestershire	Historic	/wiki/Sezincote_House
+Snowshill Manor	in_Gloucestershire	Historic	/wiki/Snowshill_Manor
+Soldiers of Gloucestershire Museum	in_Gloucestershire	Other	/wiki/Soldiers_of_Gloucestershire_Museum
+St. Mary's Mill	in_Gloucestershire	Industrial	
+Stanway House	in_Gloucestershire	Historic	/wiki/Stanway_House
+Sudeley Castle	in_Gloucestershire	Historic	/wiki/Sudeley_Castle
+Tailor of Gloucester Beatrix Potter Museum and Shop	in_Gloucestershire	Arts	
+Tetbury Police Museum	in_Gloucestershire	Local	/w/index.php?title=Tetbury_Police_Museum&action=edit&redlink=1
+Tewkesbury Borough Museum	in_Gloucestershire	Local	/wiki/Tewkesbury_Borough_Museum
+Tewkesbury Heritage Centre	in_Gloucestershire	Local	
+Thornbury and District Museum	in_Gloucestershire	Local	/w/index.php?title=Thornbury_and_District_Museum&action=edit&redlink=1
+Wellington Aviation Museum	in_Gloucestershire	Other	/w/index.php?title=Wellington_Aviation_Museum&action=edit&redlink=1
+The Wilson	in_Gloucestershire	Multiple	/wiki/The_Wilson_(Cheltenham)
+Winchcombe Folk and Police Museum	in_Gloucestershire	Multiple	/w/index.php?title=Winchcombe_Folk_and_Police_Museum&action=edit&redlink=1
+Woodchester Mansion	in_Gloucestershire	Historic	/wiki/Woodchester_Mansion
+Wotton-under-Edge Heritage Centre	in_Gloucestershire	Local	/w/index.php?title=Wotton-under-Edge_Heritage_Centre&action=edit&redlink=1
+Yate Heritage Centre	in_Gloucestershire	Local	/w/index.php?title=Yate_Heritage_Centre&action=edit&redlink=1

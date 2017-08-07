@@ -1,0 +1,33 @@
+name	county	type	wikipedia_link
+Amersham Museum	in_Buckinghamshire	Local	/wiki/Amersham_Museum
+Ascott House	in_Buckinghamshire	Historic	/wiki/Ascott_House
+Bletchley Park	in_Buckinghamshire	Other	/wiki/Bletchley_Park
+Boarstall Tower	in_Buckinghamshire	Historic	/wiki/Boarstall_Tower
+Buckingham Old Gaol	in_Buckinghamshire	Local	/wiki/Buckingham_Old_Gaol
+Buckinghamshire County Museum	in_Buckinghamshire	Multiple	/wiki/Buckinghamshire_County_Museum
+Buckinghamshire Railway Centre	in_Buckinghamshire	Transport	/wiki/Buckinghamshire_Railway_Centre
+Chenies Manor House	in_Buckinghamshire	Historic	/wiki/Chenies_Manor_House
+Chesham Museum	in_Buckinghamshire	Local	/wiki/Chesham_Museum
+Chiltern Open Air Museum	in_Buckinghamshire	Other	/wiki/Chiltern_Open_Air_Museum
+Claydon House	in_Buckinghamshire	Historic	/wiki/Claydon_House
+Cliveden	in_Buckinghamshire	Historic	/wiki/Cliveden
+Cowper & Newton Museum	in_Buckinghamshire	Multiple	/wiki/Cowper_%26_Newton_Museum
+Dorney Court	in_Buckinghamshire	Historic	/wiki/Dorney_Court
+Haddenham Museum	in_Buckinghamshire	Local	/wiki/Haddenham_Museum
+Hughenden Manor	in_Buckinghamshire	Historic	/wiki/Hughenden_Manor
+King's Head Inn, Aylesbury	in_Buckinghamshire	Historic	/wiki/King%27s_Head_Inn,_Aylesbury
+Long Crendon Courthouse	in_Buckinghamshire	Historic	/wiki/Long_Crendon_Courthouse
+Milton's Cottage	in_Buckinghamshire	Historic	/wiki/Milton%27s_Cottage
+Milton Keynes Museum	in_Buckinghamshire	Local	/wiki/Milton_Keynes_Museum
+MK Gallery	in_Buckinghamshire	Arts	/w/index.php?title=MK_Gallery&action=edit&redlink=1
+National Museum of Computing	in_Buckinghamshire	Other	/wiki/National_Museum_of_Computing
+Nether Winchendon House	in_Buckinghamshire	Historic	/wiki/Nether_Winchendon
+Pitstone Green Museum	in_Buckinghamshire	Historic	/w/index.php?title=Pitstone_Green_Museum&action=edit&redlink=1
+Pitstone Windmill	in_Buckinghamshire	Industrial	/wiki/Pitstone_Windmill
+Quainton Windmill	in_Buckinghamshire	Industrial	/wiki/Quainton_Windmill
+Roald Dahl Museum and Story Centre	in_Buckinghamshire	Local	/wiki/Roald_Dahl_Museum_and_Story_Centre
+Stowe House	in_Buckinghamshire	Historic	/wiki/Stowe_House
+Trenchard Museum	in_Buckinghamshire	Other	/wiki/Trenchard_Museum
+Waddesdon Manor	in_Buckinghamshire	Historic	/wiki/Waddesdon_Manor
+West Wycombe Park	in_Buckinghamshire	Historic	/wiki/West_Wycombe_Park
+Wycombe Museum	in_Buckinghamshire	Local	/wiki/Wycombe_Museum

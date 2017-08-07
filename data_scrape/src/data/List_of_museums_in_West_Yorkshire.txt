@@ -1,0 +1,72 @@
+name	county	type	wikipedia_link
+Abbey House Museum	in_West_Yorkshire	Historic	/wiki/Abbey_House_Museum
+Bagshaw Museum	in_West_Yorkshire	Multiple	/w/index.php?title=Bagshaw_Museum&action=edit&redlink=1
+Bankfield Museum	in_West_Yorkshire	Multiple	/wiki/Bankfield_Museum
+Batley Art Gallery	in_West_Yorkshire	Arts	
+Bolling Hall	in_West_Yorkshire	Historic	/wiki/Bolling_Hall,_Bradford
+Bracken Hall Countryside Centre and Museum	in_West_Yorkshire	Other	/wiki/Bracken_Hall_Countryside_Centre_and_Museum
+Bradford Industrial Museum	in_West_Yorkshire	Industrial	/wiki/Bradford_Industrial_Museum
+Bramham Park	in_West_Yorkshire	Historic	/wiki/Bramham_Park
+Brontë Parsonage Museum	in_West_Yorkshire	Local	/wiki/Bront%C3%AB_Parsonage_Museum
+Bullecourt Museum	in_West_Yorkshire	Other	
+Cartwright Hall	in_West_Yorkshire	Arts	/wiki/Cartwright_Hall
+Castleford Forum Museum	in_West_Yorkshire	Local	/w/index.php?title=Castleford_Forum_Museum&action=edit&redlink=1
+Cliffe Castle Museum	in_West_Yorkshire	Multiple	/wiki/Cliffe_Castle_Museum
+Colne Valley Museum	in_West_Yorkshire	Industrial	/wiki/Colne_Valley_Museum
+David Brown Tractor Club Museum	in_West_Yorkshire	Local	
+Dean Clough	in_West_Yorkshire	Arts	/wiki/Dean_Clough
+Dewsbury Bus Museum	in_West_Yorkshire	Transport	
+Dewsbury Minster	in_West_Yorkshire	Other	/wiki/Dewsbury_Minster
+Dewsbury Museum	in_West_Yorkshire	Other	/w/index.php?title=Dewsbury_Museum&action=edit&redlink=1
+East Riddlesden Hall	in_West_Yorkshire	Historic	/wiki/East_Riddlesden_Hall
+Eureka! The National Children's Museum	in_West_Yorkshire	Other	/wiki/Eureka!_(museum)
+Fulneck Moravian Museum	in_West_Yorkshire	Other	
+Gallery II	in_West_Yorkshire	Arts	
+Gissing Centre	in_West_Yorkshire	Local	
+Gibson Mill	in_West_Yorkshire	Local	/wiki/Hardcastle_Crags
+Harewood House	in_West_Yorkshire	Historic	/wiki/Harewood_House
+Henry Moore Institute in Leeds	in_West_Yorkshire	Arts	/wiki/Henry_Moore_Foundation
+Heptonstall Museum	in_West_Yorkshire	Local	
+The Hepworth Wakefield	in_West_Yorkshire	Arts	/wiki/The_Hepworth_Wakefield
+Horsforth Village Museum	in_West_Yorkshire	Local	
+Huddersfield Art Gallery	in_West_Yorkshire	Arts	/w/index.php?title=Huddersfield_Art_Gallery&action=edit&redlink=1
+Ilkley Toy Museum	in_West_Yorkshire	Arts	/wiki/Ilkley_Toy_Museum
+Ingrow Loco	in_West_Yorkshire	Transport	
+Keighley Police Museum	in_West_Yorkshire	Local	
+Keighley and Worth Valley Railway	in_West_Yorkshire	Transport	/wiki/Keighley_and_Worth_Valley_Railway
+Kirkstall Abbey	in_West_Yorkshire	Other	/wiki/Kirkstall_Abbey
+Last of The Summer Wine Exhibition	in_West_Yorkshire	Arts	/w/index.php?title=Last_of_The_Summer_Wine_Exhibition&action=edit&redlink=1
+Launds Inn Museum	in_West_Yorkshire	Historic	
+Leeds Art Gallery	in_West_Yorkshire	Arts	/wiki/Leeds_Art_Gallery
+Leeds City Museum	in_West_Yorkshire	Multiple	/wiki/Leeds_City_Museum
+Leeds College of Art	in_West_Yorkshire	Arts	/wiki/Leeds_College_of_Art
+Leeds Industrial Museum at Armley Mills	in_West_Yorkshire	Industrial	/wiki/Leeds_Industrial_Museum_at_Armley_Mills
+Lotherton Hall	in_West_Yorkshire	Historic	/wiki/Lotherton_Hall
+Manor House Museum	in_West_Yorkshire	Local	/wiki/Manor_House_Museum
+Mental Health Museum	in_West_Yorkshire	Other	/wiki/West_Riding_Pauper_Lunatic_Asylum
+Middleton Railway Museum	in_West_Yorkshire	Transport	/wiki/Middleton_Railway
+Museum of Rail Travel	in_West_Yorkshire	Transport	/wiki/Museum_of_Rail_Travel
+Museum of the History of Science, Technology and Medicine	in_West_Yorkshire	Other	
+National Coal Mining Museum for England	in_West_Yorkshire	Industrial	/wiki/National_Coal_Mining_Museum_for_England
+National Media Museum	in_West_Yorkshire	Arts	/wiki/National_Media_Museum
+Nostell Priory	in_West_Yorkshire	Historic	/wiki/Nostell_Priory
+Oakwell Hall	in_West_Yorkshire	Historic	/wiki/Oakwell_Hall
+Otley Museum	in_West_Yorkshire	Local	/wiki/Otley_Museum
+Peace Museum	in_West_Yorkshire	Other	/wiki/Peace_Museum,_Bradford
+Pontefract Museum	in_West_Yorkshire	Local	/wiki/Pontefract_Museum
+Red House Museum	in_West_Yorkshire	Historic	/wiki/Red_House_Museum
+Royal Armouries Museum	in_West_Yorkshire	Other	/wiki/Royal_Armouries_Museum
+Salts Mill	in_West_Yorkshire	Arts	/wiki/Salts_Mill
+Shibden Hall	in_West_Yorkshire	Historic	/wiki/Shibden_Hall
+Smith Art Gallery	in_West_Yorkshire	Arts	/w/index.php?title=Smith_Art_Gallery&action=edit&redlink=1
+Standedge Tunnel Visitor Centre	in_West_Yorkshire	Transport	/wiki/Standedge_Tunnels#Standedge_Tunnel_Visitor_Centre
+Stanley & Audrey Burton Gallery	in_West_Yorkshire	Arts	/w/index.php?title=Stanley_%26_Audrey_Burton_Gallery&action=edit&redlink=1
+The Tetley	in_West_Yorkshire	Arts	/w/index.php?title=The_Tetley&action=edit&redlink=1
+Temple Newsam House and Estate	in_West_Yorkshire	Historic	/wiki/Temple_Newsam
+Thackray Museum	in_West_Yorkshire	Other	/wiki/Thackray_Museum
+Thwaite Mills	in_West_Yorkshire	Industrial	/wiki/Thwaite_Mills
+Todmorden Toy & Model Museum	in_West_Yorkshire	Arts	
+Tolson Museum	in_West_Yorkshire	Multiple	/wiki/Tolson_Museum
+Wakefield Museum	in_West_Yorkshire	Multiple	/wiki/Wakefield_Museum
+West Yorkshire Print Workshop	in_West_Yorkshire	Arts	/w/index.php?title=West_Yorkshire_Print_Workshop&action=edit&redlink=1
+Yorkshire Sculpture Park	in_West_Yorkshire	Arts	/wiki/Yorkshire_Sculpture_Park

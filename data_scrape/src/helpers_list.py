@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 def get_counties_england_ceremonial():
     """ Return a list of the ceremonial counties of England """
     counties_england_ceremonial = []
-    path_to_file_of_counties = get_canonical_path_for(r'data/counties_england_ceremonial.txt')
+    path_to_file_of_counties = get_canonical_path_for(r'data/england_counties_ceremonial.txt')
     with open(path_to_file_of_counties) as file_of_counties:
         counties_england_ceremonial = file_of_counties.read().splitlines()
     return counties_england_ceremonial

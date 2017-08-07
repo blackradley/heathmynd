@@ -1,0 +1,77 @@
+name	county	type	wikipedia_link
+Aldeburgh Museum	in_Suffolk	Local	/w/index.php?title=Aldeburgh_Museum&action=edit&redlink=1
+Alfred Corry Lifeboat Museum	in_Suffolk	Transport	
+Amber Shop and Museum	in_Suffolk	Other	
+The Apex	in_Suffolk	Arts	/w/index.php?title=The_Apex&action=edit&redlink=1
+Bardwell Windmill	in_Suffolk	Industrial	/wiki/Bardwell_Windmill
+Bawdsey Manor	in_Suffolk	Other	/wiki/Bawdsey_Manor
+Beccles & District Museum	in_Suffolk	Local	
+Bentwaters Cold War Museum	in_Suffolk	Other	/wiki/Bentwaters_Cold_War_Museum
+Brandon Heritage Centre	in_Suffolk	Local	
+Bungay Museum	in_Suffolk	Local	
+Buttrum's Mill	in_Suffolk	Industrial	/wiki/Buttrum%27s_Mill,_Woodbridge
+Christchurch Mansion	in_Suffolk	Multiple	/wiki/Christchurch_Mansion
+Clare Ancient House Museum	in_Suffolk	Local	/wiki/Ancient_House,_Clare
+Clifford Road Air Raid Shelter	in_Suffolk	Historic	/wiki/Clifford_Road_Air_Raid_Shelter
+Dunwich Museum	in_Suffolk	Local	
+East Anglia Transport Museum	in_Suffolk	Transport	/wiki/East_Anglia_Transport_Museum
+Easton Farm Park	in_Suffolk	Other	
+Euston Hall	in_Suffolk	Historic	/wiki/Euston_Hall
+Felixstowe Museum	in_Suffolk	Multiple	/wiki/Landguard_Fort#Felixstowe_Museum
+Flatford: Bridge Cottage	in_Suffolk	Historic	/wiki/Bridge_Cottage
+Framlingham Castle	in_Suffolk	Historic	/wiki/Framlingham_Castle
+Gainsborough's House	in_Suffolk	Arts	/wiki/Gainsborough%27s_House
+Greene King Visitor Centre	in_Suffolk	Other	/wiki/Greene_King_Brewery
+Halesworth Museum	in_Suffolk	Local	
+Haverhill Local History Centre	in_Suffolk	Local	
+Herringfleet Windmill	in_Suffolk	Industrial	/wiki/Herringfleet_Windmill
+HMS Ganges Museum	in_Suffolk	Transport	
+Ickworth House, Park & Garden	in_Suffolk	Historic	/wiki/Ickworth_House
+Ipswich Art School Gallery	in_Suffolk	Arts	
+Ipswich Maritime Trust Window Museum	in_Suffolk	Transport	
+Ipswich Museum	in_Suffolk	Multiple	/wiki/Ipswich_Museum
+Ipswich Transport Museum	in_Suffolk	Transport	/wiki/Ipswich_Transport_Museum
+Kentwell Hall	in_Suffolk	Historic	/wiki/Kentwell_Hall
+Landguard Fort	in_Suffolk	Other	/wiki/Landguard_Fort
+Lanman Museum	in_Suffolk	Local	/w/index.php?title=Lanman_Museum&action=edit&redlink=1
+Lavenham Guildhall	in_Suffolk	Historic	/wiki/Lavenham_Guildhall
+Laxfield & District Museum	in_Suffolk	Other	/w/index.php?title=Laxfield_%26_District_Museum&action=edit&redlink=1
+Little Hall Lavenham	in_Suffolk	Historic	/w/index.php?title=Little_Hall_Lavenham&action=edit&redlink=1
+Long Shop Museum	in_Suffolk	Industrial	/wiki/Long_Shop_Museum
+Lowestoft Maritime Museum	in_Suffolk	Transport	/wiki/Lowestoft_Maritime_Museum
+Lowestoft Museum	in_Suffolk	Local	
+Lowestoft War Memorial Museum	in_Suffolk	Other	/wiki/Lowestoft_War_Memorial_Museum
+Martlesham Heath Control Tower Museum	in_Suffolk	Transport	
+Mechanical Music Museum at Cotton	in_Suffolk	Other	
+Melford Hall	in_Suffolk	Historic	/wiki/Melford_Hall
+Mid-Suffolk Light Railway Museum	in_Suffolk	Transport	/wiki/Mid-Suffolk_Light_Railway
+Mildenhall Museum	in_Suffolk	Local	/w/index.php?title=Mildenhall_Museum&action=edit&redlink=1
+Mincarlo	in_Suffolk	Transport	/wiki/Mincarlo_(trawler)
+Moyse's Hall Museum	in_Suffolk	Multiple	/w/index.php?title=Moyse%27s_Hall_Museum&action=edit&redlink=1
+Museum of East Anglian Life	in_Suffolk	Other	/wiki/Museum_of_East_Anglian_Life
+Museum of Knots and Sailors' Ropework	in_Suffolk	Transport	
+National Horseracing Museum	in_Suffolk	Other	/wiki/National_Horseracing_Museum
+Norfolk and Suffolk Aviation Museum	in_Suffolk	Transport	/wiki/Norfolk_and_Suffolk_Aviation_Museum
+Orford Castle	in_Suffolk	Historic	/wiki/Orford_Castle
+Pakenham Windmill	in_Suffolk	Industrial	/wiki/Pakenham_Windmill
+Parham Airfield Museum	in_Suffolk	Other	/wiki/Parham_Airfield_Museum
+Rougham Control Tower Museum	in_Suffolk	Other	
+Royal Naval Patrol Service Museum	in_Suffolk	Transport	
+Saxmundham Museum	in_Suffolk	Local	
+Saxtead Green Post Windmill	in_Suffolk	Industrial	/wiki/Saxtead_Green_Windmill
+Smith's Row	in_Suffolk	Arts	/w/index.php?title=Smith%27s_Row&action=edit&redlink=1
+Somerleyton Hall	in_Suffolk	Historic	/wiki/Somerleyton_Hall
+Southwold Lighthouse	in_Suffolk	Transport	/wiki/Southwold_Lighthouse
+Southwold Museum	in_Suffolk	Local	
+Southwold Sailors' Reading Room	in_Suffolk	Transport	
+St Edmundsbury Cathedral	in_Suffolk	Multiple	/wiki/St_Edmundsbury_Cathedral
+Sudbury Heritage Centre & Museum	in_Suffolk	Local	/w/index.php?title=Sudbury_Heritage_Centre_%26_Museum&action=edit&redlink=1
+Suffolk Regiment Museum	in_Suffolk	Other	/wiki/Suffolk_Regiment
+Suffolk Underwater Studies Museum	in_Suffolk	Transport	
+Sutton Hoo	in_Suffolk	Historic	/wiki/Sutton_Hoo
+Thelnetham Windmill	in_Suffolk	Industrial	/wiki/Thelnetham_Windmill
+Upthorpe Mill	in_Suffolk	Industrial	/wiki/Upthorpe_Mill,_Stanton
+West Stow Anglo-Saxon Village	in_Suffolk	Other	/wiki/West_Stow_Anglo-Saxon_Village
+Woodbridge Museum	in_Suffolk	Local	
+Woodbridge Tide Mill	in_Suffolk	Industrial	/wiki/Woodbridge_Tide_Mill
+Woolpit Museum	in_Suffolk	Local	

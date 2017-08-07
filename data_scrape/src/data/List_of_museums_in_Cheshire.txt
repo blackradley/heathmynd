@@ -1,0 +1,44 @@
+name	county	type	wikipedia_link
+Adlington Hall	in_Cheshire	Historic	/wiki/Adlington_Hall
+Anderton Boat Lift	in_Cheshire	Transport	/wiki/Anderton_Boat_Lift
+Anson Engine Museum	in_Cheshire	Other	/wiki/Anson_Engine_Museum
+Arley Hall	in_Cheshire	Historic	/wiki/Arley_Hall
+Axis Arts Centre	in_Cheshire	Arts	/w/index.php?title=Axis_Arts_Centre&action=edit&redlink=1
+Bollington Discovery Centre	in_Cheshire	Industrial	/w/index.php?title=Bollington_Discovery_Centre&action=edit&redlink=1
+Bramall Hall	in_Cheshire	Historic	/wiki/Bramall_Hall
+Bunbury Mill	in_Cheshire	Industrial	/wiki/Bunbury_Mill
+Capesthorne Hall	in_Cheshire	Historic	/wiki/Capesthorne_Hall
+Catalyst	in_Cheshire	Other	/wiki/Catalyst_(museum)
+Cheshire Military Museum	in_Cheshire	Other	/wiki/Cheshire_Military_Museum
+Chester Toy and Doll Museum	in_Cheshire	Arts	/wiki/Chester_Toy_and_Doll_Museum
+Congleton Museum	in_Cheshire	Local	/wiki/Congleton_Museum
+Crewe Heritage Centre	in_Cheshire	Transport	/wiki/Crewe_Heritage_Centre
+Cuckooland Museum	in_Cheshire	Other	/wiki/Cuckooland_Museum
+Cycle Museum	in_Cheshire	Transport	/w/index.php?title=Cycle_Museum&action=edit&redlink=1
+Dewa Roman Experience	in_Cheshire	Historic	/w/index.php?title=Dewa_Roman_Experience&action=edit&redlink=1
+Dorfold Hall	in_Cheshire	Historic	/wiki/Dorfold_Hall
+Dunham Massey	in_Cheshire	Historic	/wiki/Dunham_Massey
+Englesea Brook Chapel and Museum	in_Cheshire	Other	/wiki/Englesea_Brook_Chapel_and_Museum
+Gawsworth Old Hall	in_Cheshire	Historic	/wiki/Gawsworth_Old_Hall
+Grosvenor Museum	in_Cheshire	Multiple	/wiki/Grosvenor_Museum
+Hack Green Secret Nuclear Bunker	in_Cheshire	Other	/wiki/Hack_Green_Secret_Nuclear_Bunker
+Lion Salt Works	in_Cheshire	Industrial	/wiki/Lion_Salt_Works
+Little Moreton Hall	in_Cheshire	Historic	/wiki/Little_Moreton_Hall
+Lyme Park	in_Cheshire	Historic	/wiki/Lyme_Park
+Macclesfield Silk Museums	in_Cheshire	Industrial	/w/index.php?title=Macclesfield_Silk_Museums&action=edit&redlink=1
+Museum of Amusements	in_Cheshire	Other	
+Museum of Policing in Cheshire	in_Cheshire	Local	/w/index.php?title=Museum_of_Policing_in_Cheshire&action=edit&redlink=1
+Nantwich Museum	in_Cheshire	Local	/wiki/Nantwich_Museum
+National Waterways Museum	in_Cheshire	Transport	/wiki/National_Waterways_Museum
+Nether Alderley Mill	in_Cheshire	Industrial	/wiki/Nether_Alderley_Mill
+Norton Priory Museum	in_Cheshire	Other	/wiki/Norton_Priory
+Peover Hall	in_Cheshire	Historic	/wiki/Peover_Hall
+Rode Hall and Gardens	in_Cheshire	Historic	/wiki/Rode_Hall
+Quarry Bank Mill	in_Cheshire	Industrial	/wiki/Quarry_Bank_Mill
+Stretton Watermill	in_Cheshire	Industrial	/wiki/Stretton_Watermill
+'Sick to Death'	in_Cheshire	Other	
+Tabley House	in_Cheshire	Historic	/wiki/Tabley_House
+Tatton Hall	in_Cheshire	Historic	/wiki/Tatton_Hall
+Warrington Museum & Art Gallery	in_Cheshire	Multiple	/wiki/Warrington_Museum_%26_Art_Gallery
+Weaver Hall Museum	in_Cheshire	Multiple	/wiki/Salt_Museum,_Northwich
+West Park Museum	in_Cheshire	Multiple	/w/index.php?title=West_Park_Museum&action=edit&redlink=1

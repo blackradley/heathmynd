@@ -1,0 +1,48 @@
+name	county	type	wikipedia_link
+Acton Scott Working Farm	in_Shropshire	Other	/wiki/Acton_Scott_Working_Farm
+Attingham Park	in_Shropshire	Historic	/wiki/Attingham_Park
+Battlefield 1403	in_Shropshire	Other	/w/index.php?title=Battlefield_1403&action=edit&redlink=1
+Benthall Hall	in_Shropshire	Historic	/wiki/Benthall_Hall
+Bishop’s Castle Railway and Transport Museum	in_Shropshire	Transport	/wiki/Bishops_Castle_Railway#Bishop.27s_Castle_Railway_.26_Transport_Museum
+Blists Hill Victorian Town	in_Shropshire	Local	/wiki/Blists_Hill_Victorian_Town
+Bog Visitor Centre	in_Shropshire	Local	/wiki/The_Bog
+Boscobel House	in_Shropshire	Historic	/wiki/Boscobel_House
+Bridgnorth Museum	in_Shropshire	Local	
+Broseley Pipeworks	in_Shropshire	Industrial	/wiki/Broseley_Pipeworks
+Cambrian Heritage Railways	in_Shropshire	Transport	/wiki/Cambrian_Heritage_Railways
+Clun Town Museum	in_Shropshire	Local	
+Coalbrookdale Museum of Iron	in_Shropshire	Industrial	/wiki/Coalbrookdale_Museum_of_Iron
+Coalport China Museum	in_Shropshire	Industrial	/wiki/Coalport_China_Museum
+Coleham Pumping Station	in_Shropshire	Other	/wiki/Coleham_Pumping_Station
+Daniels Mill	in_Shropshire	Industrial	/wiki/Daniels_Mill,_Shropshire
+Darby Houses	in_Shropshire	Historic	/wiki/Darby_Houses
+Dudmaston Hall	in_Shropshire	Historic	/wiki/Dudmaston_Hall
+Engine House	in_Shropshire	Transport	/wiki/The_Engine_House
+Enginuity	in_Shropshire	Other	/wiki/Enginuity
+House on Crutches Museum	in_Shropshire	Local	
+Iron Bridge and Toll House	in_Shropshire	Other	/wiki/The_Iron_Bridge
+Jackfield Tile Museum	in_Shropshire	Arts	/wiki/Jackfield_Tile_Museum
+Land of Lost Content	in_Shropshire	Historic	/w/index.php?title=Land_of_Lost_Content&action=edit&redlink=1
+Llanymynech Heritage Area	in_Shropshire	Industrial	/wiki/Llanymynech_Heritage_Area
+Ludlow Castle	in_Shropshire	Historic	/wiki/Ludlow_Castle
+Ludlow Museum	in_Shropshire	Multiple	/w/index.php?title=Ludlow_Museum&action=edit&redlink=1
+Market Drayton Museum	in_Shropshire	Local	
+Merrythought	in_Shropshire	Other	/wiki/Merrythought
+Morville Hall	in_Shropshire	Historic	/wiki/Morville_Hall
+Much Wenlock Museum	in_Shropshire	Local	/w/index.php?title=Much_Wenlock_Museum&action=edit&redlink=1
+Museum of the Gorge	in_Shropshire	Local	/wiki/Museum_of_the_Gorge,_Ironbridge
+Mythstories Museum of Myth & Fable	in_Shropshire	Other	
+Oswestry Town Museum	in_Shropshire	Local	
+Park Hall	in_Shropshire	Multiple	/w/index.php?title=Park_Hall_Countryside_Experience&action=edit&redlink=1
+Royal Air Force Museum Cosford	in_Shropshire	Transport	/wiki/Royal_Air_Force_Museum_Cosford
+Shrewsbury Museum and Art Gallery	in_Shropshire	Multiple	/wiki/Shrewsbury_Museum_and_Art_Gallery
+Shropshire Regimental Museum	in_Shropshire	Other	/wiki/Shrewsbury_Castle
+Shropshire Hills Discovery Centre	in_Shropshire	Multiple	/wiki/Shropshire_Hills_Discovery_Centre
+Stokesay Castle	in_Shropshire	Historic	/wiki/Stokesay_Castle
+Stokesay Court	in_Shropshire	Historic	/wiki/Stokesay_Court
+Sunnycroft	in_Shropshire	Historic	/wiki/Sunnycroft
+Tar Tunnel	in_Shropshire	Industrial	/wiki/Tar_Tunnel
+Welsh Guards Museum	in_Shropshire	Other	/w/index.php?title=Welsh_Guards_Museum&action=edit&redlink=1
+Whitchurch Heritage Centre	in_Shropshire	Local	/w/index.php?title=Whitchurch_Heritage_Centre&action=edit&redlink=1
+Wilderhope Manor	in_Shropshire	Historic	/wiki/Wilderhope_Manor
+Wroxeter Roman City	in_Shropshire	Historic	/wiki/Viroconium_Cornoviorum
