@@ -1,7 +1,6 @@
 name	county	type	wikipedia_link
 Arbeia Roman Fort and Museum	in_Tyne_and_Wear	Historic	/wiki/Arbeia
 Baltic Centre for Contemporary Art	in_Tyne_and_Wear	Arts	/wiki/Baltic_Centre_for_Contemporary_Art
-Bede's World	in_Tyne_and_Wear	Multiple	/wiki/Bede%27s_World
 Bessie Surtees House	in_Tyne_and_Wear	Historic	/wiki/Bessie_Surtees_House
 Bowes Railway	in_Tyne_and_Wear	Transport	/wiki/Bowes_Railway
 Castle Keep	in_Tyne_and_Wear	Historic	/wiki/The_Castle,_Newcastle
@@ -14,6 +13,7 @@ Globe Gallery	in_Tyne_and_Wear	Arts	/w/index.php?title=Globe_Gallery&action=edit
 Great North Museum: Hancock	in_Tyne_and_Wear	Multiple	/wiki/Great_North_Museum:_Hancock
 Hatton Gallery	in_Tyne_and_Wear	Arts	/wiki/Hatton_Gallery
 Holy Jesus Hospital	in_Tyne_and_Wear	Historic	/wiki/Holy_Jesus_Hospital
+Jarrow Hall	in_Tyne_and_Wear	Multiple	/wiki/Jarrow_Hall
 Laing Art Gallery	in_Tyne_and_Wear	Arts	/wiki/Laing_Art_Gallery
 Monkwearmouth Station Museum	in_Tyne_and_Wear	Transport	/wiki/Monkwearmouth_Station_Museum
 National Glass Centre	in_Tyne_and_Wear	Arts	/wiki/National_Glass_Centre

@@ -24,7 +24,7 @@ Housesteads Roman Fort	in_Northumberland	Historic	/wiki/Vercovicium
 Kielder Castle Visitor Centre	in_Northumberland	Multiple	/wiki/Kielder_Forest
 Kielder Salmon Centre	in_Northumberland	Other	
 King’s Own Scottish Borderers Regimental Museum	in_Northumberland	Other	/wiki/King%27s_Own_Scottish_Borderers
-Lady Waterford Hall	in_Northumberland	Arts	/w/index.php?title=Lady_Waterford_Hall&action=edit&redlink=1
+Lady Waterford Hall	in_Northumberland	Arts	/wiki/Lady_Waterford_Hall
 Lindisfarne Castle	in_Northumberland	Historic	/wiki/Lindisfarne_Castle
 Lindisfarne Centre	in_Northumberland	Local	/w/index.php?title=Lindisfarne_Centre&action=edit&redlink=1
 Lindisfarne Priory	in_Northumberland	Other	/wiki/Lindisfarne_Priory

@@ -12,7 +12,7 @@ Beaulieu Abbey	in_Hampshire	Other	/wiki/Beaulieu_Abbey
 Beaulieu Palace House	in_Hampshire	Historic	/wiki/Beaulieu_Palace_House
 Breamore House	in_Hampshire	Multiple	/wiki/Breamore_House
 Buckler's Hard	in_Hampshire	Other	/wiki/Buckler%27s_Hard
-Bursledon Brickworks Industrial Museum	in_Hampshire	Industrial	/wiki/Bursledon_Brickworks_Industrial_Museum
+Bursledon Brickworks Museum	in_Hampshire	Industrial	/wiki/Bursledon_Brickworks_Museum
 Bursledon Windmill	in_Hampshire	Industrial	/wiki/Bursledon_Windmill
 Butser Ancient Farm	in_Hampshire	Local	/wiki/Butser_Ancient_Farm
 Charles Dickens Birthplace Museum	in_Hampshire	Historic	/wiki/Charles_Dickens_Birthplace_Museum

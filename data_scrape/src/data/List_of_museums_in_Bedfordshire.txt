@@ -1,1 +1,19 @@
 name	county	type	wikipedia_link
+Elstow Moot Hall	in_Bedfordshire	Historic	/wiki/Elstow_Moot_Hall
+Glenn Miller Museum	in_Bedfordshire	Other	/wiki/RAF_Twinwood_Farm#Glenn_Miller_Museum
+The Higgins Art Gallery & Museum	in_Bedfordshire	Multiple	/wiki/The_Higgins_Art_Gallery_%26_Museum
+John Bunyan Museum	in_Bedfordshire	Local	/wiki/John_Bunyan_Museum
+John Dony Field Centre	in_Bedfordshire	Local	
+Leighton Buzzard Railway	in_Bedfordshire	Other	
+Moggerhanger House	in_Bedfordshire	Historic	/wiki/Moggerhanger_House
+Panacea Museum	in_Bedfordshire	Local	/wiki/Panacea_Society#Panacea_Museum
+RAF Signals Museum	in_Bedfordshire	Other	/wiki/RAF_Henlow
+Roman Sandy Story	in_Bedfordshire	Historic	
+Shuttleworth Collection	in_Bedfordshire	Transport	/wiki/Shuttleworth_Collection
+Stockwood Discovery Centre	in_Bedfordshire	Multiple	/wiki/Stockwood_Discovery_Centre
+Stondon Motor Museum	in_Bedfordshire	Transport	/w/index.php?title=Stondon_Motor_Museum&action=edit&redlink=1
+Thurleigh Museum	in_Bedfordshire	Other	/wiki/Bedford_Autodrome
+Turvey Abbey	in_Bedfordshire	Historic	/wiki/Turvey_Abbey
+Wardown Park Museum	in_Bedfordshire	Multiple	/wiki/Wardown_Park_Museum
+Woburn Abbey	in_Bedfordshire	Historic	/wiki/Woburn_Abbey
+Woburn Heritage Centre	in_Bedfordshire	Local	/w/index.php?title=Woburn_Heritage_Centre&action=edit&redlink=1

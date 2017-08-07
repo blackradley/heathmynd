@@ -16,7 +16,7 @@ for county in COUNTIES_ENGLAND_CEREMONIAL:
     output_file_name = './data/List_of_museums_' + county + '.txt'
     output_file_path = helpers_list.get_canonical_path_for(output_file_name)
     print 'Output to: ' + output_file_name
-    with io.open(wikipedia_file_path, 'r') as wikipedia_file, \
+    with io.open(wikipedia_file_path, 'r', encoding='utf-8') as wikipedia_file, \
             io.open(output_file_path, 'w', encoding='utf-8') as output_file:
         header = unicode('name\tcounty\ttype\twikipedia_link\n')
         output_file.write(header)

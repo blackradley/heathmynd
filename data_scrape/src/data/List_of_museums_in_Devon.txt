@@ -11,6 +11,7 @@ Bicclescombe Watermill	in_Devon	Industrial
 Bideford Railway Heritage Centre	in_Devon	Transport	/wiki/Bideford_Railway_Heritage_Centre
 Bill Douglas Cinema Museum	in_Devon	Arts	/wiki/Bill_Douglas_Cinema_Museum
 Bishopsteignton Museum of Rural Life	in_Devon	Local	
+Bomb Shelter	in_Devon	Local	/w/index.php?title=Bomb_Shelter&action=edit&redlink=1
 Bovey Tracey Heritage Centre	in_Devon	Local	
 Bradley	in_Devon	Historic	/wiki/Bradley_(house)
 Braunton and District Museum	in_Devon	Local	
@@ -52,7 +53,7 @@ Fairlynch Museum	in_Devon	Multiple	/w/index.php?title=Fairlynch_Museum&action=ed
 Finch Foundry	in_Devon	Other	/wiki/Finch_Foundry
 Fursdon (Devon)	in_Devon	Historic	/w/index.php?title=Fursdon_(Devon)&action=edit&redlink=1
 Golden Hind Museum, Brixham	in_Devon	Transport	/w/index.php?title=Golden_Hind_Museum,_Brixham&action=edit&redlink=1
-Great Torrington Heritage Museum and Archive	in_Devon	Local	
+Great Torrington Heritage Museum	in_Devon	Local	
 Greenway Estate	in_Devon	Historic	/wiki/Greenway_Estate
 Hartland Abbey	in_Devon	Historic	/wiki/Hartland_Abbey
 Hartland Quay Museum	in_Devon	Transport	
@@ -93,7 +94,7 @@ Seaton Museum	in_Devon	Local	/w/index.php?title=Seaton_Museum&action=edit&redlin
 Sidmouth Museum	in_Devon	Local	/w/index.php?title=Sidmouth_Museum&action=edit&redlink=1
 Smeaton's Tower	in_Devon	Transport	/wiki/Smeaton%27s_Tower
 South Devon Railway: Buckfastleigh	in_Devon	Transport	/wiki/Buckfastleigh_railway_station
-South Molton & District Museum	in_Devon	Multiple	/w/index.php?title=South_Molton_%26_District_Museum&action=edit&redlink=1
+South Molton Museum	in_Devon	Multiple	/w/index.php?title=South_Molton_Museum&action=edit&redlink=1
 St Nicholas Priory	in_Devon	Historic	/wiki/St_Nicholas_Priory
 Start Point Lighthouse	in_Devon	Transport	/wiki/Start_Point_Lighthouse
 Tamar Belle Visitor Centre	in_Devon	Transport	/wiki/Bere_Ferrers_railway_station

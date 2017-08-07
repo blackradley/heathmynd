@@ -22,10 +22,11 @@ Fairfax House	in_North_Yorkshire	Historic	/wiki/Fairfax_House
 Filey Museum	in_North_Yorkshire	Local	
 Fountains Abbey and Studley Royal	in_North_Yorkshire	Multiple	/wiki/Fountains_Abbey
 Gayle Mill	in_North_Yorkshire	Other	/wiki/Gayle_Mill,_North_Yorkshire
+Goddards House and Garden	in_North_Yorkshire	Historic	/wiki/Goddards_House_and_Garden
 Grassington Folk Museum	in_North_Yorkshire	Historic	
 Green Howards Regimental Museum	in_North_Yorkshire	Other	/wiki/Green_Howards_Regimental_Museum
 Guisborough Museum	in_North_Yorkshire	Local	
-Henry VII Experience at Micklegate Bar	in_North_Yorkshire	Historic	/w/index.php?title=Henry_VII_Experience_at_Micklegate_Bar&action=edit&redlink=1
+Henry VII Experience at Micklegate Bar	in_North_Yorkshire	Historic	/wiki/Henry_VII_Experience_at_Micklegate_Bar
 Holgate Windmill	in_North_Yorkshire	Industrial	/wiki/Holgate_Windmill
 Hovingham Hall	in_North_Yorkshire	Historic	/wiki/Hovingham_Hall
 Jorvik Viking Centre	in_North_Yorkshire	Historic	/wiki/Jorvik_Viking_Centre

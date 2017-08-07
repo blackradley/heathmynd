@@ -13,7 +13,7 @@ Erasmus Darwin House	in_Staffordshire	Historic	/wiki/Erasmus_Darwin_House
 Etruria Industrial Museum	in_Staffordshire	Industrial	/wiki/Etruria_Industrial_Museum
 Ford Green Hall	in_Staffordshire	Historic	/wiki/Ford_Green_Hall
 Gladstone Pottery Museum	in_Staffordshire	Industrial	/wiki/Gladstone_Pottery_Museum
-Izaak Walton's Cottage	in_Staffordshire	Historic	
+Izaak Walton's Cottage	in_Staffordshire	Historic	/wiki/Izaak_Walton%27s_Cottage
 Keele University Art Gallery	in_Staffordshire	Arts	/wiki/Keele_University
 Kinver Edge and the Rock Houses	in_Staffordshire	Historic	/wiki/Kinver_Edge
 Lichfield Museum	in_Staffordshire	Local	/wiki/Lichfield_Museum

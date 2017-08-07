@@ -10,7 +10,6 @@ Bunbury Mill	in_Cheshire	Industrial	/wiki/Bunbury_Mill
 Capesthorne Hall	in_Cheshire	Historic	/wiki/Capesthorne_Hall
 Catalyst	in_Cheshire	Other	/wiki/Catalyst_(museum)
 Cheshire Military Museum	in_Cheshire	Other	/wiki/Cheshire_Military_Museum
-Chester Toy and Doll Museum	in_Cheshire	Arts	/wiki/Chester_Toy_and_Doll_Museum
 Congleton Museum	in_Cheshire	Local	/wiki/Congleton_Museum
 Crewe Heritage Centre	in_Cheshire	Transport	/wiki/Crewe_Heritage_Centre
 Cuckooland Museum	in_Cheshire	Other	/wiki/Cuckooland_Museum

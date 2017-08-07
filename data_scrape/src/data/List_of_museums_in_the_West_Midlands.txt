@@ -12,13 +12,11 @@ Birmingham Museum & Art Gallery	in_the_West_Midlands	Multiple	/wiki/Birmingham_M
 Bishop Asbury Cottage	in_the_West_Midlands	Historic	/wiki/Bishop_Asbury_Cottage
 Black Country Living Museum	in_the_West_Midlands	Local	/wiki/Black_Country_Living_Museum
 Blakesley Hall	in_the_West_Midlands	Historic	/wiki/Blakesley_Hall
-Broadfield House Glass Museum	in_the_West_Midlands	Arts	/wiki/Broadfield_House_Glass_Museum
 Cadbury World	in_the_West_Midlands	Other	/wiki/Cadbury_World
 Centre of the Earth	in_the_West_Midlands	Other	/wiki/Centre_of_the_Earth
 Coventry Watch Museum	in_the_West_Midlands	Other	/w/index.php?title=Coventry_Watch_Museum&action=edit&redlink=1
 Coventry Transport Museum	in_the_West_Midlands	Transport	/wiki/Coventry_Transport_Museum
 The Drum	in_the_West_Midlands	Arts	/wiki/The_Drum_(Arts_Centre)
-Dudley Museum and Art Gallery	in_the_West_Midlands	Multiple	/wiki/Dudley_Museum_and_Art_Gallery
 Earlswood Village Museum	in_the_West_Midlands	Local	/w/index.php?title=Earlswood_Village_Museum&action=edit&redlink=1
 Haden Hill House	in_the_West_Midlands	Historic	/wiki/Haden_Hill_House
 Herbert Art Gallery and Museum	in_the_West_Midlands	Multiple	/wiki/Herbert_Art_Gallery_and_Museum
@@ -49,7 +47,6 @@ Tipton Community Heritage Centre	in_the_West_Midlands	Local	/w/index.php?title=T
 Tyseley Locomotive Works	in_the_West_Midlands	Transport	/wiki/Tyseley_Locomotive_Works
 VIVID	in_the_West_Midlands	Arts	/wiki/Vivid_(media_arts)
 Walsall Leather Museum	in_the_West_Midlands	Industrial	/wiki/Walsall_Leather_Museum
-Walsall Museum	in_the_West_Midlands	Local	/wiki/Walsall_Museum
 Warwick Arts Centre	in_the_West_Midlands	Arts	/wiki/Warwick_Arts_Centre
 Wednesbury Museum and Art Gallery	in_the_West_Midlands	Multiple	/wiki/Wednesbury_Museum_and_Art_Gallery
 West Midlands Police Museum	in_the_West_Midlands	Local	/wiki/West_Midlands_Police_Museum

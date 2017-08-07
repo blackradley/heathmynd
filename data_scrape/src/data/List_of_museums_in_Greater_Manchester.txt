@@ -5,11 +5,11 @@ Bolton Museum	in_Greater_Manchester	Multiple	/wiki/Bolton_Museum
 Bolton Steam Museum	in_Greater_Manchester	Other	/wiki/Bolton_Steam_Museum
 Bramall Hall	in_Greater_Manchester	Historic	/wiki/Bramall_Hall
 Bury Art Museum	in_Greater_Manchester	Multiple	/wiki/Bury_Art_Museum
-Bury Transport Museum	in_Greater_Manchester	Transport	/w/index.php?title=Bury_Transport_Museum&action=edit&redlink=1
+Bury Transport Museum	in_Greater_Manchester	Transport	/wiki/Bury_Transport_Museum
 Castlefield Gallery	in_Greater_Manchester	Arts	/wiki/Castlefield_Gallery
 Central Art Gallery	in_Greater_Manchester	Arts	/w/index.php?title=Central_Art_Gallery&action=edit&redlink=1
 Centre for Chinese Contemporary Art	in_Greater_Manchester	Arts	/wiki/Centre_for_Chinese_Contemporary_Art
-Cornerhouse	in_Greater_Manchester	Arts	/wiki/Cornerhouse,_Manchester
+Clayton Hall Living History Museum	in_Greater_Manchester	Other	/wiki/Clayton_Hall
 Dunham Massey Hall	in_Greater_Manchester	Historic	/wiki/Dunham_Massey_Hall
 Elizabeth Gaskell's House	in_Greater_Manchester	Historic	/wiki/84_Plymouth_Grove
 Ellenroad Engine House	in_Greater_Manchester	Other	/wiki/Ellenroad_Ring_Mill_Engine
@@ -23,6 +23,7 @@ Hall i' th' Wood	in_Greater_Manchester	Historic	/wiki/Hall_i%27_th%27_Wood
 Hat Works	in_Greater_Manchester	Industrial	/wiki/Hat_Works
 Heaton Hall	in_Greater_Manchester	Historic	/wiki/Heaton_Hall
 Heaton Park Tramway	in_Greater_Manchester	Transport	/wiki/Heaton_Park_Tramway
+HOME	in_Greater_Manchester	Arts	/wiki/HOME_(Manchester)
 Horwich Heritage Centre	in_Greater_Manchester	Local	
 Imperial War Museum North	in_Greater_Manchester	Other	/wiki/Imperial_War_Museum_North
 John Rylands Library	in_Greater_Manchester	Other	/wiki/John_Rylands_Library

@@ -18,7 +18,7 @@ Canvey Island Transport Museum	in_Essex	Transport
 Cater Museum	in_Essex	Local	/w/index.php?title=Cater_Museum&action=edit&redlink=1
 Chelmsford Museum	in_Essex	Multiple	/wiki/Chelmsford_Museums
 Coalhouse Fort	in_Essex	Other	/wiki/Coalhouse_Fort
-Coggeshall Grange Barn	in_Essex	Local	/w/index.php?title=Coggeshall_Grange_Barn&action=edit&redlink=1
+Coggeshall Grange Barn	in_Essex	Local	/wiki/Coggeshall_Grange_Barn
 Coggeshall Museum	in_Essex	Local	
 Colchester Castle Museum	in_Essex	Historic	/wiki/Colchester_Castle
 Colne Valley Postal History Museum	in_Essex	Other	
@@ -77,6 +77,7 @@ Paycocke's	in_Essex	Historic	/w/index.php?title=Paycocke%27s&action=edit&redlink
 Peter Edwards Museum & Library	in_Essex	Other	
 Prittlewell Priory	in_Essex	Other	/wiki/Prittlewell_Priory
 Purfleet Heritage & Military Centre	in_Essex	Other	/w/index.php?title=Purfleet_Heritage_%26_Military_Centre&action=edit&redlink=1
+Rayleigh Town Museum	in_Essex	Local	
 Rayleigh Windmill	in_Essex	Industrial	/wiki/Rayleigh_Windmill
 Ridgewell Airfield Commemorative Museum	in_Essex	Other	
 Royal Gunpowder Mills	in_Essex	Multiple	/wiki/Waltham_Abbey_Royal_Gunpowder_Mills

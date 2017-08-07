@@ -31,6 +31,7 @@ Hastings History House	in_East_Sussex	Local
 Hastings Lifeboat Station	in_East_Sussex	Transport	
 Hastings Museum and Art Gallery	in_East_Sussex	Multiple	/wiki/Hastings_Museum_and_Art_Gallery
 Heritage Mill, North Chailey	in_East_Sussex	Industrial	/wiki/Heritage_Mill,_North_Chailey
+Herstmonceux Museum	in_East_Sussex	Historic	
 Hove Museum and Art Gallery	in_East_Sussex	Multiple	/wiki/Hove_Museum_and_Art_Gallery
 How We Lived Then	in_East_Sussex	Historic	/w/index.php?title=How_We_Lived_Then&action=edit&redlink=1
 Jerwood Gallery	in_East_Sussex	Arts	/wiki/Jerwood_Gallery

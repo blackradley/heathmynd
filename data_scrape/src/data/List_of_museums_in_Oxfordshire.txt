@@ -2,20 +2,20 @@ name	county	type	wikipedia_link
 Abingdon County Hall Museum	in_Oxfordshire	Local	/wiki/Abingdon_County_Hall_Museum
 Ashdown House	in_Oxfordshire	Historic	/wiki/Ashdown_House,_Oxfordshire
 Ashmolean Museum	in_Oxfordshire	Multiple	/wiki/Ashmolean_Museum
-Aston Martin Heritage Trust Museum	in_Oxfordshire	Transport	/w/index.php?title=Aston_Martin_Heritage_Trust_Museum&action=edit&redlink=1
+Aston Martin Heritage Trust Museum	in_Oxfordshire	Transport	/wiki/Aston_Martin_Heritage_Trust_Museum
 Banbury Museum	in_Oxfordshire	Local	/wiki/Banbury_Museum
 Bate Collection of Musical Instruments	in_Oxfordshire	Other	/wiki/Bate_Collection_of_Musical_Instruments
-Benson Veteran Cycle Museum	in_Oxfordshire	Transport	
+Benson Veteran Cycle Museum	in_Oxfordshire	Transport	/wiki/Benson_Veteran_Cycle_Museum
 Blenheim Palace	in_Oxfordshire	Historic	/wiki/Blenheim_Palace
-Bloxham Village Museum	in_Oxfordshire	Local	
+Bloxham Village Museum	in_Oxfordshire	Local	/wiki/Bloxham_Village_Museum
 Broughton Castle	in_Oxfordshire	Historic	/wiki/Broughton_Castle
 Buscot Park	in_Oxfordshire	Historic	/wiki/Buscot_Park
 Champs Chapel Museum of East Hendred	in_Oxfordshire	Local	/wiki/Champs_Chapel_Museum_of_East_Hendred
 Charlbury Museum	in_Oxfordshire	Local	/wiki/Charlbury_Museum
 Chastleton House	in_Oxfordshire	Historic	/wiki/Chastleton_House
-Chipping Norton Museum	in_Oxfordshire	Local	
+Chipping Norton Museum	in_Oxfordshire	Local	/wiki/Chipping_Norton_Museum
 Christ Church Picture Gallery	in_Oxfordshire	Arts	/wiki/Christ_Church_Picture_Gallery
-Churchill and Sarsden Heritage Centre	in_Oxfordshire	Local	
+Churchill & Sarsden Heritage Centre	in_Oxfordshire	Local	/wiki/Churchill_%26_Sarsden_Heritage_Centre
 Cogges Manor Farm Museum	in_Oxfordshire	Other	/wiki/Cogges_Manor_Farm_Museum
 Combe Mill	in_Oxfordshire	Other	/wiki/Combe_Mill
 Didcot Railway Centre	in_Oxfordshire	Transport	/wiki/Didcot_Railway_Centre
@@ -43,13 +43,13 @@ Soldiers of Oxfordshire Museum	in_Oxfordshire	Other	/wiki/Soldiers_of_Oxfordshir
 Stonor Park	in_Oxfordshire	Historic	/wiki/Stonor_Park
 The Story Museum	in_Oxfordshire	Other	/wiki/The_Story_Museum
 Swalcliffe Barn	in_Oxfordshire	Local	/wiki/Swalcliffe_Tithe_Barn
-Swinford Museum	in_Oxfordshire	Local	
-Thame Museum	in_Oxfordshire	Local	/w/index.php?title=Thame_Museum&action=edit&redlink=1
-Tolsey Museum	in_Oxfordshire	Local	
-Tom Brown's School Museum	in_Oxfordshire	Local	
+Swinford Museum	in_Oxfordshire	Local	/wiki/Swinford_Museum
+Thame Museum	in_Oxfordshire	Local	/wiki/Thame_Museum
+Tolsey Museum	in_Oxfordshire	Local	/wiki/Tolsey_Museum
+Tom Brown's School Museum	in_Oxfordshire	Local	/wiki/Tom_Brown%27s_School_Museum
 Vale and Downland Museum	in_Oxfordshire	Local	/wiki/Vale_and_Downland_Museum
 Wallingford Museum	in_Oxfordshire	Local	/wiki/Wallingford_Museum
-Waterperry Gardens	in_Oxfordshire	Historic	/w/index.php?title=Waterperry_Gardens&action=edit&redlink=1
-West Oxon Arts	in_Oxfordshire	Arts	/w/index.php?title=West_Oxon_Arts&action=edit&redlink=1
+Waterperry Gardens	in_Oxfordshire	Historic	/wiki/Waterperry_Gardens
+West Ox Arts	in_Oxfordshire	Arts	/w/index.php?title=West_Ox_Arts&action=edit&redlink=1
 Williams F1 Grand Prix Collection	in_Oxfordshire	Transport	/w/index.php?title=Williams_F1_Grand_Prix_Collection&action=edit&redlink=1
 Witney and District Museum	in_Oxfordshire	Local	/wiki/Witney_and_District_Museum

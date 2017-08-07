@@ -3,6 +3,7 @@ Almonry Museum and Heritage Centre	in_Worcestershire	Local	/wiki/Almonry_Museum_
 Avoncroft Museum of Historic Buildings	in_Worcestershire	Other	/wiki/Avoncroft_Museum_of_Historic_Buildings
 Bewdley Museum	in_Worcestershire	Multiple	/wiki/Bewdley_Museum
 Bredon Barn	in_Worcestershire	Historic	/wiki/Bredon_Barn
+Broadway Museum & Art Gallery	in_Worcestershire	Local	http://broadwaymuseum.org.uk/
 Churchill Forge Mill	in_Worcestershire	Industrial	/wiki/Churchill_Forge_Mill
 Commandery	in_Worcestershire	Historic	/wiki/The_Commandery
 Croome Park	in_Worcestershire	Historic	/wiki/Croome_Park
