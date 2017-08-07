@@ -33,3 +33,7 @@ for county in COUNTIES_ENGLAND_CEREMONIAL:
             print '{},'.format(i), # print progress, the last comma keeps the print on the same line
             output_file.write(name + '\t' + county + '\t' + classified_type + '\t' + link + '\n')
         print '\nCumulative total: {}'.format(j)
+
+# The Arts Council says there are 1,600 
+# http://webarchive.nationalarchives.gov.uk/20160204101926/http://www.artscouncil.org.uk/media/uploads/pdf/a_review_of_research.pdf
+#   
