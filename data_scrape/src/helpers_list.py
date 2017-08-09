@@ -39,13 +39,13 @@ def get_museums_list(wikipedia_page):
     next(iter_rows) # Jump the first row which has the headers in
     list_of_museums = []
     for row in iter_rows:
-        name = row.findAll('td')[0].text
-        wikipedia_link = row.findAll('td')[0].find('a')
+        name = row.findAll(['td', 'th'])[0].text
+        wikipedia_link = row.findAll(['td', 'th'])[0].find('a')
         if wikipedia_link is not None:
             wikipedia_link = wikipedia_link.get('href') # assumes the <a> has an <href>
         else:
             wikipedia_link = u''
-        type = row.findAll('td')[index].text
+        type = row.findAll(['td', 'th'])[index].text
         # Make a museum and append to the list
         museum = {}
         museum['name'] = name
