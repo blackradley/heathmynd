@@ -1,5 +1,7 @@
 # Project: Heathmynd - Culture Mapping
 
+[![Build Status](https://blackradley.visualstudio.com/heathmynd/_apis/build/status/heathmynd-CI)](https://blackradley.visualstudio.com/heathmynd/_build/latest?definitionId=3)
+
 The museum data (including name and location) is gathered from Wikipedia.
 Data is held in a Google Fusion table or KML file and displayed on a Google Map on web pages hosted on the Google App Engine.
 GAE supports Python 3 but you still have to have Python 2 to run the GAE locally so there doesn't seem to be a lot of point in upgrading.
