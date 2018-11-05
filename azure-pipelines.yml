@@ -14,6 +14,7 @@ steps:
     python -m pip install --upgrade pip setuptools wheel
     pip install --target ./web_app/lib/ --requirement ./web_app/requirements.txt
     pip install unittest-xml-reporting
+    condition: succeededOrFailed()
     displayName: 'Install prerequisites'
 
 - script: |
