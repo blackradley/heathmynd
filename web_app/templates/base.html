@@ -1,15 +1,19 @@
-{% extends 'bootstrap.html' %}
+{% extends 'bootstrap4/bootstrap4.html' %}
 
+{# Load the tag library #}
 {% load bootstrap4 %}
+
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript jquery=true %}
+
+{% bootstrap_messages %}
 
 {% block bootstrap4_content %}
     <div class="container">
         <h1>{% block title %}(no title){% endblock %}</h1>
 
-        <p>
-            Stuff
-        </p>
-
+        {# Display django.contrib.messages as Bootstrap alerts #}
         {% autoescape off %}{% bootstrap_messages %}{% endautoescape %}
 
         {% block content %}(no content){% endblock %}

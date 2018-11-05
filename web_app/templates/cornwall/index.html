@@ -1,8 +1,13 @@
 {% extends 'base.html' %}
 {% load bootstrap4 %}
 
-{% block title %}django-bootstrap4{% endblock %}
+{% block title %}Cornwall{% endblock %}
 
 {% block content %}
-    This is <em>bootstrap4</em> for <strong>Django</strong>.
+<div>This is where the GMap goes.</div>
+    
+{% endblock %}
+
+{% block bootstrap4_extra_script %}
+        <script>alert('gmap ss')</script>
 {% endblock %}
