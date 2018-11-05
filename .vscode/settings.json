@@ -1,7 +1,7 @@
 // Place your settings in this file to overwrite default and user settings.
 {
   "python.pythonPath": "c:/python27/python.exe",
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.insertSpaces": true,
   "files.exclude": {
     "**/*.pyc": true},
