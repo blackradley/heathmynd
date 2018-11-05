@@ -67,6 +67,8 @@ TEMPLATES = [
     },
 ]
 
+BOOTSTRAP4 = {'include_jquery': True, 'javascript_in_head': False, }
+
 WSGI_APPLICATION = 'web_app.wsgi.application'
 
 # Database
@@ -78,7 +80,6 @@ WSGI_APPLICATION = 'web_app.wsgi.application'
 #         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 #     }
 # }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators

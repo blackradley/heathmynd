@@ -33,7 +33,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "program": "${workspaceRoot}/manage.py",
+            "program": "${workspaceRoot}/web_app/manage.py",
             "args": [
                 "runserver",
                 "--noreload"
