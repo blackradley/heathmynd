@@ -1,0 +1,4 @@
+# Requirements for the application
+Django==1.11.16
+django-bootstrap4==0.0.7
+pytz==2018.7
