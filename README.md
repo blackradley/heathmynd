@@ -39,3 +39,23 @@ To run on Cloud9 with access to the admin interface use:
 * At: http://www.google.com/fusiontables/DataSource?dsrcid=586076
 * http://www.google.com/fusiontables/DataSource?dsrcid=614442
 
+## Django web_app
+
+### Starting the web_app
+
+django-admin startproject web_app
+cd web_app
+python manage.py startapp cheltenham
+python manage.py startapp cornwall
+python manage.py startapp southwest
+
+### Check the django version
+
+manage.py --version
+
+    1.11.16
+
+### Run the Django server
+
+python manage.py runserver 8080
+
