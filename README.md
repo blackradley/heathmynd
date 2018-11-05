@@ -1,26 +1,50 @@
 # Project: Heathmynd - Culture Mapping
 
-The museum data (including name and location) is gathered from Wikipedia
-Data is held in a Google Fusion table or KML file and displayed on a Google
-Map on web pages hosted on the Google App Engine.
+The museum data (including name and location) is gathered from Wikipedia.
+Data is held in a Google Fusion table or KML file and displayed on a Google Map on web pages hosted on the Google App Engine.
+GAE supports Python 3 but you still have to have Python 2 to run the GAE locally so there doesn't seem to be a lot of point in upgrading.
 
-## To set up
+## Data Gathering Application
 
-* Delete .c9 and README.md
-* git clone https://github.com/blackradley/heathmynd.git ./
-* gem install jekyll bundler
-* bundle install
+Uses Python 2.7 like the GAE.
 
-## Install or Update GAE on C9
 
-* Alt-T
-* cd ..
-* rm -r google_appengine
-* wget https://storage.googleapis.com/appengine-sdks/featured/google_appengine_1.9.65.zip
-* unzip google_appengine_1.9.65.zip
-* rm google_appengine_1.9.65.zip 
 
-## Run Google App Engine
+## Django web_app
+
+WARNING: If you are coming from ASP.NET or RoR, in Django views are what you call controllers and templates are what you call views.
+
+### Creating the web_app
+
+For reference of what was done, not what you need to do.
+
+    django-admin startproject web_app
+    cd web_app
+    python manage.py startapp cheltenham
+    python manage.py startapp cornwall
+    python manage.py startapp southwest
+
+### Check the django version
+
+To remind yourself what documentation you should be reading.
+
+    manage.py --version
+        1.11.16
+
+### Install the Requirements
+
+So they are locally available to the Google App Engine.  The Google App Engine no longer provides packages support for 
+
+    pip install --target ./web_app/lib/ --requirement ./web_app/requirements.txt 
+
+### Run the dev server
+
+    python manage.py runserver 8080
+or
+
+    web_dev_server_django.cmd
+
+### Run Google App Engine
 
 To run on Cloud9 use:
 
@@ -38,24 +62,3 @@ To run on Cloud9 with access to the admin interface use:
 
 * At: http://www.google.com/fusiontables/DataSource?dsrcid=586076
 * http://www.google.com/fusiontables/DataSource?dsrcid=614442
-
-## Django web_app
-
-### Starting the web_app
-
-django-admin startproject web_app
-cd web_app
-python manage.py startapp cheltenham
-python manage.py startapp cornwall
-python manage.py startapp southwest
-
-### Check the django version
-
-manage.py --version
-
-    1.11.16
-
-### Run the Django server
-
-python manage.py runserver 8080
-

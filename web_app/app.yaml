@@ -1,8 +1,9 @@
+# [START django_app]
 application: heathmynd
-version: 1
-threadsafe: false
 runtime: python27
 api_version: 1
+version: 1
+threadsafe: yes
 
 handlers:
 - url: /favicon.ico
@@ -13,4 +14,17 @@ handlers:
   static_dir: static
   
 - url: .*
-  script: main.py
+  script: web_app.wsgi.application
+# [END django_app]
+
+# Google App Engine limits application deployments to 10,000 uploaded files per
+# version. The skip_files section allows us to skip virtual environment files
+# to meet this requirement. The first 5 are the default regular expressions to
+# skip, while the last one is for all env/ files.
+skip_files:
+- ^(.*/)?#.*#$
+- ^(.*/)?.*~$
+- ^(.*/)?.*\.py[co]$
+- ^(.*/)?.*/RCS/.*$
+- ^(.*/)?\..*$
+- ^env/.*$
