@@ -10,17 +10,17 @@ steps:
     versionSpec: '2.7'
     architecture: 'x64'
 
-- script:
+- script: |
     python -m pip install --upgrade pip setuptools wheel
     pip install --target ./web_app/lib/ --requirement ./web_app/requirements.txt
     pip install unittest-xml-reporting
     displayName: 'Install prerequisites'
 
-- script:
+- script: |
     pushd '$(projectRoot)'
     python ./web_app/manage.py test --testrunner xmlrunner.extra.djangotestrunner.XMLTestRunner --no-input
-  condition: succeededOrFailed()
-  displayName: 'Run tests'
+    condition: succeededOrFailed()
+    displayName: 'Run tests'
 
 - task: PublishTestResults@2
   inputs:
