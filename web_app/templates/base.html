@@ -1,21 +1,60 @@
 {% extends 'bootstrap4/bootstrap4.html' %}
 {# Load the tag library #}
 {% load bootstrap4 %}
+{% load static %}
 
 {% bootstrap_javascript %}
 
+{% block bootstrap4_extra_head %}
+<link rel="stylesheet" type="text/css" href="{% static '/css/site.css' %}">
+<link rel="shortcut icon" type="image/png" href="{% static '/favicon.ico' %} />
+{% endblock %}
+
 {% block bootstrap4_before_content %}
-<p>Menu</p>
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="/" class="navbar-brand">Heathmynd</a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+            <ul class="nav navbar-nav">
+                <li>
+                <a href="/service/">Public Service</a>
+                </li>
+                <li>
+                <a href="/partnership/">Partnership</a>
+                </li>
+                <li>
+                <a href="/culture/">Culture</a>
+                </li>
+                <li>
+                <a href="/about/">About Us</a>
+                </li>
+                <li>
+                <a href="/blog/">News</a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
 {% endblock %}
 
 {% block bootstrap4_content %}
-    <div class="container">
+<div class="container">
         {# Display django.contrib.messages as Bootstrap alerts #}
         {% autoescape off %}{% bootstrap_messages %}{% endautoescape %}
 
         <h1>{% block title %}(no title){% endblock %}</h1>
 
         {% block content %}(no content){% endblock %}
-    </div>
+</div>
 
 {% endblock %}
