@@ -1,8 +1,6 @@
 # [START django_app]
-application: heathmynd
 runtime: python27
 api_version: 1
-version: 1
 threadsafe: yes
 
 handlers:
