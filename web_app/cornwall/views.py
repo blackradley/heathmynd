@@ -13,6 +13,6 @@ def index(request):
     messages.set_level(request, messages.DEBUG)
     list(messages.get_messages(request))# clear out the previous messages
     messages.add_message(request, messages.INFO, 'Hello world.')
-    context = {}
+    context = {'nbar': 'cornwall'}
     html = template.render(context, request)
     return HttpResponse(html)
