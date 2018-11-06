@@ -13,12 +13,14 @@
 
 {% block bootstrap4_before_content %}
 
+{% endblock %}
+
+{% block bootstrap4_content %}
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="/">Black Radley</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon"></span>
     </button>
-
     <div class="navbar-collapse collapse" id="navbar-main">
         <ul class="nav navbar-nav mr-auto">
             <li class="nav-item {% if nbar == 'cheltenham' %}active{% endif %}">
@@ -38,16 +40,12 @@
         </ul>
     </div>
 </nav>
-{% endblock %}
-
-{% block bootstrap4_content %}
 <div class="container">
-        {# Display django.contrib.messages as Bootstrap alerts #}
-        {% autoescape off %}{% bootstrap_messages %}{% endautoescape %}
+    {# Display django.contrib.messages as Bootstrap alerts #}
+    {% autoescape off %}{% bootstrap_messages %}{% endautoescape %}
 
-        <h1>{% block title %}(no title){% endblock %}</h1>
+    <h1>{% block title %}(no title){% endblock %}</h1>
 
-        {% block content %}(no content){% endblock %}
+    {% block content %}(no content){% endblock %}
 </div>
-
 {% endblock %}
