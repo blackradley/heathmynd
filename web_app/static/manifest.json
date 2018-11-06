@@ -1,0 +1,22 @@
+{
+    "short_name": "Heathmynd",
+    "name": "Experimental Mapping Project",
+    "icons": [
+      {
+        "src": "/static/images/BrLogo192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/static/images/BrLogo512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#2780E3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "theme_color": "#2780E3"
+  }
