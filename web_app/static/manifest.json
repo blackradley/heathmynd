@@ -1,6 +1,13 @@
 {
-    "short_name": "Experimental",
-    "name": "Experimental Mapping Project",
+  "name" : "Experimental Mapping Project",
+  "start_url" : "https://experimental.blackradley.com/",
+  "background_color" : "#2780E3",
+  "display" : "standalone",
+  "orientation" : "portrait",
+  "scope" : "/",
+  "theme_color" : "#2780E3",
+  "lang" : "English",
+  "description" : "Experimental culture and health mapping project using Open Source data.",
     "icons": [
       {
         "src": "/static/images/BrLogo192.png",
@@ -13,10 +20,4 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "/",
-    "background_color": "#2780E3",
-    "display": "standalone",
-    "orientation": "portrait",
-    "scope": "/",
-    "theme_color": "#2780E3"
   }
