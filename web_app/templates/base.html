@@ -6,21 +6,20 @@
 {% bootstrap_javascript %}
 
 {% block bootstrap4_extra_head %}
+<link rel="stylesheet" type="text/css" href="{% static '/css/bootswatch-cosmo.css' %}">
 <link rel="shortcut icon" type="image/png" href="{% static 'favicon.png' %}" />
-
-
 {% endblock %}
 
 {% block bootstrap4_before_content %}
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="/">Black Radley</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="navbar-collapse collapse" id="navbar-main">
-        <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav mr-auto">
             <li class="nav-item {% if nbar == 'cheltenham' %}active{% endif %}">
                 <a class="nav-link" href="/cheltenham/">Cheltenham</a>
             </li>
@@ -31,9 +30,6 @@
                 <a class="nav-link" href="/southwest/">South West</a>
             </li>
         </ul>
-    </div>
-
-    <div class="navbar-collapse collapse" id="navbar-main">
         <ul class="nav navbar-nav ml-auto">
             <li class="nav-item {% if nbar == 'contact' %}active{% endif %}">
                 <a class="nav-link"  href="/contact">Contact</a></li>
