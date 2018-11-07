@@ -17,7 +17,7 @@ self.addEventListener('fetch', function(event) {
   var updateCache = function(request){
     return caches.open('brexperimental-offline').then(function (cache) {
       return fetch(request).then(function (response) {
-        console.log('[BR Experimental] add page to offline'+response.url)
+        console.log('[BR Experimental] add page to offline' + response.url)
         return cache.put(request, response);
       });
     });
