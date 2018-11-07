@@ -26,8 +26,10 @@ SECRET_KEY = 'xy_0h&ojxzn%(0x6a5n&=pl6lveyz2$bw940qe!^zt8&z!c$l='
 DEBUG = True
 
 ALLOWED_HOSTS = ['experimental.blackradley.com',
-    'heathmynd.appspot.com', 
-    '127.0.0.1', 
+    'heathmynd.appspot.com',
+    '1-dot-heathmynd.appspot.com',
+    '2-dot-heathmynd.appspot.com',
+    '127.0.0.1',
     'localhost']
 
 # Application definition

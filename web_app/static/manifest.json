@@ -1,6 +1,6 @@
 {
   "name" : "Experimental Mapping Project",
-  "start_url" : "https://experimental.blackradley.com/",
+  "start_url" : "/",
   "background_color" : "#2780E3",
   "display" : "standalone",
   "orientation" : "portrait",
@@ -19,5 +19,5 @@
         "type": "image/png",
         "sizes": "512x512"
       }
-    ],
+    ]
   }
