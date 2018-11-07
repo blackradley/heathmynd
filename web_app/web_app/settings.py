@@ -25,7 +25,10 @@ SECRET_KEY = 'xy_0h&ojxzn%(0x6a5n&=pl6lveyz2$bw940qe!^zt8&z!c$l='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['experimental.blackradley.com',
+    'heathmynd.appspot.com', 
+    '127.0.0.1', 
+    'localhost']
 
 # Application definition
 

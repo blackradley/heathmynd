@@ -1,8 +1,8 @@
 # [START django_app]
-application: heathmynd
+# application: heathmynd # no longer needed, supplied by the command line at deployment.
 runtime: python27
 api_version: 1
-version: 2
+# version: 1 # no longer needed, supplied by the command line at deployment.
 threadsafe: yes
 
 handlers:

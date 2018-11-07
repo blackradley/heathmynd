@@ -10,9 +10,9 @@ from django.http import HttpResponse
 def index(request):
     """ index """
     template = get_template('cornwall/index.html')
-    messages.set_level(request, messages.DEBUG)
-    list(messages.get_messages(request))# clear out the previous messages
-    messages.add_message(request, messages.INFO, 'Hello world.')
+    #messages.set_level(request, messages.DEBUG)
+    #list(messages.get_messages(request))# clear out the previous messages
+    #messages.add_message(request, messages.INFO, 'Hello world.')
     context = {'nbar': 'cornwall'}
     html = template.render(context, request)
     return HttpResponse(html)
