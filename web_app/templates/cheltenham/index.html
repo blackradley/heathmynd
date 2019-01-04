@@ -9,18 +9,36 @@
 {% endblock %}
 
 {% block content %}
-<div id="map"></div>
-    <script>
-// Initialize and add the map
-function initMap() {
-  // The location of Uluru
-  var uluru = {lat: -25.344, lng: 131.036};
-  // The map, centered at Uluru
-  var map = new google.maps.Map(
-      document.getElementById('map'), {zoom: 4, center: uluru});
-  // The marker, positioned at Uluru
-  var marker = new google.maps.Marker({position: uluru, map: map});
-}
-    </script>
+<div id="map">here</div>
+<script>
+    const maxI = 200, rad = 21, opac = .6;
+    var map, heatmap;
+
+    function initMap() {
+      // The location of Cheltenham
+      var cheltenham = {lat: 51.8993855, lng: -2.0782533000000285};
+      // The map, centered at Cheltenham
+      var map = new google.maps.Map(
+          document.getElementById('map'), {zoom: 11, center: cheltenham});
+      // The marker, positioned at Cheltenham
+      var marker = new google.maps.Marker({position: cheltenham, map: map});
+
+      fetch('static/data/data.json').then(function(response) {
+          response.json().then(function(result) {
+            let locations = result.locations.map((val) => {
+              return new google.maps.LatLng(val.latitudeE7 * (10 ** -7), val.longitudeE7 * (10 ** -7));
+            })
+            heatmap = new google.maps.visualization.HeatmapLayer({
+              data: locations,
+              map: map,
+              maxIntensity: maxI,
+              radius: rad,
+              opacity: opac
+            });
+          });
+        });
+
+    }
+</script>
 {% endblock %}
 

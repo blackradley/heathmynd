@@ -7,6 +7,7 @@
 
 {% block bootstrap4_extra_head %}
 <link rel="stylesheet" type="text/css" href="{% static '/css/bootswatch-cosmo.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static '/css/map.css' %}">
 <link rel="shortcut icon" type="image/png" href="{% static 'favicon.png' %}" />
 <link rel="manifest" href="{% static '/manifest.json' %}" />
 <link rel="apple-touch-startup-image" href="{% static '/launch.png' %}" />
@@ -19,7 +20,6 @@
 {% block bootstrap4_content %}
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="/">Black Radley</a>
-    <!--
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -41,7 +41,6 @@
             </li>
         </ul>
     </div>
-    -->
 </nav>
 <div class="container">
     {# Display django.contrib.messages as Bootstrap alerts #}
@@ -51,4 +50,8 @@
 
     {% block content %}(no content){% endblock %}
 </div>
+{% endblock %}
+
+{% block bootstrap4_extra_script %}
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCeiuPxCf706yYtvjx0yDBOo5lUKtkmpvY&callback=initMap" type="text/javascript"></script>
 {% endblock %}
