@@ -21,6 +21,7 @@ from django.views.generic import TemplateView
 urlpatterns = [
     url(r'^cheltenham/', include('cheltenham.urls')),
     url(r'^cornwall/', include('cornwall.urls')),
+    url(r'^southwest/', include('southwest.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'^robots.txt',
         lambda x: HttpResponse("User-Agent: *\nDisallow:", content_type="text/plain"),

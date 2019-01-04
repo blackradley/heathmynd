@@ -2,10 +2,6 @@
 {% load bootstrap4 %}
 {% load static %}
 
-{% block bootstrap4_extra_head %}
-<link rel="stylesheet" type="text/css" href="{% static '/css/side-bar.css' %}">
-{% endblock %}
-
 {% block title %}Cornwall{% endblock %}
 
 {% block bootstrap4_before_content %}
@@ -14,12 +10,10 @@
 
 {% block content %}
 <button type="button" id="sidebarCollapse">
-
-            
+    
 <!-- Sidebar  -->
 <nav id="sidebar">
         <ul class="list-unstyled components">
-                <p>Data sets</p>
                 <li>
                         <div class="form-check">
                                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
