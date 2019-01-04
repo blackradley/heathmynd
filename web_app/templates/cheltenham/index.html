@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load bootstrap4 %}
+{% load static %}
+
+{% block bootstrap4_extra_head %}
+<link rel="stylesheet" type="text/css" href="{% static '/css/side-bar.css' %}">
+{% endblock %}
+
+{% block title %}Cheltenham{% endblock %}
+
+{% block bootstrap4_before_content %}
+
+{% endblock %}
+
+{% block content %}
+<div id="content">
+        This is where the GMap goes.
+</div>
+{% endblock %}
+

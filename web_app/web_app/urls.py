@@ -19,6 +19,7 @@ from django.http import HttpResponse
 from django.views.generic import TemplateView
 
 urlpatterns = [
+    url(r'^cheltenham/', include('cheltenham.urls')),
     url(r'^cornwall/', include('cornwall.urls')),
     url(r'^admin/', admin.site.urls),
     # The service worker and robots.txt have to be in the root of the web_app.

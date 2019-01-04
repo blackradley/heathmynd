@@ -1,16 +1,18 @@
 # Project: Heathmynd - Culture Mapping
 
+Live: <https://experimental.blackradley.com/>.
+
 [![Build Status](https://blackradley.visualstudio.com/heathmynd/_apis/build/status/heathmynd-CI)](https://blackradley.visualstudio.com/heathmynd/_build/latest?definitionId=3)
 
 The museum data (including name and location) is gathered from Wikipedia.
+
 Data is held in a Google Fusion table or KML file and displayed on a Google Map on web pages hosted on the Google App Engine.
+
 GAE supports Python 3 but you still have to have Python 2 to run the GAE locally so there doesn't seem to be a lot of point in upgrading.
 
 ## Data Gathering Application
 
 Uses Python 2.7 like the GAE.
-
-
 
 ## Django web_app
 
@@ -45,25 +47,3 @@ So they are locally available to the Google App Engine.  The Google App Engine n
 or
 
     web_dev_server_django.cmd
-
-
-# Below is all the old stuff - DELETE ME LATER
-
-### Run Google App Engine
-
-To run on Cloud9 use:
-
-    ``` python ../google_appengine/dev_appserver.py ./web_app/src/ --enable_host_checking=false ```
-    
-To run on Cloud9 with access to the admin interface use:
-    
-    ``` python ../google_appengine/dev_appserver.py ./web_app/src/ --enable_host_checking=false --admin_port=8081 ```
-
-* Check: http://heathmynd.appspot.com/
-* Update Command: appcfg.py update WebApp
-* Rollback Command: appcfg.py rollback WebApp
-
-## Fusion Tables
-
-* At: http://www.google.com/fusiontables/DataSource?dsrcid=586076
-* http://www.google.com/fusiontables/DataSource?dsrcid=614442
