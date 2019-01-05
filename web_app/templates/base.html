@@ -2,12 +2,15 @@
 {# Load the tag library #}
 {% load bootstrap4 %}
 {% load static %}
+{% load compress %}
 
 {% bootstrap_javascript %}
 
 {% block bootstrap4_extra_head %}
+{% compress css %}
 <link rel="stylesheet" type="text/css" href="{% static '/css/bootswatch-cosmo.css' %}">
 <link rel="stylesheet" type="text/css" href="{% static '/css/map.css' %}">
+{% endcompress %}
 <link rel="shortcut icon" type="image/png" href="{% static 'favicon.png' %}" />
 <link rel="manifest" href="{% static '/manifest.json' %}" />
 <link rel="apple-touch-startup-image" href="{% static '/launch.png' %}" />

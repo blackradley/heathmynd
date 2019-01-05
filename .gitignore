@@ -3,6 +3,7 @@ password.txt
 **/download/*.htm
 shit.py
 .c9/
+*/CACHE/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

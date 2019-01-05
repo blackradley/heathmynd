@@ -25,6 +25,7 @@ SECRET_KEY = 'xy_0h&ojxzn%(0x6a5n&=pl6lveyz2$bw940qe!^zt8&z!c$l='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
 ALLOWED_HOSTS = [
     'experimental.blackradley.com',
     'heathmynd.appspot.com',
@@ -34,6 +35,12 @@ ALLOWED_HOSTS = [
 
 # Application definition
 
+STATICFILES_FINDERS = [
+    "django.contrib.staticfiles.finders.FileSystemFinder",
+    "django.contrib.staticfiles.finders.AppDirectoriesFinder",
+    "compressor.finders.CompressorFinder",
+]
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -42,6 +49,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'bootstrap4',
+    'compressor',
 ]
 
 MIDDLEWARE = [
@@ -129,3 +137,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
     '/static/',
 ] # this directory is shared by the whole website
+
+# Compression settings
+COMPRESS_ENABLED = True
+COMPRESS_ROOT = BASE_DIR
