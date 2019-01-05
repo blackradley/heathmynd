@@ -13,6 +13,9 @@
 <div id="right-map">here</div>
 
 <script>
+			var isLeftMap = false;
+			var isRightMap = false;
+
     function initMap() {
       // The location of Cheltenham
       var cheltenham = {lat: 51.89938, lng: -2.0782};
@@ -25,6 +28,26 @@
       // The marker
       var marker = new google.maps.Marker({position: cheltenham, map: leftMap});
       var marker = new google.maps.Marker({position: gloucester, map: rightMap});
+      google.maps.event.addListener(leftMap, 'bounds_changed', function() {
+					if (isLeftMap) {
+            var center = new google.maps.LatLng(leftMap.getCenter().lat(), leftMap.getCenter().lng());
+						var zoom = parseInt(leftMap.getZoom());
+						rightMap.setCenter(center);
+						rightMap.setZoom(zoom);
+          }
+      });
+      google.maps.event.addListener(leftMap, 'mouseover', function() {
+          isLeftMap = true;
+					isRightMap = false;
+				});
+				google.maps.event.addListener(leftMap, 'mouseout', function() {
+					isLeftMap = false;
+					isRightMap = false;
+				});	
+
+
+
+
 
 
       fetch('static/data/data.json').then(function(response) {
