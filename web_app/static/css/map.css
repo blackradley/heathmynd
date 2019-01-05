@@ -1,5 +1,13 @@
 #left-map {
-    width: 100%;
+    width: 50%;
     height: 500px;
-    background-color: rgb(199, 133, 48);
+    background: red;
+    float: left;
+}
+
+
+#right-map {
+    margin-left: 50%;
+    height: 500px;
+    background: green;
 }

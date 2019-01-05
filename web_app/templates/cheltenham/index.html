@@ -15,12 +15,16 @@
 <script>
     function initMap() {
       // The location of Cheltenham
-      var cheltenham = {lat: 51.8993855, lng: -2.0782533000000285};
+      var cheltenham = {lat: 51.89938, lng: -2.0782};
+      var gloucester = {lat: 51.86568, lng: -2.2431};
       // The map, centered at Cheltenham
-      var map = new google.maps.Map(
-          document.getElementById('left-map'), {zoom: 11, center: cheltenham});
-      // The marker, positioned at Cheltenham
-      var marker = new google.maps.Marker({position: cheltenham, map: map});
+      var leftMap = new google.maps.Map(
+          document.getElementById('left-map'), {zoom: 10, center: cheltenham});
+      var rightMap = new google.maps.Map(
+          document.getElementById('right-map'), {zoom: 10, center: cheltenham});
+      // The marker
+      var marker = new google.maps.Marker({position: cheltenham, map: leftMap});
+      var marker = new google.maps.Marker({position: gloucester, map: rightMap});
 
 
       fetch('static/data/data.json').then(function(response) {

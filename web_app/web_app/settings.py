@@ -60,7 +60,6 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'web_app.middleware.NoCache',
 ]
 
 ROOT_URLCONF = 'web_app.urls'
@@ -139,5 +138,5 @@ STATICFILES_DIRS = [
 ] # this directory is shared by the whole website
 
 # Compression settings
-COMPRESS_ENABLED = True
+COMPRESS_ENABLED = False
 COMPRESS_ROOT = BASE_DIR
