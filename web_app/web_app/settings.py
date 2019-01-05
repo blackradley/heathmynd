@@ -25,10 +25,12 @@ SECRET_KEY = 'xy_0h&ojxzn%(0x6a5n&=pl6lveyz2$bw940qe!^zt8&z!c$l='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['experimental.blackradley.com',
-    'heathmynd.appspot.com', 
-    '127.0.0.1', 
-    'localhost']
+ALLOWED_HOSTS = [
+    'experimental.blackradley.com',
+    'heathmynd.appspot.com',
+    '127.0.0.1',
+    'localhost'
+]
 
 # Application definition
 
@@ -50,6 +52,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'web_app.middleware.NoCache',
 ]
 
 ROOT_URLCONF = 'web_app.urls'
@@ -125,4 +128,4 @@ STATIC_URL = '/static/' # this is the directory in each app
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
     '/static/',
-] # this the directory shared by the whole website
+] # this directory is shared by the whole website
