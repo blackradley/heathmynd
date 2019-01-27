@@ -4,6 +4,9 @@ password.txt
 shit.py
 .c9/
 */CACHE/*
+data_prep/data/interim/*
+!data_prep/data/interim/.gitkeep
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
