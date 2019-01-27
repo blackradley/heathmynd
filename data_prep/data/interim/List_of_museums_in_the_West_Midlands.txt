@@ -1,0 +1,55 @@
+name	county	type	wikipedia_link
+Aston Hall	in_the_West_Midlands	Other	/wiki/Aston_Hall
+Aston Manor Road Transport Museum	in_the_West_Midlands	Other	/wiki/Aston_Manor_Road_Transport_Museum
+Avery Historical Museum	in_the_West_Midlands	Other	/w/index.php?title=Avery_Historical_Museum&action=edit&redlink=1
+Bantock House Museum and Park	in_the_West_Midlands	Other	/wiki/Bantock_House_Museum_and_Park
+Barber Institute of Fine Arts	in_the_West_Midlands	Other	/wiki/Barber_Institute_of_Fine_Arts
+Berkswell Museum	in_the_West_Midlands	Other	/w/index.php?title=Berkswell_Museum&action=edit&redlink=1
+Bilston Craft Gallery	in_the_West_Midlands	Other	/wiki/Bilston_Craft_Gallery
+Birmingham Back to Backs	in_the_West_Midlands	Other	/wiki/Birmingham_Back_to_Backs
+Birmingham Gun Barrel Proof House	in_the_West_Midlands	Other	/wiki/Birmingham_Proof_House
+Birmingham Museum & Art Gallery	in_the_West_Midlands	Other	/wiki/Birmingham_Museum_%26_Art_Gallery
+Bishop Asbury Cottage	in_the_West_Midlands	Other	/wiki/Bishop_Asbury_Cottage
+Black Country Living Museum	in_the_West_Midlands	Other	/wiki/Black_Country_Living_Museum
+Blakesley Hall	in_the_West_Midlands	Other	/wiki/Blakesley_Hall
+Cadbury World	in_the_West_Midlands	Historic	/wiki/Cadbury_World
+Centre of the Earth	in_the_West_Midlands	Other	/wiki/Centre_of_the_Earth
+Coventry Watch Museum	in_the_West_Midlands	Other	/w/index.php?title=Coventry_Watch_Museum&action=edit&redlink=1
+Coventry Music Museum	in_the_West_Midlands	Other	/w/index.php?title=Coventry_Music_Museum&action=edit&redlink=1
+Coventry Transport Museum	in_the_West_Midlands	Other	/wiki/Coventry_Transport_Museum
+The Drum	in_the_West_Midlands	Other	/wiki/The_Drum_(Arts_Centre)
+Earlswood Village Museum	in_the_West_Midlands	Other	/w/index.php?title=Earlswood_Village_Museum&action=edit&redlink=1
+Haden Hill House	in_the_West_Midlands	Other	/wiki/Haden_Hill_House
+Herbert Art Gallery and Museum	in_the_West_Midlands	Other	/wiki/Herbert_Art_Gallery_and_Museum
+Ikon Gallery	in_the_West_Midlands	Other	/wiki/Ikon_Gallery
+International Project Space	in_the_West_Midlands	Other	/wiki/International_Project_Space
+Jaguar Daimler Heritage Trust Museum	in_the_West_Midlands	Other	/w/index.php?title=Jaguar_Daimler_Heritage_Trust_Museum&action=edit&redlink=1
+The Lace Guild	in_the_West_Midlands	Historic	/wiki/The_Lace_Guild
+Lapworth Museum of Geology	in_the_West_Midlands	Other	/wiki/Lapworth_Museum_of_Geology
+Locksmith's House	in_the_West_Midlands	Other	/wiki/Locksmith%27s_House
+mac	in_the_West_Midlands	Other	/wiki/Mac_(Birmingham)
+Midland Air Museum	in_the_West_Midlands	Other	/wiki/Midland_Air_Museum
+Museum of the Jewellery Quarter	in_the_West_Midlands	Historic	/wiki/Museum_of_the_Jewellery_Quarter
+National Motorcycle Museum	in_the_West_Midlands	Other	/wiki/National_Motorcycle_Museum_(UK)
+New Art Gallery Walsall	in_the_West_Midlands	Other	/wiki/Walsall_Art_Gallery
+New Hall Mill	in_the_West_Midlands	Other	/w/index.php?title=New_Hall_Mill&action=edit&redlink=1
+Oak House	in_the_West_Midlands	Other	/wiki/Oak_House,_West_Bromwich
+The Pen Museum	in_the_West_Midlands	Historic	/wiki/The_Pen_Museum
+Periscope	in_the_West_Midlands	Other	/wiki/Periscope_(art_gallery)
+Priory Visitor Centre	in_the_West_Midlands	Other	/w/index.php?title=Priory_Visitor_Centre&action=edit&redlink=1
+Red House Cone	in_the_West_Midlands	Other	/wiki/Red_House_Cone
+Royal Birmingham Society of Artists	in_the_West_Midlands	Other	/wiki/Royal_Birmingham_Society_of_Artists
+Sarehole Mill	in_the_West_Midlands	Other	/wiki/Sarehole_Mill
+Selly Manor	in_the_West_Midlands	Other	/wiki/Selly_Manor
+Soho House	in_the_West_Midlands	Other	/wiki/Soho_House
+Solihull Gallery	in_the_West_Midlands	Other	/w/index.php?title=Solihull_Gallery&action=edit&redlink=1
+Thinktank	in_the_West_Midlands	Other	/wiki/Thinktank,_Birmingham
+Tipton Community Heritage Centre	in_the_West_Midlands	Other	/w/index.php?title=Tipton_Community_Heritage_Centre&action=edit&redlink=1
+Tyseley Locomotive Works	in_the_West_Midlands	Transport	/wiki/Tyseley_Locomotive_Works
+VIVID	in_the_West_Midlands	Other	/wiki/Vivid_(media_arts)
+Walsall Leather Museum	in_the_West_Midlands	Other	/wiki/Walsall_Leather_Museum
+Warwick Arts Centre	in_the_West_Midlands	Multiple	/wiki/Warwick_Arts_Centre
+Wednesbury Museum and Art Gallery	in_the_West_Midlands	Other	/wiki/Wednesbury_Museum_and_Art_Gallery
+West Midlands Police Museum	in_the_West_Midlands	Other	/wiki/West_Midlands_Police_Museum
+Wightwick Manor	in_the_West_Midlands	Other	/wiki/Wightwick_Manor
+Wolverhampton Art Gallery	in_the_West_Midlands	Other	/wiki/Wolverhampton_Art_Gallery

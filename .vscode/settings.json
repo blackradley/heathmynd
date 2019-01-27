@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-  "python.pythonPath": "C:\\Users\\joejc\\envs\\heathmynd\\Scripts\\python.exe",
+  "python.pythonPath": "C:\\Python27\\python.exe",
   "editor.tabSize": 4,
   "editor.insertSpaces": true,
   "files.exclude": {

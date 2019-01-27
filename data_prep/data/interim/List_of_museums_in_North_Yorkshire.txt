@@ -1,0 +1,88 @@
+name	county	type	wikipedia_link
+Aldborough Roman Site	in_North_Yorkshire	Other	/wiki/Isurium_Brigantum
+Bar Convent	in_North_Yorkshire	Other	/wiki/Bar_Convent
+Barley Hall	in_North_Yorkshire	Other	/wiki/Barley_Hall
+Beck Isle Museum	in_North_Yorkshire	Other	/wiki/Beck_Isle_Museum
+Bedale Museum	in_North_Yorkshire	Other	
+Beningbrough Hall	in_North_Yorkshire	Other	/wiki/Beningbrough_Hall
+Bolton Castle	in_North_Yorkshire	Other	/wiki/Bolton_Castle
+Captain Cook & Staithes Heritage Centre	in_North_Yorkshire	Other	/w/index.php?title=Captain_Cook_%26_Staithes_Heritage_Centre&action=edit&redlink=1
+Captain Cook Birthplace Museum	in_North_Yorkshire	Historic	/wiki/Captain_Cook_Birthplace_Museum
+Captain Cook Memorial Museum	in_North_Yorkshire	Other	/wiki/Captain_Cook_Memorial_Museum
+Captain Cook Schoolroom Museum	in_North_Yorkshire	Other	/w/index.php?title=Captain_Cook_Schoolroom_Museum&action=edit&redlink=1
+Castle Howard	in_North_Yorkshire	Other	/wiki/Castle_Howard
+Cleveland Ironstone Mining Museum	in_North_Yorkshire	Other	/w/index.php?title=Cleveland_Ironstone_Mining_Museum&action=edit&redlink=1
+Courthouse Museum	in_North_Yorkshire	Other	/w/index.php?title=Courthouse_Museum&action=edit&redlink=1
+Craven Museum & Gallery	in_North_Yorkshire	Other	/wiki/Craven_Museum_%26_Gallery
+Dales Countryside Museum	in_North_Yorkshire	Local	/wiki/Dales_Countryside_Museum
+DIG: an archaeological adventure	in_North_Yorkshire	Other	/wiki/DIG:_an_archaeological_adventure
+Dorman Museum	in_North_Yorkshire	Industrial	/wiki/Dorman_Museum
+Eden Camp Modern History Theme Museum	in_North_Yorkshire	Other	/wiki/Eden_Camp_Museum
+Fairfax House	in_North_Yorkshire	Other	/wiki/Fairfax_House
+Filey Museum	in_North_Yorkshire	Other	
+Fountains Abbey and Studley Royal	in_North_Yorkshire	Other	/wiki/Fountains_Abbey
+Gayle Mill	in_North_Yorkshire	Other	/wiki/Gayle_Mill,_North_Yorkshire
+Goddards House and Garden	in_North_Yorkshire	Other	/wiki/Goddards_House_and_Garden
+Grassington Folk Museum	in_North_Yorkshire	Other	
+Green Howards Regimental Museum	in_North_Yorkshire	Historic	/wiki/Green_Howards_Regimental_Museum
+Guisborough Museum	in_North_Yorkshire	Other	
+Henry VII Experience at Micklegate Bar	in_North_Yorkshire	Other	/wiki/Henry_VII_Experience_at_Micklegate_Bar
+Holgate Windmill	in_North_Yorkshire	Other	/wiki/Holgate_Windmill
+Hovingham Hall	in_North_Yorkshire	Other	/wiki/Hovingham_Hall
+Jorvik Viking Centre	in_North_Yorkshire	Other	/wiki/Jorvik_Viking_Centre
+Kiplin Hall	in_North_Yorkshire	Other	/wiki/Kiplin_Hall
+Kirkleatham Museum	in_North_Yorkshire	Other	/wiki/Kirkleatham_Museum
+Knaresborough Castle	in_North_Yorkshire	Other	/wiki/Knaresborough_Castle
+Kohima Museum	in_North_Yorkshire	Other	
+Malton Museum	in_North_Yorkshire	Other	/wiki/Malton_Museum
+Mansion House	in_North_Yorkshire	Other	/wiki/Mansion_House,_York
+Markenfield Hall	in_North_Yorkshire	Other	/wiki/Markenfield_Hall
+Mercer Art Gallery	in_North_Yorkshire	Other	/w/index.php?title=Mercer_Art_Gallery&action=edit&redlink=1
+Merchant Adventurers' Hall	in_North_Yorkshire	Other	/wiki/Merchant_Adventurers%27_Hall
+Middlesbrough Institute of Modern Art	in_North_Yorkshire	Other	/wiki/Middlesbrough_Institute_of_Modern_Art
+Moulton Hall	in_North_Yorkshire	Other	/wiki/Moulton_Hall
+Museum of Victorian Science	in_North_Yorkshire	Other	
+National Railway Museum	in_North_Yorkshire	Historic	/wiki/National_Railway_Museum
+Newby Hall	in_North_Yorkshire	Other	/wiki/Newby_Hall
+Newham Grange Leisure Farm	in_North_Yorkshire	Other	/wiki/Newham_Grange_Leisure_Farm
+Nidderdale Museum	in_North_Yorkshire	Other	/wiki/Nidderdale_Museum
+North Yorkshire Moors Railway	in_North_Yorkshire	Other	/wiki/North_Yorkshire_Moors_Railway
+North Yorkshire Motor Museum	in_North_Yorkshire	Other	
+Nunnington Hall	in_North_Yorkshire	Other	/wiki/Nunnington_Hall
+Ormesby Hall	in_North_Yorkshire	Other	/wiki/Ormesby_Hall
+Prince of Wales's Own Regiment of Yorkshire Museum	in_North_Yorkshire	Historic	/wiki/Prince_of_Wales%27s_Own_Regiment_of_Yorkshire
+Prison & Police Museum	in_North_Yorkshire	Other	/w/index.php?title=Prison_%26_Police_Museum&action=edit&redlink=1
+Queen's Own Yorkshire Yeomanry Museum	in_North_Yorkshire	Other	
+Quilt Museum and Gallery	in_North_Yorkshire	Historic	/wiki/Quilt_Museum_and_Gallery
+Richard III Experience at Monk Bar	in_North_Yorkshire	Other	/wiki/Richard_III_Experience_at_Monk_Bar
+Richmondshire Museum	in_North_Yorkshire	Local	/wiki/Richmondshire_Museum
+Robin Hood's Bay and Fylingdales Museum	in_North_Yorkshire	Other	
+Royal Dragoon Guards Museum	in_North_Yorkshire	Historic	/wiki/Royal_Dragoon_Guards
+Royal Pump Room Museum	in_North_Yorkshire	Local	/wiki/Royal_Pump_Room,_Harrogate
+Rotunda Museum	in_North_Yorkshire	Other	/wiki/Rotunda_Museum
+Ryedale Folk Museum	in_North_Yorkshire	Other	/wiki/Ryedale_Folk_Museum
+Scampston Hall	in_North_Yorkshire	Other	/wiki/Scampston_Hall
+Scarborough Art Gallery	in_North_Yorkshire	Other	/wiki/Scarborough_Art_Gallery
+Scarborough Fair Collection	in_North_Yorkshire	Other	/wiki/Scarborough_Fair_Collection
+Shandy Hall	in_North_Yorkshire	Other	/wiki/Shandy_Hall
+Skipton Castle	in_North_Yorkshire	Other	/wiki/Skipton_Castle
+Sutton Park	in_North_Yorkshire	Other	/wiki/Sutton_Park,_Yorkshire
+Swaledale Museum	in_North_Yorkshire	Local	/wiki/Swaledale_Museum
+Thirsk Museum	in_North_Yorkshire	Other	/w/index.php?title=Thirsk_Museum&action=edit&redlink=1
+Tockett's Mill	in_North_Yorkshire	Other	
+Treasurer's House	in_North_Yorkshire	Other	/wiki/Treasurer%27s_House,_York
+Whitby Abbey	in_North_Yorkshire	Other	/wiki/Whitby_Abbey
+Whitby Lifeboat Museum	in_North_Yorkshire	Other	/w/index.php?title=Whitby_Lifeboat_Museum&action=edit&redlink=1
+Whitby Museum	in_North_Yorkshire	Local	/wiki/Whitby_Museum
+Winkies Castle Folk Museum	in_North_Yorkshire	Local	/wiki/Winkies_Castle
+Workhouse Museum	in_North_Yorkshire	Other	/w/index.php?title=Workhouse_Museum&action=edit&redlink=1
+World of James Herriot	in_North_Yorkshire	Other	/wiki/World_of_James_Herriot
+York Art Gallery	in_North_Yorkshire	Other	/wiki/York_Art_Gallery
+York Castle Museum	in_North_Yorkshire	Other	/wiki/York_Castle_Museum
+York Cold War Bunker	in_North_Yorkshire	Other	/wiki/York_Cold_War_Bunker
+York Minster	in_North_Yorkshire	Other	/wiki/York_Minster
+York St. Mary's	in_North_Yorkshire	Other	/wiki/York_Museums_Trust#York_St._Mary's
+Yorkshire Air Museum	in_North_Yorkshire	Historic	/wiki/Yorkshire_Air_Museum
+Yorkshire Museum	in_North_Yorkshire	Other	/wiki/Yorkshire_Museum
+Yorkshire Museum of Farming	in_North_Yorkshire	Local	/wiki/Yorkshire_Museum_of_Farming
+Zetland Lifeboat Museum and Redcar Heritage Centre	in_North_Yorkshire	Other	

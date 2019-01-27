@@ -1,0 +1,117 @@
+name	county	type	wikipedia_link
+Aldbourne Heritage Centre
+	in_Wiltshire	Local	/wiki/Aldbourne_Heritage_Centre
+Alexander Keiller Museum at Avebury
+	in_Wiltshire	Other	/wiki/Avebury#Alexander_Keiller_Museum
+Arundells
+	in_Wiltshire	Other	/wiki/Arundells
+Athelstan Museum
+	in_Wiltshire	Other	
+Atwell-Wilson Motor Museum
+	in_Wiltshire	Other	
+Avebury Manor & Garden
+	in_Wiltshire	Other	/wiki/Avebury_Manor_%26_Garden
+Bedwyn Stone Museum
+	in_Wiltshire	Other	
+Boscombe Down Aviation Collection
+	in_Wiltshire	Other	
+Bowood House
+	in_Wiltshire	Other	/wiki/Bowood_House
+Bradford on Avon Museum
+	in_Wiltshire	Other	
+Calne Heritage Centre
+	in_Wiltshire	Other	
+Chippenham Museum
+	in_Wiltshire	Other	
+Chiseldon Museum
+	in_Wiltshire	Other	
+Corsham Almshouses & 17th Century Schoolroom
+	in_Wiltshire	Other	/wiki/Hungerford_Almshouses
+Corsham Court
+	in_Wiltshire	Other	/wiki/Corsham_Court
+Corsham Information and Heritage Centre
+	in_Wiltshire	Other	
+Cricklade Museum
+	in_Wiltshire	Other	
+Crofton Pumping Station
+	in_Wiltshire	Other	/wiki/Crofton_Pumping_Station
+Great Chalfield Manor
+	in_Wiltshire	Other	/wiki/Great_Chalfield_Manor
+Kennet & Avon Canal Museum
+	in_Wiltshire	Historic	/wiki/Kennet_%26_Avon_Canal_Museum
+Lacock Abbey, Fox Talbot Museum & Village
+	in_Wiltshire	Other	/wiki/Lacock_Abbey
+Lackham Museum of Agriculture and Rural Life
+	in_Wiltshire	Other	
+Little Clarendon
+	in_Wiltshire	Other	/w/index.php?title=Little_Clarendon&action=edit&redlink=1
+Longleat
+	in_Wiltshire	Other	/wiki/Longleat
+Lydiard House
+	in_Wiltshire	Other	/wiki/Lydiard_House
+Market Lavington Village Museum
+	in_Wiltshire	Other	
+Merchant's House, Marlborough
+	in_Wiltshire	Other	
+Mere Museum
+	in_Wiltshire	Other	
+Museum of Computing
+	in_Wiltshire	Historic	/wiki/Museum_of_Computing
+Mompesson House
+	in_Wiltshire	Other	/wiki/Mompesson_House
+Oxfam Art Gallery
+	in_Wiltshire	Other	
+Pewsey Heritage Centre
+	in_Wiltshire	Other	
+Philipps House
+	in_Wiltshire	Other	/wiki/Philipps_House
+The Pound
+	in_Wiltshire	Other	
+Purton Museum
+	in_Wiltshire	Other	
+REME Museum
+	in_Wiltshire	Other	/wiki/REME_Museum
+Richard Jefferies Museum
+	in_Wiltshire	Other	
+The Rifles (Berkshire and Wiltshire) Museum
+	in_Wiltshire	Other	/wiki/The_Rifles_(Berkshire_and_Wiltshire)_Museum
+Salisbury Museum
+	in_Wiltshire	Historic	/wiki/Salisbury_Museum
+Salisbury Arts Centre
+	in_Wiltshire	Other	/wiki/Salisbury_Arts_Centre
+Science Museum at Wroughton
+	in_Wiltshire	Other	/wiki/The_Science_Museum_at_Wroughton
+STEAM - Museum of the Great Western Railway
+	in_Wiltshire	Historic	/wiki/STEAM_-_Museum_of_the_Great_Western_Railway
+Stourhead
+	in_Wiltshire	Other	/wiki/Stourhead
+Swindon and Cricklade Railway
+	in_Wiltshire	Other	/wiki/Swindon_and_Cricklade_Railway
+Swindon Art Gallery
+	in_Wiltshire	Other	/wiki/Swindon_Art_Gallery
+Swindon Museum
+	in_Wiltshire	Local	/wiki/Swindon_Museum
+Trowbridge Museum
+	in_Wiltshire	Other	/wiki/Trowbridge_Museum
+Warminster Museum
+	in_Wiltshire	Other	
+The Well House Collection
+	in_Wiltshire	Other	
+Westbury Visitor Centre
+	in_Wiltshire	Other	
+Westwood Manor
+	in_Wiltshire	Other	/wiki/Westwood_Manor
+Wilton Carpet Factory Museum
+	in_Wiltshire	Other	
+Wilton House
+	in_Wiltshire	Other	/wiki/Wilton_House
+Wilton Town Museum
+	in_Wiltshire	Other	
+Wilton Windmill
+	in_Wiltshire	Other	/wiki/Wilton_Windmill
+Wiltshire Museum
+	in_Wiltshire	Other	/wiki/Wiltshire_Museum
+Wootton Bassett Museum
+	in_Wiltshire	Local	/wiki/Wootton_Bassett_Museum
+Young Gallery
+	in_Wiltshire	Other	

@@ -1,0 +1,97 @@
+name	county	type	wikipedia_link
+Art Exchange	in_Essex	Other	/w/index.php?title=Art_Exchange&action=edit&redlink=1
+Ashdon Museum	in_Essex	Other	/w/index.php?title=Ashdon_Museum&action=edit&redlink=1
+Audley End House	in_Essex	Other	/wiki/Audley_End_House
+Aythorpe Roding Windmill	in_Essex	Other	/wiki/Aythorpe_Roding_Windmill
+Barleylands Farm Museum	in_Essex	Other	/wiki/Barleylands_Farm_Museum
+Beecroft Art Gallery	in_Essex	Other	/wiki/Beecroft_Art_Gallery
+Bocking Windmill	in_Essex	Other	/wiki/Bocking_Windmill
+Bourne Mill, Essex	in_Essex	Other	/w/index.php?title=Bourne_Mill,_Essex&action=edit&redlink=1
+Boxted Airfield Museum	in_Essex	Other	/w/index.php?title=Boxted_Airfield_Museum&action=edit&redlink=1
+Bragg's Mill	in_Essex	Other	/wiki/Bragg%27s_Mill,_Ashdon
+Braintree Museum	in_Essex	Other	/w/index.php?title=Braintree_Museum&action=edit&redlink=1
+Brentwood Museum	in_Essex	Other	
+Brightlingsea Museum	in_Essex	Other	
+Burnham-on-Crouch & District Museum	in_Essex	Local	/wiki/Burnham-on-Crouch_%26_District_Museum
+Canvey Island Heritage Centre	in_Essex	Other	
+Canvey Island Transport Museum	in_Essex	Other	
+Cater Museum	in_Essex	Other	/wiki/Cater_Museum
+Chelmsford Museum	in_Essex	Local	/wiki/Chelmsford_Museum
+Coalhouse Fort	in_Essex	Other	/wiki/Coalhouse_Fort
+Coggeshall Grange Barn	in_Essex	Other	/wiki/Coggeshall_Grange_Barn
+Coggeshall Museum	in_Essex	Other	
+Colchester Castle Museum	in_Essex	Other	/wiki/Colchester_Castle
+Colne Valley Postal History Museum	in_Essex	Other	
+Colne Valley Railway	in_Essex	Other	/wiki/Colne_Valley_Railway
+Combined Military Services Museum	in_Essex	Other	/wiki/Combined_Military_Services_Museum
+Copped Hall	in_Essex	Other	/wiki/Copped_Hall
+Cressing Temple	in_Essex	Other	/wiki/Cressing_Temple
+Duck End Mill	in_Essex	Other	/wiki/Duck_End_Mill,_Finchingfield
+Dutch Cottage Museum	in_Essex	Other	
+Earls Colne Heritage Museum	in_Essex	Other	
+East Anglian Railway Museum	in_Essex	Other	/wiki/East_Anglian_Railway_Museum
+East Essex Aviation Society and Museum	in_Essex	Other	
+Epping Forest District Museum	in_Essex	Other	/w/index.php?title=Epping_Forest_District_Museum&action=edit&redlink=1
+Essex Fire Museum	in_Essex	Other	
+Essex Police Museum	in_Essex	Other	
+Essex Regiment Museum	in_Essex	Other	/wiki/Essex_Regiment#Essex_Regiment_Museum
+Feering and Kelvedon Local History Museum	in_Essex	Other	
+Finchingfield Guildhall	in_Essex	Other	/w/index.php?title=Finchingfield_Guildhall&action=edit&redlink=1
+Firstsite	in_Essex	Other	/wiki/Firstsite
+Frinton's Crossing Cottage, Garden and Railway Museum	in_Essex	Other	
+Fry Art Gallery	in_Essex	Other	/wiki/Fry_Art_Gallery
+Gibberd Gallery	in_Essex	Other	/w/index.php?title=Gibberd_Gallery&action=edit&redlink=1
+Great Bardfield Cottage Museum	in_Essex	Other	
+Great Dunmow Museum	in_Essex	Other	/w/index.php?title=Great_Dunmow_Museum&action=edit&redlink=1
+Halstead Heritage Museum	in_Essex	Other	
+Harlow Museum	in_Essex	Other	/w/index.php?title=Harlow_Museum&action=edit&redlink=1
+Harwich Lifeboat Museum	in_Essex	Other	/w/index.php?title=Harwich_Lifeboat_Museum&action=edit&redlink=1
+Harwich Maritime Museum	in_Essex	Other	/w/index.php?title=Harwich_Maritime_Museum&action=edit&redlink=1
+Harwich Redoubt	in_Essex	Other	/wiki/Harwich_Redoubt
+Hedingham Castle	in_Essex	Other	/wiki/Hedingham_Castle
+Hill Hall	in_Essex	Other	/wiki/Hill_Hall_(Essex)
+Hollytrees Museum	in_Essex	Local	/wiki/Hollytrees_Museum
+Hylands House	in_Essex	Other	/wiki/Hylands_House
+Ingatestone Hall	in_Essex	Other	/wiki/Ingatestone_Hall
+John Webb's Mill	in_Essex	Other	/wiki/John_Webb%27s_Mill,_Thaxted
+Kelvedon Hatch Secret Nuclear Bunker	in_Essex	Other	/wiki/Kelvedon_Hatch_Secret_Nuclear_Bunker
+Langdon Visitor Centre & Haven Plotlands Museum	in_Essex	Other	/wiki/Dunton_Plotlands
+Layer Marney Tower	in_Essex	Other	/wiki/Layer_Marney_Tower
+Little Baddow History Centre	in_Essex	Other	
+Maeldune Centre	in_Essex	Local	/wiki/Maeldune_Centre
+Maldon District Agricultural & Domestic Museum	in_Essex	Other	
+Maldon Museum	in_Essex	Other	
+Mangapps Railway Museum	in_Essex	Other	/wiki/Mangapps_Railway_Museum
+Manningtree Museum	in_Essex	Other	
+Mersea Island Museum	in_Essex	Other	
+Minories Art Gallery	in_Essex	Other	/wiki/The_Minories,_Colchester
+Mountnessing Windmill	in_Essex	Other	/wiki/Mountnessing_Windmill
+Munnings Art Museum	in_Essex	Other	/wiki/Castle_House,_Dedham
+Museum of Power	in_Essex	Other	/wiki/Museum_of_Power
+Natural History Museum, Colchester	in_Essex	Other	/w/index.php?title=Natural_History_Museum,_Colchester&action=edit&redlink=1
+Naze Tower	in_Essex	Other	/wiki/Naze_Tower
+Nazeing Glass Museum of 20th Century British Domestic Glass	in_Essex	Other	/w/index.php?title=Nazeing_Glass_Museum_of_20th_Century_British_Domestic_Glass&action=edit&redlink=1
+North Weald Airfield Museum	in_Essex	Historic	/wiki/North_Weald_Airfield
+Nottage Maritime Institute	in_Essex	Other	/w/index.php?title=Nottage_Maritime_Institute&action=edit&redlink=1
+Paycocke's	in_Essex	Other	/w/index.php?title=Paycocke%27s&action=edit&redlink=1
+Peter Edwards Museum & Library	in_Essex	Other	
+Prittlewell Priory	in_Essex	Other	/wiki/Prittlewell_Priory
+Purfleet Heritage & Military Centre	in_Essex	Other	/w/index.php?title=Purfleet_Heritage_%26_Military_Centre&action=edit&redlink=1
+Rayleigh Town Museum	in_Essex	Other	/wiki/Rayleigh_Town_Museum
+Rayleigh Windmill	in_Essex	Other	/wiki/Rayleigh_Windmill
+Ridgewell Airfield Commemorative Museum	in_Essex	Other	
+Royal Gunpowder Mills	in_Essex	Other	/wiki/Waltham_Abbey_Royal_Gunpowder_Mills
+Saffron Walden Museum	in_Essex	Other	/w/index.php?title=Saffron_Walden_Museum&action=edit&redlink=1
+Sandford Mill	in_Essex	Other	/w/index.php?title=Sandford_Mill&action=edit&redlink=1
+Southchurch Hall	in_Essex	Other	/wiki/Southchurch_Hall
+Southend Central Museum	in_Essex	Local	/wiki/Southend_Central_Museum
+Southend Pier Museum	in_Essex	Historic	/wiki/Southend_Pier#21st_century
+Stansted Mountfitchet Windmill	in_Essex	Other	/wiki/Stansted_Mountfitchet_Windmill
+Stock Windmill	in_Essex	Other	/wiki/Stock_Windmill
+Thaxted Guildhall	in_Essex	Other	/w/index.php?title=Thaxted_Guildhall&action=edit&redlink=1
+The Time Machine	in_Essex	Other	
+Thurrock Museum	in_Essex	Other	/w/index.php?title=Thurrock_Museum&action=edit&redlink=1
+Tilbury Fort	in_Essex	Other	/wiki/Tilbury_Fort
+Walton Maritime Museum	in_Essex	Other	/w/index.php?title=Walton_Maritime_Museum&action=edit&redlink=1
+Warner Textile Archive	in_Essex	Other	/wiki/Warner_Textile_Archive
+Wilkin & Sons Visitor Centre	in_Essex	Other	/wiki/Wilkin_%26_Sons

@@ -1,0 +1,37 @@
+name	county	type	wikipedia_link
+Abbeydale Industrial Hamlet	in_South_Yorkshire	Historic	/wiki/Abbeydale_Industrial_Hamlet
+Alfred Denny Museum	in_South_Yorkshire	Other	/wiki/Alfred_Denny_Building
+Bank Street Arts	in_South_Yorkshire	Other	/wiki/Bank_Street_Arts
+Bishops' House	in_South_Yorkshire	Other	/wiki/Bishops%27_House
+Brodsworth Hall	in_South_Yorkshire	Other	/wiki/Brodsworth_Hall
+Cannon Hall Museum, Park & Gardens	in_South_Yorkshire	Other	/wiki/Cannon_Hall
+Cawthorne Victoria Jubilee Museum	in_South_Yorkshire	Other	
+The Civic, Barnsley	in_South_Yorkshire	Other	/w/index.php?title=The_Civic,_Barnsley&action=edit&redlink=1
+Clifton Park and Museum	in_South_Yorkshire	Local	/wiki/Clifton_Park_and_Museum
+Conisbrough Castle	in_South_Yorkshire	Other	/wiki/Conisbrough_Castle
+Cooper Gallery	in_South_Yorkshire	Other	/w/index.php?title=Cooper_Gallery&action=edit&redlink=1
+Cusworth Hall	in_South_Yorkshire	Other	/wiki/Cusworth_Hall
+Doncaster Museum & Art Gallery	in_South_Yorkshire	Other	/w/index.php?title=Doncaster_Museum_%26_Art_Gallery&action=edit&redlink=1
+Elsecar Heritage Centre	in_South_Yorkshire	Other	/wiki/Elsecar_Heritage_Centre
+Experience Barnsley	in_South_Yorkshire	Local	/wiki/Experience_Barnsley
+Graves Art Gallery	in_South_Yorkshire	Other	/wiki/Graves_Art_Gallery
+Kelham Island Museum	in_South_Yorkshire	Local	/wiki/Kelham_Island_Museum
+Kings Own Yorkshire Light Infantry Museum	in_South_Yorkshire	Historic	/wiki/Kings_Own_Yorkshire_Light_Infantry#Kings_Own_Yorkshire_Light_Infantry_Museum
+Magna Science Adventure Centre	in_South_Yorkshire	Other	/wiki/Magna_Science_Adventure_Centre
+Maurice Dobson Museum	in_South_Yorkshire	Other	/w/index.php?title=Maurice_Dobson_Museum&action=edit&redlink=1
+Millennium Gallery	in_South_Yorkshire	Other	/wiki/Millennium_Gallery
+National Emergency Services Museum	in_South_Yorkshire	Historic	/wiki/National_Emergency_Services_Museum
+Rotherham Art Gallery	in_South_Yorkshire	Other	/w/index.php?title=Rotherham_Art_Gallery&action=edit&redlink=1
+S1 Artspace	in_South_Yorkshire	Other	/wiki/S1_Artspace
+Sheffield Institute of Arts Gallery	in_South_Yorkshire	Other	/wiki/Sheffield_Institute_of_Arts_Gallery
+Shepherd Wheel	in_South_Yorkshire	Other	/wiki/Shepherd_Wheel
+Site Gallery	in_South_Yorkshire	Other	/wiki/Site_Gallery
+South Yorkshire Aircraft Museum	in_South_Yorkshire	Other	/wiki/South_Yorkshire_Aircraft_Museum
+South Yorkshire Transport Museum	in_South_Yorkshire	Other	/wiki/South_Yorkshire_Transport_Museum
+Turner Museum of Glass	in_South_Yorkshire	Other	/wiki/Turner_Museum_of_Glass
+Wentworth Castle	in_South_Yorkshire	Other	/wiki/Wentworth_Castle
+Weston Park Museum	in_South_Yorkshire	Other	/wiki/Weston_Park_Museum
+Worsbrough Mill Museum and Country Park	in_South_Yorkshire	Other	/wiki/Worsbrough_Mill
+Wortley Top Forge	in_South_Yorkshire	Historic	/wiki/Wortley_Top_Forge
+Yorkshire ArtSpace	in_South_Yorkshire	Other	/wiki/Yorkshire_ArtSpace
+Yorkshire Sculpture Park	in_South_Yorkshire	Other	/wiki/Yorkshire_Sculpture_Park

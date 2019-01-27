@@ -1,6 +1,0 @@
-name	county	type	wikipedia_link
-Lyddington Bede House	in_Rutland	Historic	/wiki/Lyddington_Bede_House
-Normanton Church Museum	in_Rutland	Local	/w/index.php?title=Normanton_Church_Museum&action=edit&redlink=1
-Oakham Castle	in_Rutland	Historic	/wiki/Oakham_Castle
-Rocks by Rail	in_Rutland	Transport	/wiki/Rocks_by_Rail
-Rutland County Museum	in_Rutland	Local	/wiki/Rutland_County_Museum

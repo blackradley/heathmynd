@@ -1,0 +1,48 @@
+name	county	type	wikipedia_link
+Amberley Museum & Heritage Centre	in_West_Sussex	Other	/wiki/Amberley_Museum_%26_Heritage_Centre
+Arundel Castle	in_West_Sussex	Other	/wiki/Arundel_Castle
+Arundel Museum	in_West_Sussex	Local	/wiki/Arundel_Museum
+Bignor Roman Villa	in_West_Sussex	Other	/wiki/Bignor_Roman_Villa
+Bognor Regis Museum	in_West_Sussex	Other	/w/index.php?title=Bognor_Regis_Museum&action=edit&redlink=1
+Burgess Hill Museum	in_West_Sussex	Other	/w/index.php?title=Burgess_Hill_Museum&action=edit&redlink=1
+Cass Sculpture Foundation	in_West_Sussex	Other	/wiki/Cass_Sculpture_Foundation
+Clayton Windmills	in_West_Sussex	Other	/wiki/Clayton_Windmills
+Coultershaw Beam Pump	in_West_Sussex	Other	/wiki/Coultershaw_Beam_Pump
+Cowdray House	in_West_Sussex	Other	/wiki/Cowdray_House
+Crawley Museum Centre	in_West_Sussex	Other	/w/index.php?title=Crawley_Museum_Centre&action=edit&redlink=1
+Cuckfield Museum	in_West_Sussex	Other	/w/index.php?title=Cuckfield_Museum&action=edit&redlink=1
+East Grinstead Museum	in_West_Sussex	Other	/wiki/East_Grinstead_Museum
+Fishbourne Roman Palace	in_West_Sussex	Other	/wiki/Fishbourne_Roman_Palace
+Goodwood House	in_West_Sussex	Other	/wiki/Goodwood_House
+Hammerwood Park	in_West_Sussex	Other	/wiki/Hammerwood_Park
+Henfield Museum	in_West_Sussex	Other	/w/index.php?title=Henfield_Museum&action=edit&redlink=1
+High Salvington Windmill	in_West_Sussex	Other	/wiki/High_Salvington_Windmill
+Horsham Museum	in_West_Sussex	Local	/wiki/Horsham_Museum
+Ifield Water Mill	in_West_Sussex	Other	/wiki/Ifield_Water_Mill
+Littlehampton Museum	in_West_Sussex	Other	/w/index.php?title=Littlehampton_Museum&action=edit&redlink=1
+Marlipins Museum	in_West_Sussex	Local	/wiki/Marlipins_Museum
+Newtimber Place	in_West_Sussex	Other	/wiki/Newtimber_Place
+The Novium	in_West_Sussex	Local	/wiki/The_Novium
+Oldland Mill	in_West_Sussex	Other	/wiki/Oldland_Mill,_Keymer
+Otter Gallery	in_West_Sussex	Other	/wiki/Otter_Gallery
+Oxmarket Centre of Arts	in_West_Sussex	Other	/w/index.php?title=Oxmarket_Centre_of_Arts&action=edit&redlink=1
+Pallant House Gallery	in_West_Sussex	Other	/wiki/Pallant_House_Gallery
+Parham Park	in_West_Sussex	Other	/wiki/Parham_Park
+Petworth Cottage Museum	in_West_Sussex	Other	/wiki/Petworth_Cottage_Museum
+Petworth House	in_West_Sussex	Other	/wiki/Petworth_House
+Priest's House, West Sussex	in_West_Sussex	Other	/w/index.php?title=Priest%27s_House,_West_Sussex&action=edit&redlink=1
+Sackville College	in_West_Sussex	Other	/wiki/Sackville_College
+Saint Hill Manor	in_West_Sussex	Other	/wiki/Saint_Hill_Manor
+Shoreham Airport Visitor Centre	in_West_Sussex	Other	/wiki/Shoreham_Airport
+St. Mary's House & Gardens	in_West_Sussex	Other	/w/index.php?title=St._Mary%27s_House_%26_Gardens&action=edit&redlink=1
+Standen	in_West_Sussex	Other	/wiki/Standen
+Stansted House	in_West_Sussex	Other	/wiki/Stansted_Park
+Steyning Museum	in_West_Sussex	Other	/w/index.php?title=Steyning_Museum&action=edit&redlink=1
+Storrington Museum	in_West_Sussex	Other	/w/index.php?title=Storrington_Museum&action=edit&redlink=1
+Tangmere Military Aviation Museum	in_West_Sussex	Historic	/wiki/RAF_Tangmere#Tangmere_Military_Aviation_Museum
+TimeMachineFun Center	in_West_Sussex	Other	/w/index.php?title=TimeMachineFun_Center&action=edit&redlink=1
+Uppark	in_West_Sussex	Other	/wiki/Uppark
+Weald and Downland Open Air Museum	in_West_Sussex	Other	/wiki/Weald_and_Downland_Open_Air_Museum
+West Dean College	in_West_Sussex	Other	/wiki/West_Dean_College
+Wings Museum	in_West_Sussex	Other	/wiki/Wings_Museum
+Worthing Museum and Art Gallery	in_West_Sussex	Local	/wiki/Worthing_Museum_and_Art_Gallery

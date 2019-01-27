@@ -1,0 +1,91 @@
+name	county	type	wikipedia_link
+Aldershot Military Museum	in_Hampshire	Historic	/wiki/Aldershot_Military_Museum
+Allen Gallery	in_Hampshire	Other	/w/index.php?title=Allen_Gallery&action=edit&redlink=1
+Andover Museum	in_Hampshire	Other	/w/index.php?title=Andover_Museum&action=edit&redlink=1
+Army Physical Training Corps Museum	in_Hampshire	Other	
+ArtSway	in_Hampshire	Other	/w/index.php?title=ArtSway&action=edit&redlink=1
+Aspex Gallery	in_Hampshire	Other	/wiki/Aspex_Gallery
+Bargate Monument Gallery	in_Hampshire	Other	/w/index.php?title=Bargate_Monument_Gallery&action=edit&redlink=1
+Basing House	in_Hampshire	Other	/wiki/Basing_House
+Beaulieu	in_Hampshire	Other	/wiki/Beaulieu_Abbey
+Beaulieu Abbey	in_Hampshire	Other	/wiki/Beaulieu_Abbey
+Beaulieu Palace House	in_Hampshire	Other	/wiki/Beaulieu_Palace_House
+Breamore House	in_Hampshire	Other	/wiki/Breamore_House
+Buckler's Hard	in_Hampshire	Other	/wiki/Buckler%27s_Hard
+Bursledon Brickworks Museum	in_Hampshire	Other	/wiki/Bursledon_Brickworks_Museum
+Bursledon Windmill	in_Hampshire	Other	/wiki/Bursledon_Windmill
+Butser Ancient Farm	in_Hampshire	Other	/wiki/Butser_Ancient_Farm
+Charles Dickens Birthplace Museum	in_Hampshire	Other	/wiki/Charles_Dickens_Birthplace_Museum
+Chawton House	in_Hampshire	Other	/wiki/Chawton_House
+Cumberland House Natural History Museum	in_Hampshire	Other	/w/index.php?title=Cumberland_House_Natural_History_Museum&action=edit&redlink=1
+Curtis Museum	in_Hampshire	Local	/wiki/Curtis_Museum
+The D-Day Story	in_Hampshire	Historic	/wiki/The_D-Day_Story
+Eastleigh Museum	in_Hampshire	Other	/wiki/Eastleigh_Museum
+Eastney Beam Engine House	in_Hampshire	Other	/wiki/Eastney_Beam_Engine_House
+Eling Tide Mill	in_Hampshire	Other	/wiki/Eling_Tide_Mill
+Emsworth Museum	in_Hampshire	Other	/w/index.php?title=Emsworth_Museum&action=edit&redlink=1
+Explosion! Museum of Naval Firepower	in_Hampshire	Historic	/wiki/Explosion!_Museum_of_Naval_Firepower
+Farnborough Air Sciences Trust Museum	in_Hampshire	Historic	/wiki/Farnborough_Air_Sciences_Trust
+Flora Twort Gallery	in_Hampshire	Other	/wiki/Flora_Twort_Gallery
+Fordingbridge Museum	in_Hampshire	Other	/w/index.php?title=Fordingbridge_Museum&action=edit&redlink=1
+Fort Brockhurst	in_Hampshire	Other	/wiki/Fort_Brockhurst
+Fort Nelson	in_Hampshire	Other	/wiki/Fort_Nelson,_Hampshire
+Furzey Gardens	in_Hampshire	Other	/w/index.php?title=Furzey_Gardens&action=edit&redlink=1
+Genesis Expo	in_Hampshire	Other	/wiki/Genesis_Expo
+Gilbert White's House	in_Hampshire	Other	/w/index.php?title=Gilbert_White%27s_House&action=edit&redlink=1
+Gosport Discovery Centre	in_Hampshire	Other	/w/index.php?title=Gosport_Discovery_Centre&action=edit&redlink=1
+The Gurkha Museum	in_Hampshire	Historic	/wiki/The_Gurkha_Museum
+Highclere Castle	in_Hampshire	Other	/wiki/Highclere_Castle
+Hinton Ampner	in_Hampshire	Other	/wiki/Hinton_Ampner
+Hollycombe Steam Collection	in_Hampshire	Other	/wiki/Hollycombe_Steam_Collection
+HorsePower: The Museum of the King's Royal Hussars	in_Hampshire	Historic	/wiki/HorsePower:_The_Museum_of_the_King%27s_Royal_Hussars
+Hovercraft Museum	in_Hampshire	Other	/wiki/Hovercraft_Museum
+Hurst Castle	in_Hampshire	Other	/wiki/Hurst_Castle
+Jane Austen's House Museum	in_Hampshire	Other	/wiki/Jane_Austen%27s_House_Museum
+John Hansard Gallery	in_Hampshire	Other	/wiki/John_Hansard_Gallery
+Little Woodham	in_Hampshire	Other	/wiki/Little_Woodham
+Manor Farm Country Park	in_Hampshire	Other	/wiki/Manor_Farm_Country_Park
+Medieval Merchant's House	in_Hampshire	Other	/wiki/Medieval_Merchant%27s_House
+Milestones Museum	in_Hampshire	Other	/wiki/Milestones_Museum
+Mottisfont Abbey	in_Hampshire	Other	/wiki/Mottisfont_Abbey
+Museum of Army Flying	in_Hampshire	Historic	/wiki/Museum_of_Army_Flying
+Museum of the Iron Age	in_Hampshire	Other	/w/index.php?title=Museum_of_the_Iron_Age&action=edit&redlink=1
+Museum of Army Chaplaincy	in_Hampshire	Other	/wiki/Museum_of_Army_Chaplaincy
+Museum of the Adjutant General's Corps	in_Hampshire	Historic	/wiki/Museum_of_the_Adjutant_General%27s_Corps
+National Motor Museum	in_Hampshire	Transport	/wiki/National_Motor_Museum,_Beaulieu
+New Forest Centre	in_Hampshire	Other	/w/index.php?title=New_Forest_Centre&action=edit&redlink=1
+Petersfield Museum	in_Hampshire	Local	/wiki/Petersfield_Museum
+Portchester Castle	in_Hampshire	Other	/wiki/Portchester_Castle
+Portsmouth City Museum	in_Hampshire	Local	/wiki/Portsmouth_City_Museum
+Portsmouth Historic Dockyard	in_Hampshire	Other	/wiki/HMNB_Portsmouth#Portsmouth_Historic_Dockyard
+Rockbourne Roman Villa and Museum	in_Hampshire	Other	/wiki/Rockbourne_Roman_Villa
+Royal Green Jackets (Rifles) Museum	in_Hampshire	Historic	/wiki/Royal_Green_Jackets_(Rifles)_Museum
+Royal Hampshire Regiment Museum	in_Hampshire	Historic	/wiki/Royal_Hampshire_Regiment_Museum
+Royal Marines Museum	in_Hampshire	Historic	/wiki/Royal_Marines_Museum
+Royal Military Police Museum	in_Hampshire	Other	/w/index.php?title=Royal_Military_Police_Museum&action=edit&redlink=1
+Royal Navy Submarine Museum	in_Hampshire	Other	/wiki/Royal_Navy_Submarine_Museum
+Sammy Miller Motorcycle Museum	in_Hampshire	Other	/wiki/Sammy_Miller_Motorcycle_Museum
+Sandham Memorial Chapel	in_Hampshire	Other	/wiki/Sandham_Memorial_Chapel
+SeaCity Museum	in_Hampshire	Local	/wiki/SeaCity_Museum
+Solent Sky	in_Hampshire	Historic	/wiki/Solent_Sky
+Southampton City Art Gallery	in_Hampshire	Other	/wiki/Southampton_City_Art_Gallery
+Southsea Castle	in_Hampshire	Other	/wiki/Southsea_Castle
+Southwick House	in_Hampshire	Other	/wiki/Southwick_House
+The Spring Arts & Heritage Centre	in_Hampshire	Other	/wiki/The_Spring_Arts_%26_Heritage_Centre
+St. Barbe Museum & Art Gallery	in_Hampshire	Other	/wiki/St._Barbe_Museum_%26_Art_Gallery
+Stansted House	in_Hampshire	Other	/wiki/Stansted_Park
+Stratfield Saye House	in_Hampshire	Historic	/wiki/Stratfield_Saye_House
+Totton and Eling Heritage Centre	in_Hampshire	Other	/w/index.php?title=Totton_and_Eling_Heritage_Centre&action=edit&redlink=1
+Tudor House and Garden	in_Hampshire	Other	/wiki/Southampton_Tudor_House_and_Garden
+The Vyne	in_Hampshire	Other	/wiki/The_Vyne
+Westbury Manor Museum	in_Hampshire	Local	/wiki/Westbury_Manor_Museum
+Westgate Museum	in_Hampshire	Other	/w/index.php?title=Westgate_Museum&action=edit&redlink=1
+Whitchurch Silk Mill	in_Hampshire	Other	/wiki/Whitchurch_Silk_Mill
+Willis Museum	in_Hampshire	Other	/wiki/Willis_Museum
+Winchester Castle	in_Hampshire	Other	/wiki/Winchester_Castle
+Winchester Cathedral	in_Hampshire	Other	/wiki/Winchester_Cathedral
+Winchester City Mill	in_Hampshire	Other	/wiki/Winchester_City_Mill
+Winchester City Museum	in_Hampshire	Other	/w/index.php?title=Winchester_City_Museum&action=edit&redlink=1
+Winchester Discovery Centre	in_Hampshire	Other	/w/index.php?title=Winchester_Discovery_Centre&action=edit&redlink=1
+Winchester Science Centre	in_Hampshire	Other	/wiki/Winchester_Science_Centre
+Winchester's Military Museums	in_Hampshire	Other	/wiki/Winchester%27s_Military_Museums

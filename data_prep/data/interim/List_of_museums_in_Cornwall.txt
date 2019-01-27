@@ -1,0 +1,77 @@
+name	county	type	wikipedia_link
+Antony House	in_Cornwall	Other	/wiki/Antony_House
+Barbara Hepworth Museum	in_Cornwall	Other	/wiki/Barbara_Hepworth_Museum
+Bodmin Jail	in_Cornwall	Other	/wiki/Bodmin_Jail
+Bodmin Town Museum	in_Cornwall	Other	/w/index.php?title=Bodmin_Town_Museum&action=edit&redlink=1
+Callington Heritage Centre	in_Cornwall	Other	/w/index.php?title=Callington_Heritage_Centre&action=edit&redlink=1
+Camborne School of Mines Museum	in_Cornwall	Industrial	/wiki/Camborne_School_of_Mines#Camborne_School_of_Mines_Museum
+The Castle, Bude	in_Cornwall	Other	/w/index.php?title=The_Castle,_Bude&action=edit&redlink=1
+Charlestown Shipwreck & Heritage Centre	in_Cornwall	Other	/wiki/Charlestown_Shipwreck_%26_Heritage_Centre
+Constantine Heritage Centre	in_Cornwall	Other	/w/index.php?title=Constantine_Heritage_Centre&action=edit&redlink=1
+Cornish Mines and Engines	in_Cornwall	Other	/wiki/Cornish_Mines_and_Engines
+Cornwall's Regimental Museum	in_Cornwall	Other	/wiki/Victoria_Barracks,_Bodmin
+Cotehele	in_Cornwall	Other	/wiki/Cotehele
+Davidstow Airfield Cornwall at War Museum	in_Cornwall	Historic	/wiki/RAF_Davidstow_Moor
+Davidstow Moor RAF Memorial War Museum	in_Cornwall	Other	/wiki/RAF_Davidstow_Moor
+Elliott's Shop	in_Cornwall	Other	/w/index.php?title=Elliott%27s_Shop&action=edit&redlink=1
+The Exchange	in_Cornwall	Other	/wiki/Newlyn_Art_Gallery
+Falmouth Art Gallery	in_Cornwall	Other	/wiki/Falmouth_Art_Gallery
+Flambards Experience	in_Cornwall	Other	/wiki/The_Flambards_Experience
+Fowey Museum	in_Cornwall	Other	
+Geevor Tin Mine	in_Cornwall	Other	/wiki/Geevor_Tin_Mine
+Gerrans Parish Heritage Centre	in_Cornwall	Other	
+Godolphin Estate	in_Cornwall	Other	/wiki/Godolphin_Estate
+Grampound with Creed Heritage Centre	in_Cornwall	Other	
+Hayle Heritage Centre	in_Cornwall	Other	
+Heartlands	in_Cornwall	Other	/wiki/Heartlands_(playground)
+Helston Museum	in_Cornwall	Historic	/wiki/Helston_Museum
+Jamaica Inn	in_Cornwall	Other	/wiki/Jamaica_Inn
+John Betjeman Centre	in_Cornwall	Other	
+King Edward Mine Museum	in_Cornwall	Other	/wiki/King_Edward_Mine
+Lanhydrock	in_Cornwall	Other	/wiki/Lanhydrock
+Launceston Steam Railway	in_Cornwall	Other	/wiki/Launceston_Steam_Railway
+Lawrence House Museum	in_Cornwall	Other	/wiki/Lawrence_House,_Cornwall
+Leach Pottery	in_Cornwall	Other	/wiki/Leach_Pottery
+Levant Mine and Beam Engine	in_Cornwall	Other	/wiki/Levant_Mine_and_Beam_Engine
+Liskeard and District Museum	in_Cornwall	Other	
+Lizard Lighthouse Heritage Centre	in_Cornwall	Historic	/wiki/Lizard_Lighthouse
+Looe Museum	in_Cornwall	Other	/w/index.php?title=Looe_Museum&action=edit&redlink=1
+Lostwithiel Museum	in_Cornwall	Other	
+Luxulyan Museum and Heritage Centre	in_Cornwall	Other	
+Marazion Museum	in_Cornwall	Other	
+Mary Newman's Cottage	in_Cornwall	Other	/w/index.php?title=Mary_Newman%27s_Cottage&action=edit&redlink=1
+Mevagissey Museum	in_Cornwall	Other	
+Moseley Industrial Narorow Gauge Tramway and Toy Museum	in_Cornwall	Other	
+Mount Edgcumbe House	in_Cornwall	Other	/wiki/Mount_Edgcumbe_House
+Museum of Witchcraft	in_Cornwall	Other	/wiki/Museum_of_Witchcraft
+National Maritime Museum Cornwall	in_Cornwall	Other	/wiki/National_Maritime_Museum_Cornwall
+Newlyn Art Gallery	in_Cornwall	Other	/wiki/Newlyn_Art_Gallery
+Newquay Heritage Archive & Museum	in_Cornwall	Other	
+North Cornwall Museum and Art Gallery	in_Cornwall	Local	/wiki/North_Cornwall_Museum_and_Art_Gallery
+Padstow Museum	in_Cornwall	Other	
+Pencarrow	in_Cornwall	Other	/wiki/Pencarrow_(mansion)
+Pendennis Castle	in_Cornwall	Other	/wiki/Pendennis_Castle
+Penlee House	in_Cornwall	Other	/wiki/Penlee_House
+Penryn Museum	in_Cornwall	Other	
+Perranzabuloe Museum	in_Cornwall	Other	/w/index.php?title=Perranzabuloe_Museum&action=edit&redlink=1
+Poldark Mine	in_Cornwall	Other	/wiki/Poldark_Mine
+Polperro Heritage Museum of Smuggling and Fishing	in_Cornwall	Other	
+Port Eliot	in_Cornwall	Other	/wiki/Port_Eliot
+Porthcurno Telegraph Museum	in_Cornwall	Historic	/wiki/Porthcurno_Telegraph_Museum
+Prideaux Place	in_Cornwall	Other	/wiki/Prideaux_Place
+Redruth Old Cornwall Society Museum	in_Cornwall	Other	
+Royal Cornwall Museum	in_Cornwall	Other	/wiki/Royal_Cornwall_Museum
+Saltash Museum	in_Cornwall	Other	/w/index.php?title=Saltash_Museum&action=edit&redlink=1
+Shire Horse Farm and Carriage Museum	in_Cornwall	Other	
+St Agnes Museum	in_Cornwall	Other	/w/index.php?title=St_Agnes_Museum&action=edit&redlink=1
+St Hilary Heritage Centre	in_Cornwall	Other	/wiki/St_Hilary_Church,_Cornwall
+St Ives Museum	in_Cornwall	Other	
+St Michael's Mount	in_Cornwall	Other	/wiki/St_Michael%27s_Mount
+Stuart House	in_Cornwall	Other	
+Tate St Ives	in_Cornwall	Other	/wiki/Tate_St_Ives
+Tintagel Old Post Office	in_Cornwall	Other	/wiki/Tintagel_Old_Post_Office
+Tolgus Tin Mill	in_Cornwall	Other	/w/index.php?title=Tolgus_Tin_Mill&action=edit&redlink=1
+Trerice	in_Cornwall	Other	/wiki/Trerice
+Valhalla Museum	in_Cornwall	Other	/wiki/Tresco_Abbey_Gardens#Valhalla_Museum
+Wayside Folk Museum	in_Cornwall	Local	/wiki/Wayside_Folk_Museum
+Wheal Martyn China Clay Country Park	in_Cornwall	Other	/w/index.php?title=Wheal_Martyn_China_Clay_Country_Park&action=edit&redlink=1

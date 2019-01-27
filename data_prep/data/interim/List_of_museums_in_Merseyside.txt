@@ -1,0 +1,40 @@
+name	county	type	wikipedia_link
+20 Forthlin Road	in_Merseyside	Other	/wiki/20_Forthlin_Road
+The Atkinson	in_Merseyside	Other	/wiki/The_Atkinson
+The Beatles Story	in_Merseyside	Other	/wiki/The_Beatles_Story
+Birkenhead Priory and St Mary's Tower	in_Merseyside	Other	/wiki/Birkenhead_Priory
+Bluecoat Chambers	in_Merseyside	Other	/wiki/Bluecoat_Chambers
+British Lawnmower Museum	in_Merseyside	Other	/wiki/British_Lawnmower_Museum
+Croxteth Hall	in_Merseyside	Other	/wiki/Croxteth_Hall
+Fort Perch Rock	in_Merseyside	Other	/wiki/Fort_Perch_Rock
+Foundation for Art and Creative Technology	in_Merseyside	Other	/wiki/Foundation_for_Art_and_Creative_Technology
+Garstang Museum of Archaeology	in_Merseyside	Other	
+The Hardmans' House	in_Merseyside	Other	/wiki/59_Rodney_Street
+International Slavery Museum	in_Merseyside	Historic	/wiki/International_Slavery_Museum
+Lady Lever Art Gallery	in_Merseyside	Other	/wiki/Lady_Lever_Art_Gallery
+Leasowe Lighthouse	in_Merseyside	Other	/wiki/Leasowe_Lighthouse
+Liverpool Cathedral	in_Merseyside	Other	/wiki/Liverpool_Cathedral
+Mendips	in_Merseyside	Other	/wiki/251_Menlove_Avenue
+Merseyside Fire Service Heritage and Education Centre	in_Merseyside	Other	
+Merseyside Maritime Museum	in_Merseyside	Other	/wiki/Merseyside_Maritime_Museum
+Museum of Liverpool	in_Merseyside	Other	/wiki/Museum_of_Liverpool
+North West Museum of Road Transport	in_Merseyside	Other	/wiki/North_West_Museum_of_Road_Transport
+The Oratory	in_Merseyside	Other	/wiki/The_Oratory
+Port Sunlight Museum & Garden Village	in_Merseyside	Other	/w/index.php?title=Port_Sunlight_Museum_%26_Garden_Village&action=edit&redlink=1
+Prescot Museum	in_Merseyside	Other	/w/index.php?title=Prescot_Museum&action=edit&redlink=1
+Smithy Heritage Centre	in_Merseyside	Other	
+Spaceport	in_Merseyside	Other	/wiki/Spaceport_(Seacombe)
+Speke Hall	in_Merseyside	Other	/wiki/Speke_Hall
+St. George's Hall	in_Merseyside	Historic	/wiki/St._George%27s_Hall,_Liverpool
+Sudley House	in_Merseyside	Other	/wiki/Sudley_House
+Tate Hall Museum	in_Merseyside	Other	/wiki/Tate_Hall_Museum
+Tate Liverpool	in_Merseyside	Other	/wiki/Tate_Liverpool
+U-boat Story	in_Merseyside	Other	/wiki/German_submarine_U-534
+Victoria Gallery & Museum	in_Merseyside	Other	/wiki/Victoria_Gallery_%26_Museum
+Walker Art Gallery	in_Merseyside	Other	/wiki/Walker_Art_Gallery
+Western Approaches - Liverpool War Museum	in_Merseyside	Other	/wiki/Western_Approaches_Command
+Williamson Art Gallery and Museum	in_Merseyside	Other	/wiki/Williamson_Art_Gallery_and_Museum
+Williamson Tunnels Heritage Centre	in_Merseyside	Other	/wiki/Williamson_Tunnels
+Wirral Transport Museum	in_Merseyside	Other	/wiki/Wirral_Transport_Museum
+World Museum	in_Merseyside	Historic	/wiki/World_Museum
+World of Glass (St Helens)	in_Merseyside	Other	/w/index.php?title=World_of_Glass_(St_Helens)&action=edit&redlink=1
