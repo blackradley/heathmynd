@@ -5,16 +5,12 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
 import helpers_list
 import helpers_geo
-import os
 
 ceremonial_counties_of_england = helpers_list.get_counties_england_ceremonial()
 ceremonial_counties_of_england = ['in_Bristol', 'in_Cornwall', 'in_Devon', 
         'in_Dorset', 'in_Gloucestershire', 'in_Somerset', 'in_Wiltshire']
 ceremonial_counties_of_england = ['in_Leicestershire']
 ceremonial_counties_of_england = ['in_Essex']
-
-
-print os.getcwd()
 
 for county in ceremonial_counties_of_england:
     print '\n---'
