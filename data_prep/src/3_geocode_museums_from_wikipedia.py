@@ -5,22 +5,27 @@ __copyright__ = "Copyright (c) 2016 Black Radley Limited."
 
 import helpers_list
 import helpers_geo
+import os
 
-ceremonial_counties_of_england = helpers_list.get_ceremonial_counties_of_england()
-ceremonial_counties_of_england = ['Bristol', 'Cornwall', 'Devon', 'Dorset', 'Gloucestershire', 'Somerset', 'Wiltshire']
-ceremonial_counties_of_england = ['Leicestershire']
-ceremonial_counties_of_england = ['Essex']
+ceremonial_counties_of_england = helpers_list.get_counties_england_ceremonial()
+ceremonial_counties_of_england = ['in_Bristol', 'in_Cornwall', 'in_Devon', 
+        'in_Dorset', 'in_Gloucestershire', 'in_Somerset', 'in_Wiltshire']
+ceremonial_counties_of_england = ['in_Leicestershire']
+ceremonial_counties_of_england = ['in_Essex']
+
+
+print os.getcwd()
 
 for county in ceremonial_counties_of_england:
     print '\n---'
-    museum_list_file_name = './data/List_of_museums_' + county + '.txt'
-    output_file_name = './data/List_of_museums_' + county + '_.txt'
+    museum_list_file_name = './data/interim/List_of_museums_' + county + '.txt'
+    output_file_name = './data/interim/List_of_museums_' + county + '_.txt'
     print 'Output to: ' + output_file_name
 
-    with open(wikipedia_file_name, "r") as wikipedia_file, codecs.open(output_file_name, "w", "utf-8") as output_file:
+    with open(museum_list_file_name, "r") as wikipedia_file, open(output_file_name, "w", "utf-8") as output_file:
         output_file.write('name\tcounty\ttype\twikipedia_link\n')
 
-output_file_name = '../upload/List_of_museums.txt'
+output_file_name = '../data/interim/List_of_museums.txt'
 print 'Output to: ' + output_file_name
 output_file = open(output_file_name,"wb")
 output_file.write('name\tlink\ttype\ticon\tlat\tlng\tcounty\n')
