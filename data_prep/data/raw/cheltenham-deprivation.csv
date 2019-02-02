@@ -1,4 +1,4 @@
-Postcode,Postcode Status,LSOA Code,LSOA Name,Index of Multiple Deprivation Rank,Index of Multiple Deprivation Decile
+postcode,postcode_status,LSOA_code,LSOA_name,index_of_multiple_deprivation_rank int,index_of_multiple_deprivation_decile
 GL50 1AA,Terminated,E01022153,Cheltenham 004D E01022153,6686,3
 GL50 1AD,Live,E01022117,Cheltenham 009B E01022117,18120,6
 GL50 1AE,Terminated,E01022152,Cheltenham 004C E01022152,2413,1

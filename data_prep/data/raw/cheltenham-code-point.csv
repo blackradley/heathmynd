@@ -1,3 +1,4 @@
+postcode,positional_quality_indicator,eastings,northings,country_code,NHS_regional_HA_code,NHS_HA_code,admin_county_code,admin_district_code,admin_ward_code
 "GL1 1AD",10,383316,218534,"E92000001","E19000002","E18000010","E10000013","E07000081","E05010967"
 "GL1 1AE",10,382994,217975,"E92000001","E19000002","E18000010","E10000013","E07000081","E05010967"
 "GL1 1AG",10,383134,218436,"E92000001","E19000002","E18000010","E10000013","E07000081","E05010967"
