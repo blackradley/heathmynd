@@ -21,7 +21,13 @@ def main():
     simplify_deprivation(DEPRIVATION_IN, DEPRIVATION_OUT)
 
 def simplify_code_point(in_file_path, out_file_path):
-    """ Get the postcode and convert the UK grid references to WGS84 """
+    """ Get the postcode and convert the UK grid references to WGS84
+    
+    Ordnance Survey maintains the centroid of the postcode in UK
+    grid reference.  Google Maps uses World Geodetic System (WGS84)
+    so the UK grid reference need to be converted.  This is done
+    mathematically.  Theoretically this isn't precise, but it is 
+    surely going to be precise enough for out purposes. """
     with open(in_file_path, "rb") as in_file, open(out_file_path, "wb") as out_file:
         code_point_reader = csv.reader(in_file, delimiter=",", quotechar='"')
         next(code_point_reader, None)  # skip the original headers
@@ -42,8 +48,9 @@ def simplify_deprivation(in_file_path, out_file_path):
     I don't think we need terminated postcodes so I am only selecting the
     Live ones.  The Terminated postcodes are maintained by the ONS, I am
     assuming so they can do comparisons across time or something like that.
-    The ONS uses a different set of geographis areas but they aren't so
-    meaningful to people so I am going with postcodes. """
+    The ONS uses a different set of geographic areas but they aren't so
+    meaningful to people so I am going with postcodes. About 30% of the
+    Cheltenham postcodes are terminated. """
     with open(in_file_path, "rb") as in_file, open(out_file_path, "wb") as out_file:
         deprivation_reader = csv.reader(in_file, delimiter=",", quotechar='"')
         next(deprivation_reader, None)  # skip the original headers
