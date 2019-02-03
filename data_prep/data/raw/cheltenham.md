@@ -19,6 +19,13 @@ SELECT * FROM code_point LIMIT 5;
 "GL1 1AH",10,384609,218051,E92000001,E19000002,E18000010,E10000013,E07000081,E05010955
 "GL1 1AJ",50,384609,218051,E92000001,E19000002,E18000010,E10000013,E07000081,E05010955
 
+SELECT code_point.postcode, deprivation.postcode 
+FROM code_point INNER JOIN deprivation 
+ON REPLACE(code_point.postcode, ' ','') = REPLACE(deprivation.postcode, ' ', '')
+LIMIT 10;
+
+SELECT postcode from code_point
+
 .import ..\\raw\\cheltenham-deprivation.csv deprivation
 
 SELECT * FROM deprivation LIMIT 5;
@@ -28,6 +35,10 @@ SELECT * FROM deprivation LIMIT 5;
 "GL50 1AE",Terminated,E01022152,"Cheltenham 004C E01022152",2413,1
 "GL50 1AF",Live,E01022117,"Cheltenham 009B E01022117",18120,6
 "GL50 1AP",Live,E01022126,"Cheltenham 009F E01022126",17934,6
+
+
+ 
+
 
 sqlite> .quit
 
