@@ -6,7 +6,7 @@ shit.py
 */CACHE/*
 data_prep/data/interim/*
 !data_prep/data/interim/.gitkeep
-
+.vscode/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
