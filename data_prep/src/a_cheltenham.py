@@ -22,25 +22,32 @@ def main():
 
 def simplify_code_point(in_file_path, out_file_path):
     """ Get the postcode and convert the UK grid references to WGS84
-    
+
     Ordnance Survey maintains the centroid of the postcode in UK
     grid reference.  Google Maps uses World Geodetic System (WGS84)
     so the UK grid reference need to be converted.  This is done
-    mathematically.  Theoretically this isn't precise, but it is 
+    mathematically.  Theoretically this isn't precise, but it is
     surely going to be precise enough for out purposes. """
     with open(in_file_path, "rb") as in_file, open(out_file_path, "wb") as out_file:
         code_point_reader = csv.reader(in_file, delimiter=",", quotechar='"')
         next(code_point_reader, None)  # skip the original headers
         code_point_writer = csv.writer(out_file)
-        code_point_writer.writerow(["postcode", "latitude", "longitude"]) # write new headers
+        code_point_writer.writerow(["postcode", "latitude_bl", "longitude_bl",
+                                    "latitude_tr", "longitude_tr"]) # write new headers
         for row in code_point_reader:
             postcode = __minify_postcode(row[0])
             eastings = int(row[2])
             northings = int(row[3])
-            wgs84_coordinate = convert_lonlat([eastings], [northings]) # in the house and up the stairs
-            longitude = wgs84_coordinate[0][0]
-            latitude = wgs84_coordinate[1][0]
-            code_point_writer.writerow([postcode, latitude, longitude])
+            wgs84_coordinate = convert_lonlat([eastings], [northings]) # in the house, up the stairs
+            longitude_bl = round(wgs84_coordinate[0][0], 5)
+            latitude_bl = round(wgs84_coordinate[1][0], 5)
+            eastings = eastings + 5
+            northings = northings + 5
+            wgs84_coordinate = convert_lonlat([eastings], [northings])
+            longitude_tr = round(wgs84_coordinate[0][0], 5)
+            latitude_tr = round(wgs84_coordinate[1][0], 5)
+            code_point_writer.writerow([postcode, latitude_bl, longitude_bl,
+                                        latitude_tr, longitude_tr])
 
 def simplify_deprivation(in_file_path, out_file_path):
     """ Just get the postcode and the deprivation score
