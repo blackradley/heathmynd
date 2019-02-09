@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cheltenham</name>
+	<Folder>
+		<name>Deprivation</name>
+		<Placemark>
+			<name>GL11AB</name>
+			<Style>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+								-2.07638,51.89363,60 -2.07628,51.89363,60 -2.07628,51.89353,60 -2.07638,51.89353,60 -2.07638,51.89363,60  
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>GL11AF</name>
+			<Style>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-2.07738,51.89363,30 -2.07728,51.89363,30 -2.07728,51.89353,30 -2.07738,51.89353,30 -2.07738,51.89363,30  
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>GL11AD</name>
+			<Style>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-2.07738,51.89463,40 -2.07728,51.89463,40 -2.07728,51.89453,40 -2.07738,51.89453,40 -2.07738,51.89463,40  
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
