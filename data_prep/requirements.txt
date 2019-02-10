@@ -3,3 +3,4 @@ beautifulsoup4==4.6.0
 lxml==3.8.0
 tinydb==3.4.0
 convertbng=0.6.9
+jinja2==2.10

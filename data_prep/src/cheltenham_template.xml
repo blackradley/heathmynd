@@ -3,9 +3,9 @@
 <Document>
 	<name>Cheltenham</name>
 	<Folder>
-		<name>Deprivation</name>
+	<name>Deprivation</name>{% for postcode in postcodes %}
 		<Placemark>
-			<name>GL11AB</name>
+			<name>{{postcode['postcode']}}</name>
 			<Style>
 				<PolyStyle>
 					<color>ff0000ff</color>
@@ -18,52 +18,16 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-								-2.07638,51.89363,60 -2.07628,51.89363,60 -2.07628,51.89353,60 -2.07638,51.89353,60 -2.07638,51.89363,60  
+						{{postcode['longitude_bl']}},{{postcode['latitude_bl']}},{{(postcode['decile'])|int*20}}
+						{{postcode['longitude_bl']}},{{postcode['latitude_tr']}},{{(postcode['decile'])|int*20}}
+						{{postcode['longitude_tr']}},{{postcode['latitude_tr']}},{{(postcode['decile'])|int*20}}
+						{{postcode['longitude_tr']}},{{postcode['latitude_bl']}},{{(postcode['decile'])|int*20}}
+						{{postcode['longitude_bl']}},{{postcode['latitude_bl']}},{{(postcode['decile'])|int*20}}
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>GL11AF</name>
-			<Style>
-				<PolyStyle>
-					<color>ff0000ff</color>
-					<colorMode>normal</colorMode>
-				</PolyStyle>
-			</Style>
-			<Polygon>
-				<extrude>1</extrude>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							-2.07738,51.89363,30 -2.07728,51.89363,30 -2.07728,51.89353,30 -2.07738,51.89353,30 -2.07738,51.89363,30  
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>GL11AD</name>
-			<Style>
-				<PolyStyle>
-					<color>ff0000ff</color>
-					<colorMode>normal</colorMode>
-				</PolyStyle>
-			</Style>
-			<Polygon>
-				<extrude>1</extrude>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							-2.07738,51.89463,40 -2.07728,51.89463,40 -2.07728,51.89453,40 -2.07738,51.89453,40 -2.07738,51.89463,40  
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
+		</Placemark>{% endfor %}
 	</Folder>
 </Document>
 </kml>
