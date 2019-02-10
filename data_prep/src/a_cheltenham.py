@@ -10,9 +10,9 @@ import csv
 from convertbng.util import convert_bng, convert_lonlat
 
 package_directory = os.path.dirname(os.path.abspath(__file__))
-CODE_POINT_IN = os.path.join(package_directory, "../data/raw/cheltenham-code-point.csv")
+CODE_POINT_IN = os.path.join(package_directory, "../data/external/cheltenham-code-point.csv")
 CODE_POINT_OUT = os.path.join(package_directory, "../data/interim/cheltenham-code-point.csv")
-DEPRIVATION_IN = os.path.join(package_directory, "../data/raw/cheltenham-deprivation.csv")
+DEPRIVATION_IN = os.path.join(package_directory, "../data/external/cheltenham-deprivation.csv")
 DEPRIVATION_OUT = os.path.join(package_directory, "../data/interim/cheltenham-deprivation.csv")
 
 def main():
